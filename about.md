@@ -12,4 +12,4 @@ My Full Name: "Dendy Octavian", just it.
 
 ### Contact me
 
-[dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com)
+[dandyoctavian@yahoo.co.jp](mailto:dandyoctavian@yahoo.co.jp)
