@@ -1,11 +1,11 @@
 ---
 layout: post
-title: API UJian Daring
+title: API Ujian Daring
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/APILOGIN_UJIAN.php.svg)
 
-API Untuk Login Ujian
+API Untuk Login Ujian.
 
 
 
