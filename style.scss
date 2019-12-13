@@ -192,16 +192,15 @@ img {
 
 .site-name {
   margin: 0;
-  color: $white;
-  background-color: $darkGray;
+  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
 	:hover{
-		color: $darkGray;
-        background-color: $white;
+		color: $white;
+        background-color: $darkGray;
 	}
 }
 
@@ -213,6 +212,10 @@ img {
   @include mobile {
     margin: 3px 0;
   }
+	:hover{
+		color: $white;
+        background-color: #0099ff;
+	}
 }
 
 nav {
