@@ -208,14 +208,14 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
 	:hover{
 		color: $white;
         background-color: #0099ff;
 	}
+
+  @include mobile {
+    margin: 3px 0;
+  }
 }
 
 nav {
