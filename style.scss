@@ -199,6 +199,10 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+	a:hover{
+		color: $darkGray;
+        background-color: $white;
+	}
 }
 
 .site-description {
