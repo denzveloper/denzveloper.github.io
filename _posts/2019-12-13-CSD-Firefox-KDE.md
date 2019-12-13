@@ -8,6 +8,7 @@ title: CSD gap space Firefox Problem in KDE
 ## Disclamer
 This doensnt working on Firefox v.66
 
+## Configuration
 Modify file ***userChrome.css*** on */home/USER/.mozilla/firefox/[profile-id].default/chrome/userChrome.css*. if doesnt exists you can create that.
 
 The file should contain these lines:
