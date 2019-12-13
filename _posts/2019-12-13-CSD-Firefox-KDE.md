@@ -6,7 +6,7 @@ title: CSD gap space Firefox Problem in KDE
 ![_config.yml]({{ site.baseurl }}/images/ssff.png)
 
 ## Disclamer
-This doensnt working on Firefox v.66
+This **doesnt working on Firefox v.66**
 
 ## Configuration
 Modify file ***userChrome.css*** on */home/USER/.mozilla/firefox/[profile-id].default/chrome/userChrome.css*. if doesnt exists you can create that.
