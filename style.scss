@@ -46,6 +46,10 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  :hover{
+		color: $white;
+        background-color: $darkGray;
+  }
   a {
     color: inherit;
   }
@@ -208,10 +212,6 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-	:hover{
-		color: $white;
-        background-color: #0099ff;
-	}
 
   @include mobile {
     margin: 3px 0;
