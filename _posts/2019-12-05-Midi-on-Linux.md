@@ -17,7 +17,7 @@ You must set a default soundfont with the following command:
 
     ln -s /usr/share/soundfonts/FluidR3_GM.sf2 /usr/share/soundfonts/default.sf2
 
-You may want to start the MIDI synth automatically when you log in your desktop, so you can launch Frescobaldi right away. If your distro is using systemd, you may set up a service file for your user only.
+You may want to start the MIDI synth automatically when you log in your desktop, so you can play midi in media player right away. If your distro is using systemd, you may set up a service file for your user only.
 
 Create the file in systemd directory, in this exact location: `~/.config/systemd/user/fluidsynth.service`.
 The file should contain these lines:
