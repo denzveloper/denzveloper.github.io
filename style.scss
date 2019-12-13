@@ -46,10 +46,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  :hover{
-		color: $white;
-        background-color: $darkGray;
-  }
   a {
     color: inherit;
   }
@@ -289,6 +285,11 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+:title {
+	color: $white;
+    background-color: $darkGray;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
