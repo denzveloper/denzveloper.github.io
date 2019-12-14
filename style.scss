@@ -292,6 +292,30 @@ footer {
     background-color: $darkGray;
 }
 
+.pagination {
+    background-color: $lightGray;
+}
+
+.previous {
+	color: $white;
+    background-color: $darkGray;
+	text-align: left;
+	:hover {
+		color: $darkGray;
+        background-color: $lightGray;
+	}
+}
+
+.next {
+	color: $white;
+    background-color: $darkGray;
+	text-align: right;
+	:hover {
+		color: $darkGray;
+        background-color: $lightGray;
+	}
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
