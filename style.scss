@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -288,28 +288,15 @@ footer {
 }
 
 .title {
-	color: $white;
-    background-color: $darkGray;
+  color: $white;
+  background-color: $darkGray;
 }
 
 .pagination {
-	width: 100%;
-}
-
-.previous {
-	text-align: left;
-	:hover {
-		color: $white;
-    	background-color: $darkGray;
-	}
-}
-
-.next {
-	text-align: right;
-	:hover {
-		color: $white;
-    	background-color: $darkGray;
-	}
+  font-family: $helveticaNeue;
+  font-size: 20px;
+  text-align: center;
+  width: 100%;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
