@@ -85,6 +85,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - googled54fc4d0df45c2b9.html
 
 #Paging
 paginate: 5
