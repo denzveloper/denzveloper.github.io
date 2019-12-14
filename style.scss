@@ -293,26 +293,22 @@ footer {
 }
 
 .pagination {
-    background-color: $lightGray;
+	width: 100%;
 }
 
 .previous {
-	color: $white;
-    background-color: $darkGray;
 	text-align: left;
 	:hover {
-		color: $darkGray;
-        background-color: $lightGray;
+		color: $white;
+    	background-color: $darkGray;
 	}
 }
 
 .next {
-	color: $white;
-    background-color: $darkGray;
 	text-align: right;
 	:hover {
-		color: $darkGray;
-        background-color: $lightGray;
+		color: $white;
+    	background-color: $darkGray;
 	}
 }
 
