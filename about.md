@@ -12,7 +12,7 @@ Just Student to learn something.
 **DENZVELOPER** atau sekarang berubah menjadi **DzEN/DzEN**. Keduanya adalah *nickname* untuk Saya sendiri. Nama **DENZVELOPER** sekarang sudah berubah menjadi **DzEN/DzEN** agar tidak terlalu mencolok karena nama **DENZVELOPER** (Gabungan kata dari **DENDY** dan ***DEVELOPER***). Walau begitu nama DENZVELOPER masih dipertahankan untuk beberapa tempat karena sudah terikat dibeberapa akun dan tautan.
 DENZVELOPER sendiri seperti diatas itu hanyalah permainan gabungan kata dari **DENDY** dan ***DEVELOPER*** yang berarti Dendy si Pengembang (***DEVELOPER***) .
 
-**DzEN/DzEN** (dibaca: zenzen/*ゼンゼン*「"*z*" dihilangkan pembacaannya」) sendiri akronim dari nama Saya sendiri **DEN**DY dan ditambah huruf "*z*" diantara "*D*" dan "*N*". dalam pelafalan jepang bisa dibaca dengan huruf katakana "*ゼンゼン*" (Mungkin, Ada sedikit hubungannya dengan "*全然*" :) ). **DzEN/DzEN** ini tidak ada sangkut pautnya dengan proyek **Dzen** milik *Robert Manea*. **DzEN/DzEN** menggantikan *nickname* **DENZVELOPER** pada tahun 2017.
+**DzEN/DzEN** (dibaca: zenzen/*ゼンゼン*「"*D*" dihilangkan pembacaannya」) sendiri akronim dari nama Saya sendiri **DEN**DY dan ditambah huruf "*z*" diantara "*D*" dan "*N*". dalam pelafalan jepang bisa dibaca dengan huruf katakana "*ゼンゼン*" (Mungkin, Ada sedikit hubungannya dengan "*全然*" :) ). **DzEN/DzEN** ini tidak ada sangkut pautnya dengan proyek **Dzen** milik *Robert Manea*. **DzEN/DzEN** menggantikan *nickname* **DENZVELOPER** pada tahun 2017.
 
 ### More Information
 
