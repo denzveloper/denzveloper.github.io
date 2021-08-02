@@ -47,7 +47,14 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    display: table;
+  	padding: 7px 0px 0px 7px;
+  	color: $white;
+  	background-color: $darkGray;
+  	:hover{
+  		color: $gray;
+  		background-color: $lightGray;
+  	}
   }
 }
 
@@ -289,10 +296,13 @@ footer {
 
 .title {
   display: table;
-  margin: 0px auto 0px auto;
-  padding: 2px 5px 5px 4px;
+  padding: 7px 0px 0px 7px;
   color: $white;
   background-color: $darkGray;
+  :hover{
+  		color: $gray;
+  		background-color: $lightGray;
+  }
 }
 
 .pagination {
