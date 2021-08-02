@@ -198,11 +198,13 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  display: table;
   padding: 7px 0px 0px 7px;
 	:hover{
 		color: $white;
         background-color: $darkGray;
+	}
+	:hover::before{
+		content: ".";
 	}
 }
 
