@@ -288,6 +288,9 @@ footer {
 }
 
 .title {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 2px 5px 5px 4px;
   color: $white;
   background-color: $darkGray;
 }
