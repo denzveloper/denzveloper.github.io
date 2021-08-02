@@ -28,9 +28,10 @@ Untuk membuat TV lama anda bisa bernafas lebih lama (daripada dijual), Anda bisa
 ### Forum/Tanya-Jawab/informasi lebih lanjut?
 Anda bisa ikut bergabung di-grup non resmi TV Digital (Facebook):
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
+
 Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
-- surel: <helpdesk@pelayananprimaditjenppi.go.id>
-- telepon: 159
+- Surel: <helpdesk@pelayananprimaditjenppi.go.id>
+- Telepon: 159
 - Facebook: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Twitter: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Website: <https://siarandigital.kominfo.go.id/>
