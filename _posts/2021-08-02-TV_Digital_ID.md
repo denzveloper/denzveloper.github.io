@@ -5,7 +5,7 @@ title: Siaran TV Digital (Bahasa Indonesia)
 
 ![_config.yml]({{ site.baseurl }}/images/modi.webp)
 
-*Hanya Tersedia dalam Bahasa Indonesia, sebagai penyambut era TV-Digital di Indonesia*
+##### *Hanya Tersedia dalam Bahasa Indonesia, sebagai penyambut era TV-Digital di Indonesia*
 ## TV Digital?
 TV digital adalah siaran seperti TV biasa tapi dapat menerima modulasi/sistem sinyal baru, dimana formatnya berupa sistem biner (Angka nol dan satu) dibandingkan sistem TV lama yang berupa gelombang Analog, yang tinggi rendahnya gelombang bervariasi(nilainya tidak tetap) jadi kalau semakin jauh dari pemancar/relay atau ada gangguan alam seperti hujan atau gangguan dari pemancar lain yang mempunyai frekuensi yang sama akan mengakibatkan gambar berbayang, tidak jelas (tidak jernih), atau gambar 'bersemut'. Tapi dalam sistem digital tidak akan mengalami hal tersebut, karena digital hanya mengenal sistem biner yaitu nol dan satu atau ada dan tidak ada; maka efek berbayang, gambar tidak jernih, bahkan semut tidak akan ada, selama kita mendapapatkan sinyal dari pemancar. kalau tidak dapat sinyal sama sekali barulah benar-benar hilang/*blank*/kosong. dan dengan sistem digital seperti ini gambar yang diterima bisa memiliki resolusi tinggi (High Definition/HD).
 
