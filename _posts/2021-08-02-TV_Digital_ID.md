@@ -20,8 +20,8 @@ Belum tentu, bisa cek saja tv Anda sudah bertuliskan **DVB-T2** dan **Siap Digit
 ![_config.yml]({{ site.baseurl }}/images/dvbt2.png)
 
 ### TV saya hanya analog, cara dapat siaran digital gimana?
-Untuk membuat TV lama anda bisa bernafas lebih lama (daripada dijual), Anda bisa membeli Set Top Box Digital dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada Rekomendasi dari Kominfo).
-[Rekomendasi Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)
+Untuk membuat TV lama anda bisa bernafas lebih lama (daripada dijual), Anda bisa membeli Set Top Box Digital dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)).
+
 
 ## TV Digital Bersih, Jernih, Canggih!
 
