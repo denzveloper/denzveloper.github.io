@@ -198,13 +198,13 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  padding: 7px 0px 0px 7px;
 	:hover{
 		color: $white;
         background-color: $darkGray;
+        padding: 7px 0px 0px 7px;
 	}
-	:hover::before{
-		content: ".";
+	:hover::after{
+		content: "&#x2024;";
 	}
 }
 
