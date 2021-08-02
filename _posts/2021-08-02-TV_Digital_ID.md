@@ -20,7 +20,7 @@ Belum tentu, bisa cek saja tv Anda sudah bertuliskan **DVB-T2** dan **Siap Digit
 ![_config.yml]({{ site.baseurl }}/images/dvbt2.png)
 
 ### Antena saya sudah pakai P*-Digital, jadi bisa dapat sinyal digital?
-Jawabannya **Tidak**. Antena digital saja tidak bisa menangkap siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya. Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah.
+Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya. Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah.
 
 ### TV saya hanya analog, cara dapat siaran digital gimana?
 Untuk membuat TV lama anda bisa bernafas lebih lama (daripada dijual), Anda bisa membeli Set Top Box Digital dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)).
