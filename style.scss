@@ -47,14 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    display: table;
-  	padding: 7px 0px 0px 7px;
-  	color: $white;
-  	background-color: $darkGray;
-  	:hover{
-  		color: $gray;
-  		background-color: $lightGray;
-  	}
+    color: inherit;
   }
 }
 
