@@ -38,7 +38,7 @@ Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), A
 
 
 ### Cara pasang STB ke TV
-Jika anda memilih untuk membeli STB cara pemasangannya sangat mudah sekali! Tinggal colok antena ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih). Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan Anda pasang.
+Jika anda memilih untuk membeli STB cara pemasangannya sangat mudah sekali! Tinggal colok antena ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih). Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang.
 
 
 ### Jangkauan sinyal TV Digital
@@ -52,6 +52,7 @@ Jadwal pematian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) ak
 3. Tahap III → 31 Maret 2022
 4. Tahap IV → 17 Agustus 2022
 5. Tahap V → 2 November 2022
+
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
 
@@ -72,4 +73,4 @@ Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 ## TV Digital Bersih, Jernih, Canggih!
 
 
- *^(Diperbarui 2021-08-02)*
+ *^(Diperbarui 2021-08-05)*
