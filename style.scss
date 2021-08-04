@@ -292,8 +292,10 @@ footer {
 }
 
 .title {
-  display: table;
-  padding: 7px 0px 0px 7px;
+  padding-left: 3px;
+  padding-top: 8px;
+  padding-bottom: 4px;
+  padding-right: 10px;
   color: $white;
   background-color: $darkGray;
   :hover{
