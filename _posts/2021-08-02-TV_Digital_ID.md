@@ -15,7 +15,7 @@ Sudah hampir 60 tahun (2021) Indonesia sudah menggunakan sistem siaran Analog-Er
 
 
 ### Standar Digital
-Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Amerika, DTMB milik Tiongkok, ISDB milik Jepang, dan DVB milik Eropa. Di Indonesia sendiri memilih sistem siaran digital milik Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), dan standar DVB-S atau DVB-S2 untuk TV satelit/parabola. Jadi jangan sampai salah membeli!
+Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Amerika, DTMB milik Tiongkok, ISDB milik Jepang, dan DVB milik Eropa. Di Indonesia sendiri memilih sistem siaran digital milik Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli!
 
 
 ### Apakah TV Digital ada biaya?
