@@ -311,6 +311,16 @@ footer {
   width: 100%;
 }
 
+table {
+    line-height: 1.6;
+    text-align: center;
+    box-sizing: border-box;
+    td {
+        padding: .5rem .5rem .25rem;
+        font-family: "IBM Plex Mono",monospace;
+    }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
