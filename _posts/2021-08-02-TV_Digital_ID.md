@@ -82,9 +82,9 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 
 
 ### Sampel Video
-Ini adalah sampel video dari siaran DVB-T2 berformat SD dan HD. Hak Cipta milik channel/program TV terkait. Waktu perekaman 09-08-2021 sekitar pukul 18 sore. (Catatan: Video sudah di format ulang agar bisa diputar lewat *browser*)
-![_config.yml]({{ site.baseurl }}/video/mentarihd-20210809181537.mp4)
-![_config.yml]({{ site.baseurl }}/video/bntv20210809181457.mp4)
+Ini adalah sampel video dari siaran DVB-T2 berformat SD dan HD. Hak Cipta milik channel/program TV terkait. Waktu perekaman 09-08-2021 sekitar pukul 18 sore. (Catatan: Video sudah di format ulang agar bisa diputar lewat *browser* dan kualitasnya mungkin lebih rendah dari yang sebenarnya)
+{{ site.baseurl }}/video/mentarihd-20210809181537.mp4
+{{ site.baseurl }}/video/bntv20210809181457.mp4
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
