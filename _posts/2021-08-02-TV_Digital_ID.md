@@ -56,7 +56,8 @@ Jadwal pematian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) ak
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
 
-### Tabel Konversi nomor kanal ke Frekuensi (MHz) 
+### Tabel Konversi nomor kanal ke Frekuensi (MHz)
+
 | VHF | MHz | VHF | MHz |
 | --- | --- | --- | --- |
 | 5   | 175 | 9   | 203 |
