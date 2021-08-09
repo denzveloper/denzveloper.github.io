@@ -57,7 +57,7 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 
 
 
-### Forum/Tanya-Jawab/informasi lebih lanjut?
+### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
 Anda bisa ikut bergabung di-grup non resmi TV Digital (Facebook):
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
@@ -69,6 +69,11 @@ Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 - Facebook: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Twitter: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Website: <https://siarandigital.kominfo.go.id/>
+
+
+Informasi teknis:
+- [PERSYARATAN TEKNIS ALAT DAN PERANGKAT PENERIMA…](https://web.kominfo.go.id/sites/default/files/Lampiran%20RPM%20Persyaratan%20Teknis%20Alat%20dan%20Perangkat%20Penerima%20Televisi%20Siaran%20Digital%20Berbasis%20Standard%20Digital%20Video%20Broadcasting%20Teresterial%20-%20Second%20Generation%20.pdf)
+
 
 
 
