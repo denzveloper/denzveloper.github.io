@@ -82,5 +82,5 @@ Informasi teknis:
 ## #TV Digital Bersih, Jernih, Canggih!
 
 
-*^(Diperbarui 2021-08-09)*
+*^(Diperbarui 2021-08-10)*
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog tahap 1 ditunda hingga waktu yang belum ditentukan. Karena Indonesia akan memfokuskan untuk penanggulangan COVID-19*
