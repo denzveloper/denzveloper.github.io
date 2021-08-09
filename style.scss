@@ -314,15 +314,16 @@ footer {
 table {
     line-height: 1.6;
     text-align: center;
-    box-sizing: border-box;
     margin: 1em 0;
     border: 1px solid #a2a9b1;
     padding: .5rem .5rem .25rem;
     th {
         font-weight: bold;
         background-color: #eaecf0;
+        border: 1px solid #a2a9b1;
     }
     td {
+        border: 1px solid #a2a9b1;
         font-family: "IBM Plex Mono",monospace;
     }
 }
