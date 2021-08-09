@@ -315,16 +315,16 @@ table {
     line-height: 1.6;
     text-align: center;
     margin: 1em 0;
-    border: 1px solid #a2a9b1;
-    padding: 0.2em 0.4em;
     th {
         font-weight: bold;
         background-color: #eaecf0;
         border: 1px solid #a2a9b1;
+        padding: 0.2em 0.4em;
     }
     td {
         border: 1px solid #a2a9b1;
         font-family: "IBM Plex Mono",monospace;
+        padding: 0.2em 0.4em;
     }
 }
 
