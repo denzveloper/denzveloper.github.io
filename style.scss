@@ -316,8 +316,12 @@ table {
     text-align: center;
     box-sizing: border-box;
     margin: 1em 0;
+    border: 1px solid #a2a9b1;
+    padding: .5rem .5rem .25rem;
+    th {
+        font-weight: bold;
+    }
     td {
-        padding: .5rem .5rem .25rem;
         font-family: "IBM Plex Mono",monospace;
     }
 }
