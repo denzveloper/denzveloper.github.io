@@ -59,7 +59,9 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut?
 Anda bisa ikut bergabung di-grup non resmi TV Digital (Facebook):
+- [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
+
 
 Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 - Surel: <helpdesk@pelayananprimaditjenppi.go.id>
@@ -67,6 +69,7 @@ Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 - Facebook: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Twitter: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Website: <https://siarandigital.kominfo.go.id/>
+
 
 
 ---
