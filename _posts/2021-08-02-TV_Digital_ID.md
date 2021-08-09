@@ -81,12 +81,6 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 | 32  | 559 | 43  | 647 | 54  | 735 | \-  | \-  |
 
 
-### Sampel Video
-Ini adalah sampel video dari siaran DVB-T2 berformat SD dan HD. Hak Cipta milik channel/program TV terkait. Waktu perekaman 09-08-2021 sekitar pukul 18 sore. (Catatan: Video sudah di format ulang agar bisa diputar lewat *browser* dan kualitasnya mungkin lebih rendah dari yang sebenarnya)
-{{ site.baseurl }}/video/mentarihd-20210809181537.mp4
-{{ site.baseurl }}/video/bntv20210809181457.mp4
-
-
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
 Anda bisa ikut bergabung di-grup non resmi TV Digital (Facebook):
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
