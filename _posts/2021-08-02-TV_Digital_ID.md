@@ -47,11 +47,11 @@ Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.
 
 ### Jadwal ASO
 Jadwal pematian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 5 tahap:
-1. Tahap I → ??-??-2021
-2. Tahap II → ??-??-2021
-3. Tahap III → ??-??-2022
-4. Tahap IV → ??-??-2022
-5. Tahap V → ??-??-2022
+1. Tahap I → ??-??-2021 (Sedang dijadwalkan ulang)
+2. Tahap II → 31 Desember 2021
+3. Tahap III → 31 Maret 2022
+4. Tahap IV → 17 Agustus 2022
+5. Tahap V → 02 November 2022
 
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
@@ -74,5 +74,5 @@ Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 ## #TV Digital Bersih, Jernih, Canggih!
 
 
-*^(Diperbarui 2021-08-07)*
-*^Informasi: (06-08-2021) Semua Jadwal Penghentian Analog berubah. karena Indonesia akan memfokuskan untuk penanggulangan COVID-19*
+*^(Diperbarui 2021-08-09)*
+*^Informasi: (06-08-2021) Jadwal Penghentian Analog tahap 1 ditunda hingga waktu yang belum ditentukan. Karena Indonesia akan memfokuskan untuk penanggulangan COVID-19*
