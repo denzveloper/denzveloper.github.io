@@ -56,6 +56,39 @@ Jadwal pematian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) ak
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
 
+### Tabel Konversi nomor kanal ke Frekuensi (MHz) 
+| VHF | MHz | VHF | MHz |
+| --- | --- | --- | --- |
+| 5   | 175 | 9   | 203 |
+| 6   | 182 | 10  | 210 |
+| 7   | 189 | 11  | 217 |
+| 8   | 196 | 12  | 224 |
+
+
+| UHF | MHz | UHF | MHz |
+| --- | --- | --- | --- |
+| 22  | 479 | 43  | 647 |
+| 23  | 487 | 44  | 655 |
+| 24  | 495 | 45  | 663 |
+| 25  | 503 | 46  | 671 |
+| 26  | 511 | 47  | 679 |
+| 27  | 519 | 48  | 687 |
+| 28  | 527 | 49  | 695 |
+| 29  | 535 | 50  | 703 |
+| 30  | 543 | 51  | 711 |
+| 31  | 551 | 52  | 719 |
+| 32  | 559 | 53  | 727 |
+| 33  | 567 | 54  | 735 |
+| 34  | 575 | 55  | 743 |
+| 35  | 583 | 56  | 751 |
+| 36  | 591 | 57  | 759 |
+| 37  | 599 | 58  | 767 |
+| 38  | 607 | 59  | 775 |
+| 39  | 615 | 60  | 783 |
+| 40  | 623 | 61  | 791 |
+| 41  | 631 | 62  | 799 |
+| 42  | 639 |  -  |  -  |
+
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
 Anda bisa ikut bergabung di-grup non resmi TV Digital (Facebook):
