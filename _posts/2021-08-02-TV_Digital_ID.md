@@ -45,8 +45,8 @@ Jika anda memilih untuk membeli STB cara pemasangannya sangat mudah sekali! Ting
 Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referennsi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi.
 
 
-### Jadwal ASO
-Jadwal pematian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap:
+### Jadwal ASO (Analog Switch Off)
+Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap:
 1. Tahap I → 30 April 2022
 2. Tahap II → 31 Agustus 2022
 3. Tahap III → 2 November 2022
