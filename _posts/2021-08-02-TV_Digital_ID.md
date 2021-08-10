@@ -90,8 +90,8 @@ Sudah Digital:
 
 
 Belum Digital/Daya Lemah:
-* TVRI (687 MHz/48UHF)²: TVRI Nasional, TVRI JABAR, TVRI Sport → Lemah
 * Viva Group (679 MHz/47UHF)³: ANTV, TV One → Belum
+* TVRI (687 MHz/48UHF)²: TVRI Nasional, TVRI JABAR, TVRI Sport → Lemah
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, GunungJati; ³Cirebon, Weru.
@@ -123,5 +123,7 @@ Informasi teknis:
 ## #TV Digital Bersih, Jernih, Canggih!
 
 
+*^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
+
+
 *^(Diperbarui 2021-08-10)*
-*^Informasi: (06-08-2021) Jadwal Penghentian Analog tahap 1 ditunda hingga waktu yang belum ditentukan. Karena Indonesia akan memfokuskan untuk penanggulangan COVID-19*
