@@ -20,7 +20,7 @@ Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Ame
 
 ### Apakah TV Digital ada biaya?
 Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. Dimana sistem digital ini lebih baik dibanding sistem analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih.
-Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton tentunya gratis.
+Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton tentunya gratis tanpa biaya berlangganan.
 
 
 ### TV saya sudah LCD/LED, termasuk TV digital?
@@ -46,12 +46,10 @@ Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.
 
 
 ### Jadwal ASO
-Jadwal pematian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 5 tahap:
-1. Tahap I → ??-??-2021 (Sedang dijadwalkan ulang)
-2. Tahap II → 31 Desember 2021
-3. Tahap III → 31 Maret 2022
-4. Tahap IV → 17 Agustus 2022
-5. Tahap V → 02 November 2022
+Jadwal pematian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap:
+1. Tahap I → 30 April 2022
+2. Tahap II → 31 Agustus 2022
+3. Tahap III → 2 November 2022
 
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
@@ -79,6 +77,25 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 | 30  | 543 | 41  | 631 | 52  | 719 | \-  | \-  |
 | 31  | 551 | 42  | 639 | 53  | 727 | \-  | \-  |
 | 32  | 559 | 43  | 647 | 54  | 735 | \-  | \-  |
+
+### Saluran TV Digital wilayah JABAR-3 (Cirebon)
+Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
+
+
+Sudah Digital:
+1. MNC Group (506 MHz/25UHF): GTV, RCTI, MNCTV, iNews
+2. MEDIA GROUP (562 MHz/32UHF): METRO TV, MAGNA, BN TV 
+3. EMTEK/SCM (602 MHz/37UHF): SCTV, INDOSIAR, O Ch., Mentari TV 
+4. TRANS CORP (634 MHz/41UHF): TRANS TV, TRANS 7, CNN, CNBC
+
+
+Belum Digital/Daya Lemah:
+5. TVRI (687 MHz/48UHF): TVRI Nasional, TVRI JABAR, TVRI Sport → Lemah
+6. Viva Group (679 MHz/47UHF): ANTV, TV One → Belum
+
+
+Lokasi Pemancar/MUX: Cirebon, GunungJati (5); Cirebon, Weru (6);  Kuningan, Pasawahan(1,2,3,4).
+Lokasi berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php)
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
