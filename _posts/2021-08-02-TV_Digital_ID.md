@@ -92,12 +92,12 @@ Sudah Digital:
 
 
 Belum Digital/Daya Lemah:
-* Viva Group (679MHz/47UHF)³: ANTV, TV One → Belum Aktif
+* Viva Group (679MHz/47UHF)¹: ANTV, TV One → Belum Aktif
 * TVRI (687MHz/48UHF)²: TVRI Nasional, TVRI JABAR, TVRI Sport → Sinyal Lemah
 * RCTV - Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 
 
-Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
+Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ⁴Cirebon, Kesambi.
 Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php)
 
 
