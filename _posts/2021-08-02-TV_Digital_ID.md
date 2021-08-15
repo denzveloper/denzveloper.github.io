@@ -102,9 +102,10 @@ Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-2021020
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
-Anda bisa ikut bergabung di-grup non resmi TV Digital (Facebook):
+Anda bisa ikut bergabung di-grup non-resmi TV Digital (Facebook):
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
+- [Komunitas tv digital terestrial DVB-T2 Indonesia](https://www.facebook.com/groups/357305085288304)
 
 
 Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
