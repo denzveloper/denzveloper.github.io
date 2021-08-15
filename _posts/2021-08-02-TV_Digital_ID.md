@@ -5,7 +5,7 @@ title: Siaran TV Digital (Bahasa Indonesia)
 
 ![_config.yml]({{ site.baseurl }}/images/modi.webp)
 
-*Only Avaiable in Indonesian (Bahasa Indonesia) as a greeter era digital television in Indonesia*
+*Only Available in Indonesian (Bahasa Indonesia) as a greeter era digital television in Indonesia*
 
 
 ## TV Digital?
@@ -17,30 +17,29 @@ Sudah hampir 60 tahun (2021) Indonesia sudah menggunakan sistem siaran Analog-Er
 
 
 ### Standar Digital
-Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Amerika, DTMB milik Tiongkok, ISDB milik Jepang, dan DVB milik Eropa. Di Indonesia sendiri memilih sistem siaran digital milik Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli! Pilih yang **DVB-T2**!
+Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Amerika, DTMB milik Tiongkok, ISDB milik Jepang, dan DVB milik Eropa. Di Indonesia sendiri memilih sistem siaran digital milik Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli! Pilih yang berspesifikasi **DVB-T2**!
 
 
 ### Apakah TV Digital ada biaya?
-Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. Dimana sistem digital ini lebih baik dibanding sistem analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih.
-Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton tentunya gratis tanpa biaya berlangganan.
+Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. Dimana sistem digital ini lebih baik dibanding sistem analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
 
 
 ### TV saya sudah LCD/LED, termasuk TV digital?
-Belum tentu, bisa cek saja tv Anda sudah bertuliskan **DVB-T2** dan **Siap Digital** atau ada logo **DVB-T2**, Logo **Modi** atau di-menu pencarian ada tulisan/**Pencarian DTV**?
+**Belum tentu** TV Digital. Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda bertuliskan **DVB-T2** dan **Siap Digital** atau ada logo **DVB-T2**, Logo **Modi** ataupun bisa dicek pada menu pencarian ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
 ![_config.yml]({{ site.baseurl }}/images/dvbt2.png)
 ![_config.yml]({{ site.baseurl }}/images/modi.webp)
 
 
 ### Antena saya sudah pakai P*-Digital, jadi bisa dapat sinyal digital?
-Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya. Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah.
+Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" jangan berfikir bahwa Anda bisa menangkap sinyal digital. Oleh karena itu semua kembali lagi kepada TV yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
 
 
 ### TV saya hanya analog, cara dapat siaran digital gimana?
-Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli Set Top Box Digital dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)).
+Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli **Set Top Box** Digital DVB-T2 dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)). Set Top Box ini berguna untuk merubah atau mengkonversi sinyal Digital DVB-T2 yang ada disekitar area Anda menjadi sinyal yang dapat diterima di TV lama Anda melalui AV atau bahkan HDMI.
 
 
 ### Cara pasang STB ke TV
-Jika anda memilih untuk membeli STB cara pemasangannya sangat mudah sekali! Tinggal colok antena ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih). Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang.
+Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekali! Tinggal colok antena TV lama Anda ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih). Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang.
 
 
 ### Jangkauan sinyal TV Digital
@@ -130,4 +129,4 @@ Informasi teknis:
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
 
-*^(Diperbarui 2021-08-10)*
+*^(Diperbarui 2021-08-16)*
