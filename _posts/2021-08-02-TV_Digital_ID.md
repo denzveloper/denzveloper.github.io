@@ -97,7 +97,7 @@ Belum Digital/Daya Lemah:
 * RCTV - Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 
 
-Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi
+Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
 Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php)
 
 
