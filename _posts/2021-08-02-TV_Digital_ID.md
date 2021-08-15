@@ -85,18 +85,19 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 
 Sudah Digital:
-* MNC Group (506 MHz/25UHF)¹: GTV, RCTI, MNCTV, iNews
-* MEDIA Group (562 MHz/32UHF)¹: METRO TV, MAGNA, BN TV
-* EMTEK/SCM (602 MHz/37UHF)¹: SCTV, INDOSIAR, O Ch., Mentari TV
-* TRANSMEDIA (634 MHz/41UHF)¹: TRANS TV, TRANS 7, CNN, CNBC
+* MNC Group (506MHz/25UHF)¹: GTV, RCTI, MNCTV, iNews
+* MEDIA Group (562MHz/32UHF)¹: METRO TV, MAGNA, BN TV
+* EMTEK/SCM (602MHz/37UHF)¹: SCTV, INDOSIAR, O Ch., Mentari TV
+* TRANSMEDIA (634MHz/41UHF)¹: TRANS TV, TRANS 7, CNN, CNBC
 
 
 Belum Digital/Daya Lemah:
-* Viva Group (679 MHz/47UHF)³: ANTV, TV One → Belum
-* TVRI (687 MHz/48UHF)²: TVRI Nasional, TVRI JABAR, TVRI Sport → Lemah
+* Viva Group (679MHz/47UHF)³: ANTV, TV One → Belum Aktif
+* TVRI (687MHz/48UHF)²: TVRI Nasional, TVRI JABAR, TVRI Sport → Sinyal Lemah
+* RCTV - Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 
 
-Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, GunungJati; ³Cirebon, Weru.
+Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi
 Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php)
 
 
