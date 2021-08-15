@@ -25,13 +25,13 @@ Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sam
 
 
 ### TV saya sudah LCD/LED, termasuk TV digital?
-**Belum tentu** TV Digital. Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda bertuliskan **DVB-T2** dan **Siap Digital** atau ada logo **DVB-T2**, Logo **Modi** ataupun bisa dicek pada menu pencarian ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
+**Belum tentu** TV Digital. Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda adakah tulisan atau label **DVB-T2** dan **Siap Digital** atau ada logo **DVB-T2**, Logo **Modi** ataupun bisa dicek pada menu pencarian di-TV Anda apakah ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
 ![_config.yml]({{ site.baseurl }}/images/dvbt2.png)
 ![_config.yml]({{ site.baseurl }}/images/modi.webp)
 
 
 ### Antena saya sudah pakai P*-Digital, jadi bisa dapat sinyal digital?
-Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" jangan berfikir bahwa Anda bisa menangkap sinyal digital. Oleh karena itu semua kembali lagi kepada TV yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
+Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" Tidak serta-merta Anda bisa menangkap sinyal digital. Karena itu semua kembali lagi kepada TV yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
 
 
 ### TV saya hanya analog, cara dapat siaran digital gimana?
