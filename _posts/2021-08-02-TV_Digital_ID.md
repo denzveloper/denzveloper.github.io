@@ -13,7 +13,7 @@ TV digital adalah siaran seperti TV biasa tapi dapat menerima modulasi/sistem si
 
 
 ### Sejarah Analog dan Program TV
-Sudah hampir 60 tahun (2021) Indonesia sudah menggunakan sistem siaran Analog-Eropa(PAL-BG), dan sekarang penggunaan frekuensinya sudah penuh sesak. Karena sistem analog ini hanya bisa diisi satu program dalam satu frekuensi, apalagi setiap satu channel/kanal frekuensi ini lebarnya 8 MHz ditambah lagi untuk *spacing* antar kanal agar tidak saling menganggu satu dengan lainnya maka kira-kira dalam satu dareah maksimum ada 20 channel/program/saluran TV UHF (perhitungan dengan cara "(62-22)/2=20" → 62 Channel maksimum UHF,  22 Channel minimum UHF, dibagi 2 untuk *spacing*) itupun kalau daerahnya benar-benar tidak ada gangguan frekuensi yang sama dengan daerah sekitarnya, kalau ada 20 channel/program tersebut bisa kurang. Dalam sistem TV Digital satu ini dalam satu frekuensi bisa diisi hingga 12 program/saluran TV dalam satu frekuensi, jadi sekiranya kalo tidak ada gangguan dari daerah lain bisa ada 156 program (perhitungan dengan cara "((48-22)/2)×12=156" → 48 Channel maksium UHF (700MHz keatas akan digunakan untuk jaringan telepon), 22 channel minimum UHF, dibagi 2 untuk *spacing*, dikali 12 untuk banyaknya program dalam satu frekuensi/channel), banyak bukan? tapi tidak akan sebanyak itu, tiap daerah akan diberi porsi 6 channel/kanal saja, jadi setidaknya ada 72 saluran/program TV(6×12=72) maksimum. 72 program TV sudah lebih dari cukup, dibandingkan dengan Analog yang hanya 22 program/channel. *(catatan: TV digital Indonesia sepenuhnya menggunakan gelombang UHF, VHF? Tidak ada catatan atau informasi penggunaan gelombang VHF dalam digitalisai Televisi dan kemungkinan tidak akan ada)*
+Sudah hampir 60 tahun (2021, pada saat artikel ini dibuat) Indonesia sudah menggunakan sistem siaran Analog-Eropa(PAL-BG), dan sekarang penggunaan frekuensinya sudah penuh sesak. Karena sistem analog ini hanya bisa diisi satu program dalam satu frekuensi, apalagi setiap satu channel/kanal frekuensi ini lebarnya 8 MHz ditambah lagi untuk *spacing* antar kanal agar tidak saling menganggu satu dengan lainnya maka kira-kira dalam satu dareah maksimum ada 20 channel/program/saluran TV UHF (perhitungan dengan cara "(62-22)/2=20" → 62 Channel maksimum UHF,  22 Channel minimum UHF, dibagi 2 untuk *spacing*) itupun kalau daerahnya benar-benar tidak ada gangguan frekuensi yang sama dengan daerah sekitarnya, kalau ada 20 channel/program tersebut bisa kurang. Dalam sistem TV Digital satu ini dalam satu frekuensi bisa diisi hingga 12 program/saluran TV dalam satu frekuensi, jadi sekiranya kalo tidak ada gangguan dari daerah lain bisa ada 156 program (perhitungan dengan cara "((48-22)/2)×12=156" → 48 Channel maksium UHF (700MHz keatas akan digunakan untuk jaringan telepon), 22 channel minimum UHF, dibagi 2 untuk *spacing*, dikali 12 untuk banyaknya program dalam satu frekuensi/channel), banyak bukan? tapi tidak akan sebanyak itu, tiap daerah akan diberi porsi 6 channel/kanal saja, jadi setidaknya ada 72 saluran/program TV(6×12=72) maksimum. 72 program TV sudah lebih dari cukup, dibandingkan dengan Analog yang hanya 22 program/channel. *(catatan: TV digital Indonesia sepenuhnya menggunakan gelombang UHF, VHF? Tidak ada catatan atau informasi penggunaan gelombang VHF dalam digitalisai Televisi dan kemungkinan tidak akan ada)*
 
 
 ### Standar Digital
@@ -55,6 +55,10 @@ Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*)
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
 
+### Channel/Program di-TV saya semakin kok sedikit (Analog)?
+Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini) dari rencana/jadwal Kominfo.
+
+
 ### Tabel Konversi nomor kanal ke Frekuensi (MHz)
 
 | VHF | MHz | VHF | MHz |
@@ -67,23 +71,24 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 
 | UHF | MHz | UHF | MHz | UHF | MHz | UHF | MHz |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 22  | 479 | 33  | 567 | 44  | 655 | 55  | 743 |
-| 23  | 487 | 34  | 575 | 45  | 663 | 56  | 751 |
-| 24  | 495 | 35  | 583 | 46  | 671 | 57  | 759 |
-| 25  | 503 | 36  | 591 | 47  | 679 | 58  | 767 |
-| 26  | 511 | 37  | 599 | 48  | 687 | 59  | 775 |
-| 27  | 519 | 38  | 607 | 49  | 695 | 60  | 783 |
-| 28  | 527 | 39  | 615 | 50  | 703 | 61  | 791 |
-| 29  | 535 | 40  | 623 | 51  | 711 | 62  | 799 |
-| 30  | 543 | 41  | 631 | 52  | 719 | \-  | \-  |
-| 31  | 551 | 42  | 639 | 53  | 727 | \-  | \-  |
-| 32  | 559 | 43  | 647 | 54  | 735 | \-  | \-  |
+| 22  | 482 | 33  | 570 | 44  | 658 | 55  | 746 |
+| 23  | 490 | 34  | 578 | 45  | 666 | 56  | 754 |
+| 24  | 498 | 35  | 586 | 46  | 674 | 57  | 762 |
+| 25  | 506 | 36  | 594 | 47  | 682 | 58  | 770 |
+| 26  | 514 | 37  | 602 | 48  | 690 | 59  | 778 |
+| 27  | 522 | 38  | 610 | 49  | 698 | 60  | 786 |
+| 28  | 530 | 39  | 618 | 50  | 706 | 61  | 794 |
+| 29  | 538 | 40  | 626 | 51  | 714 | 62  | 802 |
+| 30  | 546 | 41  | 634 | 52  | 722 | \-  | \-  |
+| 31  | 554 | 42  | 642 | 53  | 730 | \-  | \-  |
+| 32  | 562 | 43  | 650 | 54  | 738 | \-  | \-  |
+
 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
 Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 
-Sudah Digital:
+Sudah Digital (4 MUX/15 Program):
 * MNC Group (506MHz/25UHF)¹: GTV, RCTI, MNCTV, iNews
 * MEDIA Group (562MHz/32UHF)¹: METRO TV, MAGNA, BN TV
 * EMTEK/SCM (602MHz/37UHF)¹: SCTV, INDOSIAR, O Ch., Mentari TV
@@ -91,7 +96,7 @@ Sudah Digital:
 
 
 Belum Digital/Daya Lemah:
-* Viva Group (679MHz/47UHF)¹³: ANTV, TV One → Belum Aktif
+* Viva Group (679MHz/47UHF)¹³: ANTV, TV One → Sinyal Lemah
 * TVRI (687MHz/48UHF)²: TVRI Nasional, TVRI JABAR, TVRI Sport → Sinyal Lemah
 * RCTV - Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 
@@ -129,4 +134,4 @@ Informasi teknis:
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
 
-*^(Diperbarui 2021-08-16)*
+*^(Diperbarui 2021-08-17)*
