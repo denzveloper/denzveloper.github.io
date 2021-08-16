@@ -55,7 +55,7 @@ Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*)
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
 
-### Channel/Program di-TV saya semakin kok sedikit (Analog)?
+### Channel/Program di-TV saya kok' semakin sedikit (Analog)?
 Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini) dari rencana/jadwal Kominfo.
 
 
@@ -134,4 +134,4 @@ Informasi teknis:
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
 
-*^(Diperbarui 2021-08-17)*
+*^(Diperbarui 17-08-2021)*
