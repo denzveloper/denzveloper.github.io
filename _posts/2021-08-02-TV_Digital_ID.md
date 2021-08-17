@@ -99,6 +99,8 @@ Belum Digital/Daya Lemah:
 * Viva Group (679MHz/47UHF)¹³: ANTV, TV One → Sinyal Lemah
 * TVRI (687MHz/48UHF)²: TVRI Nasional, TVRI JABAR, TVRI Sport → Sinyal Lemah
 * RCTV - Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
+* NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX*
+* RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX*
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
