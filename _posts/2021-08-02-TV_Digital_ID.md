@@ -89,7 +89,7 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 
 Sudah Digital (4 MUX/15 Program):
-* MNC Group (506MHz/25UHF)¹: **RCTI**, MNCTV, GTV, iNews
+* MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
 * EMTEK/SCM (602MHz/37UHF)¹: **SCTV**, INDOSIAR, O Ch., Mentari TV
