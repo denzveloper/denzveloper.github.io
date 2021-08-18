@@ -21,7 +21,7 @@ Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Ame
 
 
 ### Apakah TV Digital ada biaya?
-Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. Dimana sistem digital ini lebih baik dibanding sistem analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
+Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV), yang mengharuskan Anda berlangganan dengan biaya berjangka (bulanan/tahunan) untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Dimana sistem digital ini lebih baik dibanding sistem analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
 
 
 ### TV saya sudah LCD/LED, termasuk TV digital?
@@ -89,15 +89,15 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 
 Sudah Digital (4 MUX/15 Program):
-* MNC Group (506MHz/25UHF)¹: GTV, RCTI, MNCTV, iNews
-* TRANSMEDIA (634MHz/41UHF)¹: TRANS TV, TRANS 7, CNN, CNBC
-* MEDIA Group (562MHz/32UHF)¹: METRO TV, MAGNA, BN TV
-* EMTEK/SCM (602MHz/37UHF)¹: SCTV, INDOSIAR, O Ch., Mentari TV
+* MNC Group (506MHz/25UHF)¹: **RCTI**, MNCTV, GTV, iNews
+* TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
+* MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
+* EMTEK/SCM (602MHz/37UHF)¹: **SCTV**, INDOSIAR, O Ch., Mentari TV
 
 
 Belum Digital/Daya Lemah:
-* Viva Group (679MHz/47UHF)¹³: ANTV, TV One → Tidak Aktif Lagi, Sedang Perbaikan?
-* TVRI (687MHz/48UHF)²: TVRI Nasional, TVRI JABAR, TVRI Sport → Sinyal Lemah
+* Viva Group (679MHz/47UHF)¹³: **ANTV**, TV One → Tidak Aktif Lagi, Sedang Perbaikan?
+* TVRI (687MHz/48UHF)²: TVRI Nasional, **TVRI JABAR**, TVRI Sport → Sinyal Lemah
 * Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX*
 * RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX*
