@@ -9,7 +9,7 @@ title: Siaran TV Digital (Bahasa Indonesia)
 
 
 ## TV Digital?
-TV digital adalah siaran seperti TV biasa tapi dapat menerima modulasi/sistem sinyal baru, dimana formatnya berupa sistem biner (Angka nol dan satu) dibandingkan sistem TV lama yang berupa gelombang Analog, yang tinggi rendahnya gelombang bervariasi(nilainya tidak tetap) jadi kalau semakin jauh dari pemancar/relay atau ada gangguan alam seperti hujan atau gangguan dari pemancar lain yang mempunyai frekuensi yang sama akan mengakibatkan gambar berbayang, tidak jelas (tidak jernih), atau gambar 'bersemut'. Tapi dalam sistem digital tidak akan mengalami hal tersebut, karena digital hanya mengenal sistem biner yaitu nol dan satu atau ada dan tidak ada; maka efek berbayang, gambar tidak jernih, bahkan gambar yang bersemut tidak akan ada, selama kita mendapapatkan sinyal dari pemancar. Kalau tidak dapat sinyal sama sekali barulah benar-benar hilang/*blank*/kosong. Dan dengan sistem digital seperti ini gambar yang diterima bisa memiliki resolusi tinggi (High Definition/HD). Bisa disamakan kualitas siaran TV digital ini baik gambar ataupun suara setara dengan TV berlanganan seperti TV satelit dan IP-TV.
+TV digital adalah siaran seperti TV biasa tapi dapat menerima modulasi/sistem sinyal baru, dimana formatnya berupa sistem biner (Angka nol dan satu) untuk mengirimkan data, gambar dan suara ke televisi di rumah. Dibandingkan sistem TV lama yang berupa gelombang Analog, yang tinggi rendahnya gelombang bervariasi(nilainya tidak tetap) jadi kalau semakin jauh dari pemancar/relay atau ada gangguan alam seperti hujan atau gangguan dari pemancar lain yang mempunyai frekuensi yang sama akan mengakibatkan gambar berbayang, tidak jelas (tidak jernih), atau gambar 'bersemut'. Tapi dalam sistem digital tidak akan mengalami hal tersebut, karena digital hanya mengenal sistem biner yaitu nol dan satu atau ada dan tidak ada; maka efek berbayang, gambar tidak jernih, bahkan gambar yang bersemut tidak akan ada, selama kita mendapapatkan sinyal dari pemancar. Kalau tidak dapat sinyal sama sekali barulah benar-benar hilang/*blank*/kosong. Dan dengan sistem digital seperti ini gambar yang diterima bisa memiliki resolusi tinggi (High Definition/HD). Bisa disamakan kualitas siaran TV digital ini baik gambar ataupun suara setara dengan TV berlanganan seperti TV satelit dan IP-TV.
 
 
 ### Sejarah Analog dan Program TV
@@ -21,21 +21,21 @@ Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Ame
 
 
 ### Apakah TV Digital ada biaya?
-Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV), yang mengharuskan Anda berlangganan dengan biaya berjangka (bulanan/tahunan) untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Dimana sistem digital ini lebih baik dibanding sistem analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
+Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran TV melalui media kabel, parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV/*Streaming*), yang mengharuskan Anda berlangganan dengan biaya berjangka (bulanan/tahunan) untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Pada sistem TV digital ini lebih baik dibanding sistem pada TV analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
 
 
 ### TV saya sudah LCD/LED, termasuk TV digital?
-**Belum tentu** TV Digital. Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda adakah tulisan atau label **DVB-T2** dan **Siap Digital** atau ada logo **DVB-T2**, Logo **Modi** ataupun bisa dicek pada menu pencarian di-TV Anda apakah ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
+**Belum tentu** TV Digital. Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda adakah tulisan atau label **DVB-T2** dan **Siap Digital** atau ada logo **DVB-T2**, Logo **Modi** ataupun juga bisa dicek pada menu pencarian di-TV Anda apakah ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
 ![_config.yml]({{ site.baseurl }}/images/dvbt2.png)
 ![_config.yml]({{ site.baseurl }}/images/modi.webp)
 
 
 ### Antena saya sudah pakai P*-Digital, jadi bisa dapat sinyal digital?
-Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" Tidak serta-merta Anda bisa menangkap sinyal digital. Karena itu semua kembali lagi kepada TV yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
+Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" Tidak serta-merta Anda bisa menangkap tayangan TV digital. Karena itu semua kembali lagi kepada TV yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
 
 
 ### TV saya hanya analog, cara dapat siaran digital gimana?
-Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli **Set Top Box** Digital DVB-T2 dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)). Set Top Box ini berguna untuk merubah atau mengkonversi sinyal Digital DVB-T2 yang ada disekitar area Anda menjadi sinyal yang dapat diterima di TV lama Anda melalui AV atau bahkan HDMI.
+Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli **Set Top Box**/*Dekoder* Digital DVB-T2 dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)). Set Top Box ini berguna untuk merubah atau mengkonversi (*Decoding*) sinyal Digital DVB-T2 yang ada disekitar area Anda menjadi sinyal/data yang dapat diterima di TV lama Anda melalui AV atau bahkan HDMI.
 
 
 ### Cara pasang STB ke TV
@@ -137,4 +137,4 @@ Informasi teknis:
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
 
-*^(Diperbarui 17-08-2021)*
+*^(Diperbarui 18-08-2021)*
