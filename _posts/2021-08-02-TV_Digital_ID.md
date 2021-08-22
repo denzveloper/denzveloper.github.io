@@ -100,9 +100,9 @@ Belum Digital/Daya Lemah:
 * Viva Group (682MHz/47UHF)¹³: **ANTV**, TV One → Sinyal Lemah
 * TVRI (690MHz/48UHF)²: TVRI, **TVRI JABAR**, TVRI 3,TVRI Sport → Sinyal Lemah
 * Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
-* NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX*
-* RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX*
-* KompasTV (?MHz/?UHF): → *Kemungkinan akan sewa MUX*
+* NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
+* RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
+* KompasTV (?MHz/?UHF): → *Kemungkinan akan sewa MUX TRANSMEDIA*
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
@@ -138,4 +138,10 @@ Informasi teknis:
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
 
-*^(Diperbarui 18-08-2021)*
+*^Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX wilayah tersebut.*
+
+
+*^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
+
+
+*^(Diperbarui 22-08-2021)*
