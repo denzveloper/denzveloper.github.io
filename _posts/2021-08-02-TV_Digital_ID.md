@@ -16,6 +16,14 @@ TV digital adalah siaran seperti TV biasa tapi dapat menerima modulasi/sistem si
 Sudah hampir 60 tahun (2021, pada saat artikel ini dibuat) Indonesia sudah menggunakan sistem siaran Analog-Eropa(PAL-BG), dan sekarang penggunaan frekuensinya sudah penuh sesak. Karena sistem analog ini hanya bisa diisi satu program dalam satu frekuensi, apalagi setiap satu channel/kanal frekuensi ini lebarnya 8 MHz ditambah lagi untuk *spacing* antar kanal agar tidak saling menganggu satu dengan lainnya maka kira-kira dalam satu dareah maksimum ada 20 channel/program/saluran TV UHF (perhitungan dengan cara "(62-22)/2=20" → 62 Channel maksimum UHF,  22 Channel minimum UHF, dibagi 2 untuk *spacing*) itupun kalau daerahnya benar-benar tidak ada gangguan frekuensi yang sama dengan daerah sekitarnya, kalau ada 20 channel/program tersebut bisa kurang. Dalam sistem TV Digital satu ini dalam satu frekuensi bisa diisi hingga 12 program/saluran TV dalam satu frekuensi, jadi sekiranya kalo tidak ada gangguan dari daerah lain bisa ada 156 program (perhitungan dengan cara "((48-22)/2)×12=156" → 48 Channel maksium UHF (700MHz keatas akan digunakan untuk jaringan telepon), 22 channel minimum UHF, dibagi 2 untuk *spacing*, dikali 12 untuk banyaknya program dalam satu frekuensi/channel), banyak bukan? tapi tidak akan sebanyak itu, tiap daerah akan diberi porsi 6 channel/kanal saja, jadi setidaknya ada 72 saluran/program TV(6×12=72) maksimum. 72 program TV sudah lebih dari cukup, dibandingkan dengan Analog yang hanya 22 program/channel. *(catatan: TV digital Indonesia sepenuhnya menggunakan gelombang UHF, VHF? Tidak ada catatan atau informasi penggunaan gelombang VHF dalam digitalisai Televisi dan kemungkinan tidak akan ada)*
 
 
+### Digital? Satelit? Streaming?
+**Bukan, bukan..** TV digital yang dimaksud disini bukan ditital satelit ataupun streaming atau juga paket channel *bundling* dari paket Internet berkabel, walau memang semuanya itu menggunakan sistem digital dalam transmisinya/pengirimannya. TV digital sekali lagi seperti TV yang Anda tonton selama ini, hanya saja TV digital menggunakan teknologi sinyal digital terkini, dan tetap transmisinya/pengirimannya melalui medium udara. Karena menggunakan teknologi digital terkini maka sistem lama yang merupakan sistem penyiaran TV analog tidak akan kompatibel/sesuai dengan sistem digital. Sekali lagi perbedaan TV digital dengan TV lama (Analog) itu hanya berbeda saat pengiriman dan penerimaan data dari stasiun transmisi/MUX/relay ke TV penontonnya yang sebelumnya pada TV lama menggunakan sistem analog PAL, sekarang menggunakan sistem digital DVB.
+
+
+### Digital? Buffering?
+Tentu **Tidak**. Walaupun ini menggunakan sistem digital sama seperti teknologi internet dan data. TV digital tidak mengenal kata buffering dalam transmisinya dan penayangannya. Lagipula sistem penyiaran televisi lebih simpel dibandingkan dengan sistem dalam jaringan internet. Karena, TV digital merupakan media komunikasi satu arah (Simplex) dimana data transmisinya akan dikirimkan ke penerima dan tidak akan ada data yang kembali ke _si-pengirim_.
+
+
 ### Standar Digital
 Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Amerika, DTMB milik Tiongkok, ISDB milik Jepang, dan DVB milik Eropa. Di Indonesia sendiri memilih sistem siaran digital milik Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli! Pilih yang berspesifikasi **DVB-T2**!
 
@@ -106,7 +114,7 @@ Belum Digital/Daya Lemah:
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
-Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php)
+Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau [ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran)
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
@@ -118,7 +126,7 @@ Anda bisa ikut bergabung di-grup non-resmi TV Digital (Facebook):
 
 Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 - Surel: <helpdesk@pelayananprimaditjenppi.go.id>
-- Telepon: <159>
+- Telepon: 159
 - Facebook: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Twitter: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Website: <https://siarandigital.kominfo.go.id/>
