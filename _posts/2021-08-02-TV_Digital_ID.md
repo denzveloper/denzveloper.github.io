@@ -125,7 +125,7 @@ Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 
 
 Informasi teknis:
-- [PERSYARATAN TEKNIS ALAT DAN PERANGKAT PENERIMA…](https://web.kominfo.go.id/sites/default/files/Lampiran%20RPM%20Persyaratan%20Teknis%20Alat%20dan%20Perangkat%20Penerima%20Televisi%20Siaran%20Digital%20Berbasis%20Standard%20Digital%20Video%20Broadcasting%20Teresterial%20-%20Second%20Generation%20.pdf)
+- [PERSYARATAN TEKNIS ALAT DAN PERANGKAT PENERIMA…(Versi Lama)](https://web.kominfo.go.id/sites/default/files/Lampiran%20RPM%20Persyaratan%20Teknis%20Alat%20dan%20Perangkat%20Penerima%20Televisi%20Siaran%20Digital%20Berbasis%20Standard%20Digital%20Video%20Broadcasting%20Teresterial%20-%20Second%20Generation%20.pdf)
 - [PERSYARATAN TEKNIS ALAT DAN/ATAU PERANGKAT TEL…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/684/t/peraturan+menteri+komunikasi+dan+informatika+nomor+4+tahun+2019+tanggal+28+juni+2019)
 
 
