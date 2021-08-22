@@ -118,7 +118,7 @@ Anda bisa ikut bergabung di-grup non-resmi TV Digital (Facebook):
 
 Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 - Surel: <helpdesk@pelayananprimaditjenppi.go.id>
-- Telepon: 159
+- Telepon: <159>
 - Facebook: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Twitter: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Website: <https://siarandigital.kominfo.go.id/>
