@@ -39,7 +39,7 @@ Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sam
 ![_config.yml]({{ site.baseurl }}/images/modi.webp)
 
 
-### Antena saya sudah pakai P*-Digital, jadi bisa dapat sinyal digital?
+### Antena saya ××-Digital, jadi bisa dapat acara dari TV digital?
 Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" Tidak serta-merta Anda bisa menangkap tayangan TV digital. Karena itu semua kembali lagi kepada TV yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
 
 
