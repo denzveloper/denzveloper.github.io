@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![DzEN]({{ site.baseurl }}/images/dendy.jpg)
+![DzEN/DzEN]({{ site.baseurl }}/images/dendy.jpg)
 Just Student to learn something.
 
 ### DENZVELOPER dan DzEN/DzEN

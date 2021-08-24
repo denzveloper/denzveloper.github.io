@@ -3,7 +3,7 @@ layout: post
 title: MIDI playback on Linux
 ---
 
-![_config.yml]({{ site.baseurl }}/images/midi_logo.jpg)
+![Logo MIDI]({{ site.baseurl }}/images/midi_logo.jpg)
 
 ## Installation
 Use your package manager to install FluidSynth and some soundfonts to use (**freepats-general-midi** or **soundfont-fluid**).

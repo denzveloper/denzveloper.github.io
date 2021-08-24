@@ -3,7 +3,7 @@ layout: post
 title: Moving GTK-CSD to left
 ---
 
-![_config.yml]({{ site.baseurl }}/images/gtkcsdmove.png)
+![CSD Left Like MAC for GTK]({{ site.baseurl }}/images/gtkcsdmove.png)
 
 Moving GTK-CSD (gtk3-CSD) close-minimize-maximize button to left for current user:
 

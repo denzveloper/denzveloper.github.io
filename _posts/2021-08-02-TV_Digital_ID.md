@@ -3,7 +3,7 @@ layout: post
 title: Siaran TV Digital (Bahasa Indonesia)
 ---
 
-![_config.yml]({{ site.baseurl }}/images/modi.webp)
+![Si-Modi]({{ site.baseurl }}/images/modi.webp)
 
 *Only Available in Indonesian (Bahasa Indonesia) as a greeter era digital television in Indonesia*
 
@@ -34,9 +34,9 @@ Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sam
 
 ### TV saya sudah LCD/LED, termasuk TV digital?
 **Belum tentu** "**TV Digital**". Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda adakah tulisan atau label ataupun ada Logo **DVB-T2**, **Modi**, dan atau **Siap Digital** ataupun juga bisa dicek pada menu pencarian di-TV Anda apakah ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
-![_config.yml]({{ site.baseurl }}/images/dvbt2.png)
-![_config.yml]({{ site.baseurl }}/images/siapdigi.png)
-![_config.yml]({{ site.baseurl }}/images/modi.webp)
+![DVB-T2 Logo]({{ site.baseurl }}/images/dvbt2.png)
+![Siap Digital Logo]({{ site.baseurl }}/images/siapdigi.png)
+![Gambar Si-Modi Maskot TV Digital Indonesia]({{ site.baseurl }}/images/modi.webp)
 
 
 ### Antena saya ××-Digital, jadi bisa dapat acara dari TV digital?
