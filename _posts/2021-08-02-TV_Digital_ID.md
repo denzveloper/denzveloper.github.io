@@ -110,7 +110,7 @@ Belum Digital/Daya Lemah:
 * Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
 * RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
-* KompasTV (?MHz/?UHF): → *Kemungkinan akan sewa MUX TRANSMEDIA*
+* Kompas TV (?MHz/?UHF): → *Kemungkinan akan sewa MUX TRANSMEDIA*
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
