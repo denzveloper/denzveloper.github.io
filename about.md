@@ -42,8 +42,8 @@ LANG: Bahasa Indonesia, English
 
 ### Contact me
 
-[dandyoctavian@yahoo.co.jp](mailto:dandyoctavian@yahoo.co.jp)
-[dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com)
+[dandyoctavian@yahoo.co.jp](mailto:dandyoctavian@yahoo.co.jp) | 
+[dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com) | 
 [dandyoctavian@hotmail.com](mailto:dandyoctavian@hotmail.com)
 
 
