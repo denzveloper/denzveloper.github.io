@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/dendy.jpg)
+![DzEN]({{ site.baseurl }}/images/dendy.jpg)
 Just Student to learn something.
 
 ### DENZVELOPER dan DzEN/DzEN
@@ -27,6 +27,8 @@ Country: Indonesia
 WORK: STUDENTS (Right Now)
 
 LANG: Bahasa Indonesia, English
+
+Quotes: "Clouds over the Moon, and Wind over the Flowers" — Good time doesn't last long.
 
 ### Workstation
 
