@@ -106,7 +106,7 @@ Sudah Digital (4 MUX/15 Program):
 
 Belum Digital/Daya Lemah:
 * Viva Group (682MHz/47UHF)¹³: **ANTV**, TV One → Sinyal Lemah
-* TVRI (690MHz/48UHF)²: TVRI, **TVRI JABAR**, TVRI 3,TVRI Sport → Sinyal Lemah
+* TVRI (690MHz/48UHF)²: TVRI, **TVRI JABAR**, TVRI 3, TVRI Sport → Sinyal Lemah
 * Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
 * RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
