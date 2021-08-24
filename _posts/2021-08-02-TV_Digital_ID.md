@@ -152,4 +152,4 @@ Informasi teknis:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 22-08-2021)*
+*^(Diperbarui 24-08-2021)*
