@@ -33,16 +33,19 @@ LANG: Bahasa Indonesia, English
 1. HP 14-r110TU: +RAM: 10GB :)
 
 
-### Github
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
- ![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
- [![Spotify](https://novatorem-denzveloper.vercel.app/api/spotify)](https://open.spotify.com/user/314qkaftvxwsgxbp2lr4gwjddk44)
- 
-  🍱 🛌🏻 🖥️ 🎬 🎧 🎤 🚲 🌏 🔁
+### Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
+![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
+
+### Now Playing ▶
+[![Spotify](https://novatorem-denzveloper.vercel.app/api/spotify)](https://open.spotify.com/user/314qkaftvxwsgxbp2lr4gwjddk44)
 
 ### Contact me
 
 [dandyoctavian@yahoo.co.jp](mailto:dandyoctavian@yahoo.co.jp)
 [dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com)
 [dandyoctavian@hotmail.com](mailto:dandyoctavian@hotmail.com)
+
+
+
+🍱 🛌🏻 🖥️ 🎬 🎧 🎤 🚲 🌏 🔁
