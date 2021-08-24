@@ -48,7 +48,7 @@ Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), A
 
 
 ### Cara pasang STB ke TV
-Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekali! Tinggal colok antena TV lama Anda ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih). Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang. Tips: Untuk yang memakai HDMI atur resolusi ke 720p-60Hz terlebih dahulu, karena ada beberapa TV/Monitor yang tidak mendukung selain resolusi layar tersabut dan mengakibatkan tulisan pesan "*Out Of Range*". Setelah semua pengaturan awal selesai baru Anda bisa menggantinya dengan resolusi yang lebih tinggi/sesuai dengan keinginan; Untuk pengguna AV/TV Tabung gunakan 576i-25Hz agar gambar yang dihasilkan lebih tajam, dan sesuai dengan format *refresh rate* video yang digunakan di televisi Indonesia. (Ada beberapa STB yang mendukung Video Component YPbPr tapi tidak akan dibahas disini karena hanya mendukung gambar saja)
+Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekali! Tinggal colok antena TV lama Anda ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih). Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang. Tips: Untuk yang memakai HDMI atur resolusi ke 720p-60Hz terlebih dahulu, karena ada beberapa TV/Monitor yang tidak mendukung selain resolusi layar tersabut dan mengakibatkan tulisan pesan "*Out Of Range*". Setelah semua pengaturan awal selesai baru Anda bisa menggantinya dengan resolusi yang lebih tinggi/sesuai dengan keinginan; Untuk pengguna AV/TV Tabung gunakan 576i-25Hz agar gambar yang dihasilkan lebih tajam, dan sesuai dengan format *refresh rate* video yang digunakan di televisi Indonesia. (Ada beberapa STB yang mendukung "Video Component YPbPr" tapi tidak akan dibahas disini karena hanya mendukung gambar saja)
 
 
 ### Jangkauan sinyal TV Digital
@@ -99,9 +99,9 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 Sudah Digital (4 MUX/15 Program):
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews
-* TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
 * EMTEK/SCM (602MHz/37UHF)¹: SCTV, **INDOSIAR**, O Ch., Mentari TV
+* TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
 
 
 Belum Digital/Daya Lemah:
@@ -136,6 +136,13 @@ Informasi teknis:
 - [PERSYARATAN TEKNIS ALAT DAN PERANGKAT PENERIMA…(Versi Lama)](https://web.kominfo.go.id/sites/default/files/Lampiran%20RPM%20Persyaratan%20Teknis%20Alat%20dan%20Perangkat%20Penerima%20Televisi%20Siaran%20Digital%20Berbasis%20Standard%20Digital%20Video%20Broadcasting%20Teresterial%20-%20Second%20Generation%20.pdf)
 - [PERSYARATAN TEKNIS ALAT DAN/ATAU PERANGKAT TEL…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/684/t/peraturan+menteri+komunikasi+dan+informatika+nomor+4+tahun+2019+tanggal+28+juni+2019)
 
+
+
+## Referensi
+- [Siaran TV Digital:Teknologi, …](https://kompaspedia.kompas.id/baca/paparan-topik/siaran-tv-digital-teknologi-tahapan-dan-proses-migrasi-siaran-tv-digital)
+- [Kenapa Harus Pakai TV Digital?](https://indonesiabaik.id/infografis/kenapa-harus-pakai-tv-digital)
+- [Ciri TV Digital …](https://www.cnnindonesia.com/teknologi/20210819211115-185-682704/ciri-tv-digital-dan-cara-bedakan-dari-tv-analog)
+- [Gugus Tugas Migrasi Siaran …](https://siarandigital.kominfo.go.id/)
 
 
 ---
