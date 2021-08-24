@@ -21,7 +21,7 @@ Sudah hampir 60 tahun (2021, pada saat artikel ini dibuat) Indonesia sudah mengg
 
 
 ### Digital? Buffering?
-Tentu **Tidak**. Walaupun ini menggunakan sistem digital sama seperti teknologi internet dan data. TV digital tidak mengenal kata buffering dalam transmisinya dan penayangannya. Lagipula sistem penyiaran televisi lebih simpel dibandingkan dengan sistem dalam jaringan internet. Karena, TV digital merupakan media komunikasi satu arah (Simplex) dimana data transmisinya akan dikirimkan ke penerima dan tidak akan ada data yang kembali ke _si-pengirim_.
+Tentu **Tidak**. Walaupun ini menggunakan sistem digital sama seperti teknologi internet dan data. TV digital tidak mengenal kata *buffering* dalam transmisinya dan penayangannya. Lagipula sistem penyiaran televisi lebih simpel dibandingkan dengan sistem dalam jaringan internet. Karena, TV digital merupakan media komunikasi yang hanya mengirimkan data berupa Suara dan Gambar (Video) dan beberapa informasi kecil lain, dibandingkan dengan arus komunikasi dalam jaringan internet yang kompleks.
 
 
 ### Standar Digital
