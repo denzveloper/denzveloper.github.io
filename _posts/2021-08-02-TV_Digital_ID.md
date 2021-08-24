@@ -65,7 +65,7 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 
 
 ### Channel/Program di-TV saya kok' semakin sedikit (Analog)?
-Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini) dari rencana/jadwal Kominfo.
+Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini) dari rencana/jadwal Kominfo. Memang pada dasarnya jadwal dari Kominfo itu adalah tanggal paling akhir/**batas akhir** untuk **analog mengudara** di tempat tersebut.
 
 
 ### Tabel Konversi nomor kanal ke Frekuensi (MHz)
