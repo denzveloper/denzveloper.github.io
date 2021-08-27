@@ -44,11 +44,11 @@ Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digit
 
 
 ### TV saya hanya analog, cara dapat siaran digital gimana?
-Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli **Set Top Box**/*Dekoder* Digital DVB-T2 dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)). Set Top Box ini berguna untuk merubah atau mengkonversi (*Decoding*) sinyal Digital DVB-T2 yang ada disekitar area Anda menjadi sinyal/data yang dapat diterima di TV lama Anda melalui AV atau bahkan HDMI. Jika Anda ragu dan agar tidak salah membeli: pertama tanyakan pada penjual "Apakah ini dekoder/STB TV digital", kedua lihat bagian dusnya apakah ada ciri-ciri STB digital seperti pada pembahasan "**TV saya sudah LCD/LED, termasuk TV digital?**", ketiga lihat pada RF IN/Antenna IN apakah colokannya seperti pada TV Anda (Ada juga STB/dekoder yang memakai konektor tipe F, lebih baik dihindari agar gak perlu membeli konverter atau malah salah membeli produk), keempat Pilihlah STB yang memiliki garansi resmi dan atau lebih baik merk/produk yang Anda beli punya *service center* terdekat disekitar Anda.
+Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli **Set Top Box**/*Dekoder* Digital DVB-T2 dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)). Set Top Box ini berguna untuk merubah atau mengkonversi (*Decoding*) sinyal Digital DVB-T2 yang ada disekitar area Anda menjadi sinyal/data yang dapat diterima di TV lama Anda melalui AV atau bahkan HDMI. Jika Anda ragu dan agar tidak salah membeli: pertama tanyakan pada penjual "Apakah ini dekoder/STB TV digital", kedua lihat bagian dusnya apakah ada ciri-ciri STB digital seperti pada pembahasan "**TV saya sudah LCD/LED, termasuk TV digital?**", ketiga lihat pada RF IN/Antenna IN apakah colokannya seperti pada colokan antena TV Anda (Ada juga STB/dekoder yang memakai konektor tipe F, lebih baik dihindari agar gak perlu membeli konverter atau malah salah membeli produk), keempat Pilihlah STB yang memiliki garansi resmi dan atau lebih baik merk/produk yang Anda beli punya *service center* terdekat disekitar Anda.
 
 
 ### Cara pasang STB ke TV
-Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekali! Tinggal colok antena TV lama Anda ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih). Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang. Tips: Untuk yang memakai HDMI atur resolusi ke 720p-60Hz terlebih dahulu, karena ada beberapa TV/Monitor yang tidak mendukung selain resolusi layar tersabut dan mengakibatkan tulisan pesan "*Out Of Range*". Setelah semua pengaturan awal selesai baru Anda bisa menggantinya dengan resolusi yang lebih tinggi/sesuai dengan keinginan; Untuk pengguna AV/TV Tabung gunakan 576i-25Hz agar gambar yang dihasilkan lebih tajam, dan sesuai dengan format *refresh rate* video yang digunakan di televisi Indonesia. (Ada beberapa STB yang mendukung diantaranya "Video Component YPbPr" dan "S-Video" tapi tidak akan dibahas disini karena hanya mendukung gambar saja)
+Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekali! Tinggal colok antena TV lama Anda ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih) jika cuma ada Jingga dan Putih (Televisi dengan Audio Mono atau Kanan-Kiri sama)? Sesuaikan saja. Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang. Tips: Untuk yang memakai HDMI atur resolusi ke 720p-60Hz terlebih dahulu, karena ada beberapa TV/Monitor yang tidak mendukung selain resolusi layar tersebut dan mengakibatkan tulisan pesan "*Out Of Range*". Setelah semua pengaturan awal selesai baru Anda bisa menggantinya dengan resolusi yang lebih tinggi/sesuai dengan keinginan; Untuk pengguna AV/TV Tabung gunakan 576i-25Hz agar gambar yang dihasilkan lebih tajam, dan sesuai dengan format *refresh rate* video yang digunakan di televisi Indonesia. (Ada beberapa STB yang mendukung diantaranya "Video Component YPbPr" dan "S-Video" tapi tidak akan dibahas disini karena hanya mendukung gambar saja)
 
 
 ### Jangkauan sinyal TV Digital
@@ -106,15 +106,15 @@ Sudah Digital (4 MUX/15 Program):
 
 Belum Digital/Daya Lemah:
 * VIVA/Bakrie (682MHz/47UHF)¹³: **ANTV**, TV One → Sinyal Lemah
-* LPP TVRI (690MHz/48UHF)²: TVRI, **TVRI JABAR**, TVRI 3, TVRI Sport → Sinyal Lemah
-* Radar Cirebon TV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
+* TVRI (690MHz/48UHF)²: TVRI, **TVRI JABAR**, TVRI 3, TVRI Sport → Sinyal Lemah
+* RCTV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
 * RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
 * Kompas TV (?MHz/?UHF): → *Kemungkinan akan sewa MUX TRANSMEDIA*
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
-Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau [ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran)
+Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran)
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
@@ -160,4 +160,4 @@ Informasi teknis:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 24-08-2021)*
+*^(Diperbarui 28-08-2021)*
