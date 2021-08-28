@@ -39,7 +39,7 @@ Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sam
 ![Gambar Si-Modi Maskot TV Digital Indonesia]({{ site.baseurl }}/images/modi.webp)
 
 ### Apa saya perlu beli antena baru?
-Tidak perlu, Anda bisa menggunakan antena yang telah anda gunakan pada televisi Anda selama ini.
+Tidak perlu, Anda bisa menggunakan antena yang telah anda gunakan pada televisi Anda selama ini (Lebih spesifiknya Antena UHF).
 
 ### Antena saya ××-Digital, jadi bisa dapat acara dari TV digital?
 Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" Tidak serta-merta Anda bisa menangkap tayangan TV digital, pada dasarnya semua antena itu sama yaitu menangkap radiasi/gelombang radio yang ada diudara/langit hanya saja mungkin beberapa antena mempunyai kepekaan yang lebih tinggi terhadap gelombang. Karena itu semua kembali lagi kepada TV yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
