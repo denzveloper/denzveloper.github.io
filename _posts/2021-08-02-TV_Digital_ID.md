@@ -106,10 +106,10 @@ Sudah Digital (4 MUX/15 Program):
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
 * EMTEK/SCM (602MHz/37UHF)¹: SCTV, **INDOSIAR**, O Ch., Mentari TV
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
+* VIVA/Bakrie (682MHz/47UHF)³: **ANTV**, TV One → Sinyal Lemah
 
 
 Belum Digital/Daya Lemah:
-* VIVA/Bakrie (682MHz/47UHF)¹³: **ANTV**, TV One → Sinyal Lemah
 * TVRI (690MHz/48UHF)²: TVRI, **TVRI JABAR**, TVRI 3, TVRI Sport → Sinyal Lemah
 * RCTV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
