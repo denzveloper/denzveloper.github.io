@@ -101,12 +101,12 @@ Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka ata
 Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 
-Sudah Digital (4 MUX/15 Program):
+Sudah Digital (5 MUX/17 Program):
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
 * EMTEK/SCM (602MHz/37UHF)¹: SCTV, **INDOSIAR**, O Ch., Mentari TV
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
-* VIVA/Bakrie (682MHz/47UHF)³: **ANTV**, TV One → Sinyal Lemah
+* VIVA/Bakrie (682MHz/47UHF)³: ANTV, **TV One** → Sinyal Lemah
 
 
 Belum Digital/Daya Lemah:
