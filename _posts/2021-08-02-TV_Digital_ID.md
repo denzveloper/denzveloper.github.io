@@ -136,9 +136,11 @@ Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 - Website: <https://siarandigital.kominfo.go.id/>
 
 
-Informasi teknis:
-- [PERSYARATAN TEKNIS ALAT DAN PERANGKAT PENERIMA…(Versi Lama)](https://web.kominfo.go.id/sites/default/files/Lampiran%20RPM%20Persyaratan%20Teknis%20Alat%20dan%20Perangkat%20Penerima%20Televisi%20Siaran%20Digital%20Berbasis%20Standard%20Digital%20Video%20Broadcasting%20Teresterial%20-%20Second%20Generation%20.pdf)
+Informasi Teknis dan Hukum:
 - [PERSYARATAN TEKNIS ALAT DAN/ATAU PERANGKAT TEL…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/684/t/peraturan+menteri+komunikasi+dan+informatika+nomor+4+tahun+2019+tanggal+28+juni+2019)
+- [RENCANA INDUK FREKUENSI RADIO UNTUK KEPERLUAN…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/689/t/peraturan+menteri+komunikasi+dan+informatika+nomor+6+tahun+2019+tanggal+31+juli+2019)
+- [STANDAR PENYIARAN TELEVISI DIGITAL TERESTRIAL…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/27/t/peraturan+menteri+komunikasi+dan+informatika+nomor++05+permkominfo022012+tanggal+2+februari+2012)
+- [PELAKSANAAN PENYIARAN SIMULCAST DALAM RANGKA PER…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/683/t/peraturan+menteri+komunikasi+dan+informatika+nomor+3+tahun+2019+tanggal+27+juni+2019)
 
 
 
@@ -155,7 +157,7 @@ Informasi teknis:
 
 ## #TV Digital Bersih, Jernih, Canggih!
 
-*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi*
+*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi)*
 
 
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
@@ -167,4 +169,4 @@ Informasi teknis:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 28-08-2021)*
+*^(Diperbarui 04-09-2021)*
