@@ -25,7 +25,7 @@ Tentu **Tidak**. Walaupun ini menggunakan sistem digital sama seperti teknologi 
 
 
 ### Standar Digital Indonesia
-Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC milik Amerika, DTMB milik Tiongkok, ISDB milik Jepang, dan DVB milik Eropa. Di Indonesia sendiri memilih sistem siaran digital milik Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli! Pilih yang berspesifikasi **DVB-T2**!
+Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC dikembangkan Amerika, DTMB dikembangkan Tiongkok, ISDB dikembangkan Jepang, dan DVB dikembangkan Eropa. Di Indonesia sendiri memilih sistem siaran digital dikembangkan Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli! Pilih yang berspesifikasi **DVB-T2**!
 
 
 ### Apakah TV Digital ada biaya?
@@ -157,7 +157,7 @@ Informasi Teknis dan Hukum:
 
 ## #TV Digital Bersih, Jernih, Canggih!
 
-*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi)*
+*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam channel: 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*
 
 
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
