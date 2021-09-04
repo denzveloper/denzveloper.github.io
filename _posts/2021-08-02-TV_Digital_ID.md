@@ -106,7 +106,7 @@ Sudah Digital (5 MUX/17 Program):
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
 * EMTEK/SCM (602MHz/37UHF)¹: SCTV, **INDOSIAR**, O Ch., Mentari TV
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
-* VIVA/Bakrie (682MHz/47UHF)³: ANTV, **TV One** → Sinyal Lemah
+* VIVA/Bakrie (682MHz/47UHF)³: **ANTV**, TV One → Sinyal Lemah
 
 
 Belum Digital/Daya Lemah:
