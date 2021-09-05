@@ -18,6 +18,7 @@ Sudah hampir 60 tahun (2021, pada saat artikel ini dibuat) TVRI yang perupakan s
 
 ### Digital? Satelit? Streaming?
 **Bukan, bukan..** TV digital yang dimaksud disini bukan digital satelit atau streaming ataupun juga paket channel *bundling* dari paket Penyedia Internet berkabel, walau memang semuanya itu menggunakan sistem digital dalam transmisinya/pengirimannya. TV digital sekali lagi seperti TV yang Anda tonton selama ini, hanya saja TV digital menggunakan teknologi sinyal digital terkini, dan tetap transmisinya/pengirimannya melalui medium udara. Karena menggunakan teknologi digital terkini maka sistem lama yang merupakan sistem penyiaran TV analog tidak akan kompatibel/sesuai dengan sistem digital. Sekali lagi perbedaan TV digital dengan TV lama (Analog) itu hanya berbeda saat pengiriman dan penerimaan data dari stasiun transmisi/MUX/relay ke TV penontonnya yang sebelumnya pada TV lama menggunakan sistem analog PAL, sekarang menggunakan sistem digital DVB.
+![Si-Modi]({{ site.baseurl }}/images/carapancarTV.png)
 
 
 ### Digital? Buffering?
@@ -26,26 +27,33 @@ Tentu **Tidak**. Walaupun ini menggunakan sistem digital sama seperti teknologi 
 
 ### Standar Digital Indonesia
 Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC dikembangkan Amerika, DTMB dikembangkan Tiongkok, ISDB dikembangkan Jepang, dan DVB dikembangkan Eropa. Di Indonesia sendiri memilih sistem siaran digital dikembangkan Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli! Pilih yang berspesifikasi **DVB-T2**!
+![Si-Modi]({{ site.baseurl }}/images/cara_siaranTV.png)
 
 
-### Apakah TV Digital ada biaya?
+### TV Terestrial Apa itu?
+Televisi Terestrial secara sederhananya siaran televisi yang bisa ditangkap menggunakan antena biasa, tidak melibatkan satelit atau kabel panjang dari penyedia layanan televisi untuk penerimaan permisanya. Hanya dengan melibatkan gelombang radio VHF/UHF sebagai medium pengantarannya ke TV.
+
+
+### Apakah TV Digital Terestrial ada biaya?
 Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran TV melalui media kabel, parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV/*Streaming*), yang mengharuskan Anda berlangganan dengan biaya berjangka (bulanan/tahunan) untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Pada sistem TV digital ini lebih baik dibanding sistem pada TV analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
 
 
-### TV saya sudah LCD/LED, termasuk TV digital?
+### TV saya sudah LCD/LED, termasuk TV digital Terestrial?
 **Belum tentu** "**TV Digital**". Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda adakah tulisan atau label ataupun ada Logo **DVB-T2**, **Modi**, dan atau **Siap Digital** ataupun juga bisa dicek pada menu pencarian di-TV Anda apakah ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
 ![DVB-T2 Logo]({{ site.baseurl }}/images/dvbt2.png)
 ![Siap Digital Logo]({{ site.baseurl }}/images/siapdigi.png)
 ![Gambar Si-Modi Maskot TV Digital Indonesia]({{ site.baseurl }}/images/modi.webp)
 
+
 ### Apa saya perlu beli antena baru?
 Tidak perlu, Anda bisa menggunakan antena yang telah anda gunakan pada televisi Anda selama ini (Lebih spesifiknya Antena UHF).
 
-### Antena saya ××-Digital, jadi bisa dapat acara dari TV digital?
+
+### Antena saya ××-Digital, jadi bisa dapat acara dari TV digital Terestrial?
 Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" Tidak serta-merta Anda bisa menangkap tayangan TV digital, Sekali lagi pada dasarnya semua **antena** itu sama yaitu **menangkap radiasi/gelombang radio** yang ada diudara/langit **disekitar Anda** dan memang beberapa antena dirancang dengan kepekaan terhadap sinyal atau gelombang radio yang tinggi, biasa ditandai dengan panjangnya antena, serta banyaknya jari-jari kecil/pendek pada antena (Untuk lebih jelas terhadap masalah teknis antena ini lebih baik konsultasi dengan orang disekitar Anda yang ahli dibidang itu). Karena itu semua kembali lagi kepada alat yang dipakai atau dalam hal ini televisi yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
 
 
-### TV saya hanya analog, cara dapat siaran digital gimana?
+### TV saya hanya analog, cara dapat siaran digital terestrial gimana?
 Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli **Set Top Box**/*Dekoder* Digital DVB-T2 dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)). Set Top Box ini berguna untuk merubah atau mengkonversi (*Decoding*) sinyal Digital DVB-T2 yang ada disekitar area Anda menjadi sinyal/data yang dapat diterima di TV lama Anda melalui AV atau bahkan HDMI. Jika Anda ragu dan agar tidak salah membeli: pertama tanyakan pada penjual "Apakah ini dekoder/STB TV digital", kedua lihat bagian dusnya apakah ada ciri-ciri STB digital seperti pada pembahasan "**TV saya sudah LCD/LED, termasuk TV digital?**", ketiga lihat pada RF IN/Antenna IN apakah colokannya seperti pada colokan antena TV Anda (Ada juga STB/dekoder yang memakai konektor tipe F, lebih baik dihindari agar gak perlu membeli konverter atau malah salah membeli produk), keempat Pilihlah STB yang memiliki garansi resmi dan atau lebih baik merk/produk yang Anda beli punya *service center* terdekat disekitar Anda.
 
 
@@ -53,10 +61,15 @@ Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), A
 Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekali! Tinggal colok antena TV lama Anda ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih) jika cuma ada Jingga dan Putih (Televisi dengan Audio Mono atau Kanan-Kiri sama)? Sesuaikan saja. Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang. Tips: Untuk yang memakai HDMI atur resolusi ke 720p-60Hz terlebih dahulu, karena ada beberapa TV/Monitor yang tidak mendukung selain resolusi layar tersebut dan mengakibatkan tulisan pesan "*Out Of Range*". Setelah semua pengaturan awal selesai baru Anda bisa menggantinya dengan resolusi yang lebih tinggi/sesuai dengan keinginan; Untuk pengguna AV/TV Tabung gunakan 576i-25Hz agar gambar yang dihasilkan lebih tajam, dan sesuai dengan format *refresh rate* video yang digunakan di televisi Indonesia. (Ada beberapa STB yang mendukung diantaranya "Video Component YPbPr" dan "S-Video" tapi tidak akan dibahas disini karena hanya mendukung gambar saja)
 
 
-### Jangkauan sinyal TV Digital
+### Jangkauan sinyal TV Digital Terestrial
 Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referennsi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi.
 ![Pemancar TV dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/tvnfm.webp)
 Jika kalian melihat antena seperti ini pada menara, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "sinyalTVDigital" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
+
+
+### Urgensi Beralih ke TV Digital Terestrial
+Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siaran terestrial Analog ke siaran terestrial digital. Seperti Amerika Serikat, Inggris Raya, Negara-negara Eropa, Jepang, bahkan Negara-negara ASEAN sudah banyak yang migrasi ke televisi digital. Seperti Singapura, Malaysa dan Brunei. Dan dalam proses peralihan yaitu Vietnam, Thailand, Myanmar, juga Indonesia
+![Pemancar TV dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/urgensiaso.png)
 
 
 ### Jadwal ASO (Analog Switch Off)
@@ -141,6 +154,7 @@ Informasi Teknis dan Hukum:
 - [RENCANA INDUK FREKUENSI RADIO UNTUK KEPERLUAN…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/689/t/peraturan+menteri+komunikasi+dan+informatika+nomor+6+tahun+2019+tanggal+31+juli+2019)
 - [STANDAR PENYIARAN TELEVISI DIGITAL TERESTRIAL…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/27/t/peraturan+menteri+komunikasi+dan+informatika+nomor++05+permkominfo022012+tanggal+2+februari+2012)
 - [PELAKSANAAN PENYIARAN SIMULCAST DALAM RANGKA PER…](https://jdih.kominfo.go.id/produk_hukum/unduh/id/683/t/peraturan+menteri+komunikasi+dan+informatika+nomor+3+tahun+2019+tanggal+27+juni+2019)
+- [Sistem TV DIGITAL dan Prospeknya di Indonesia](https://repository.its.ac.id/1221/1/Buku%20Sistem%20TV%20Digital%20dan%20Prospeknya%20di%20Indonesia.pdf)
 
 
 
@@ -150,6 +164,7 @@ Informasi Teknis dan Hukum:
 - [Ciri TV Digital …](https://www.cnnindonesia.com/teknologi/20210819211115-185-682704/ciri-tv-digital-dan-cara-bedakan-dari-tv-analog)
 - [Gugus Tugas Migrasi Siaran …](https://siarandigital.kominfo.go.id/)
 - [Televisi di Indonesia](https://id.wikipedia.org/wiki/Televisi_di_Indonesia#cite_note-Kompas_R&D-7)
+- [Roadmap Televisi Edukasi…](https://www.wantiknas.go.id/wantiknas-storage/file/img/materi/2020/Agustus/20200804-TIK%20Talk%2021/Geryantika-Kemkominfo-Migrasi%20TV%20analod%20ke%20digital.pdf)
 
 
 
@@ -169,4 +184,4 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 04-09-2021)*
+*^(Diperbarui 05-09-2021)*
