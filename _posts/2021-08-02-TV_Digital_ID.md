@@ -68,7 +68,7 @@ Jika kalian melihat antena seperti ini pada menara, maka kemungkinan besar itu a
 
 
 ### Urgensi Beralih ke TV Digital Terestrial
-Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siaran terestrial Analog ke siaran terestrial digital. Seperti Amerika Serikat, Inggris Raya, Negara-negara Eropa, Jepang, bahkan Negara-negara ASEAN sudah banyak yang migrasi ke televisi digital. Seperti Singapura, Malaysa dan Brunei. Dan dalam proses peralihan yaitu Vietnam, Thailand, Myanmar, juga Indonesia
+Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siaran terestrial Analog ke siaran terestrial digital. Seperti Amerika Serikat, Inggris Raya, Negara-negara Eropa, Jepang, bahkan Negara-negara ASEAN sudah banyak yang migrasi ke televisi digital. Seperti Singapura, Malaysa dan Brunei Darussalam. Untuk itu Indonesia bisa diharapkan tepat waktu untuk menyelesaikan perpindahan ini dimana batasnya 2 November 2022.
 ![Pemancar TV dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/urgensiaso.png)
 
 
