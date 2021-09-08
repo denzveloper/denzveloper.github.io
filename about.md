@@ -7,15 +7,17 @@ permalink: /about/
 ![DzEN/DzEN]({{ site.baseurl }}/images/dendy.jpg)
 Just Student to learn something.
 
+
 ### DENZVELOPER dan DzEN/DzEN
 
 **DENZVELOPER** atau sekarang berubah menjadi **DzEN/DzEN**. Keduanya adalah *nickname* untuk Saya sendiri. Nama **DENZVELOPER** sekarang sudah berubah menjadi **DzEN/DzEN** agar tidak terlalu mencolok karena nama **DENZVELOPER** (Gabungan kata dari **DENDY** dan ***DEVELOPER***). Walau begitu nama DENZVELOPER masih dipertahankan untuk beberapa tempat karena sudah terikat dibeberapa akun dan tautan.
-DENZVELOPER sendiri seperti diatas itu hanyalah permainan gabungan kata dari **DENDY** dan ***DEVELOPER*** yang berarti Dendy si Pengembang (***DEVELOPER***) .
+DENZVELOPER sendiri seperti diatas itu hanyalah permainan gabungan kata dari **DENDY** dan ***DEVELOPER*** yang berarti Dendy si Pengembang (***DEVELOPER***).
+
 
 **DzEN/DzEN** (dibaca: *zenzen*「"*D*" dihilangkan pembacaannya」) sendiri akronim dari nama Saya sendiri **DEN**DY dan ditambah huruf "*z*" diantara "*D*" dan "*N*". **DzEN/DzEN** ini tidak ada sangkut pautnya dengan proyek **Dzen** milik *Robert Manea*. **DzEN/DzEN** menggantikan *nickname* **DENZVELOPER** pada tahun 2017.
 
-### More Information
 
+### More Information
 Name: Dendy Octavian (Known as **DENZVELOPER** & **DzEN/DzEN**)
 
 DOB: 10-10 (DD-MM)
@@ -30,8 +32,8 @@ LANG: Bahasa Indonesia, English
 
 Quotes: "Clouds over the Moon, and Wind over the Flowers" — Good time doesn't last long.
 
-### Workstation
 
+### Workstation
 1. HP 14-r110TU: +RAM: 10GB :)
 
 
@@ -43,11 +45,7 @@ Quotes: "Clouds over the Moon, and Wind over the Flowers" — Good time doesn't 
 [![Spotify](https://novatorem-denzveloper.vercel.app/api/spotify)](https://open.spotify.com/user/314qkaftvxwsgxbp2lr4gwjddk44)
 
 ### Contact me
-
-[dandyoctavian@yahoo.co.jp](mailto:dandyoctavian@yahoo.co.jp) | 
-[dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com) | 
-[dandyoctavian@hotmail.com](mailto:dandyoctavian@hotmail.com)
-
+[dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com)
 
 
 🍱 🛌🏻 🖥️ 🎬 🎧 🎤 🚲 🌏 🔁
