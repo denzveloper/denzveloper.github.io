@@ -131,7 +131,7 @@ Belum Digital/Daya Lemah:
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
-Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran). Informasi teknis tentang MUX di Cirebon bisa kunjungi [ini](https://docs.google.com/spreadsheets/d/1Fhi2wb1PovXPOxIKNoscLYcp64hYvB8Ma68MUsMooYU/edit?usp=sharing).
+Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran). Informasi teknis lebih tentang MUX di Cirebon bisa kunjungi [ini](https://docs.google.com/spreadsheets/d/1Fhi2wb1PovXPOxIKNoscLYcp64hYvB8Ma68MUsMooYU/edit?usp=sharing).
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
