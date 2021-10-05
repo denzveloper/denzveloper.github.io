@@ -18,12 +18,12 @@ Sudah hampir 60 tahun (2021, pada saat artikel ini dibuat) TVRI yang perupakan s
 
 ### Standar Digital Indonesia
 Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC dikembangkan Amerika, DTMB dikembangkan Tiongkok, ISDB dikembangkan Jepang, dan DVB dikembangkan Eropa. Di Indonesia sendiri memilih sistem siaran digital dikembangkan Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli! Pilih yang berspesifikasi **DVB-T2**!
-![Si-Modi]({{ site.baseurl }}/images/cara_siaranTV.png)
+![Konten siaran TV Digital]({{ site.baseurl }}/images/cara_siaranTV.png)
 
 
 ### Digital? Satelit? Streaming?
 **Bukan, bukan..** TV digital yang dimaksud disini bukan digital satelit atau streaming ataupun juga paket channel *bundling* dari paket Penyedia Internet berkabel, walau memang semuanya itu menggunakan sistem digital dalam transmisinya/pengirimannya. TV digital sekali lagi seperti TV yang Anda tonton selama ini, hanya saja TV digital menggunakan teknologi sinyal digital terkini, dan tetap transmisinya/pengirimannya melalui medium udara. Karena menggunakan teknologi digital terkini maka sistem lama yang merupakan sistem penyiaran TV analog tidak akan kompatibel/sesuai dengan sistem digital. Sekali lagi perbedaan TV digital dengan TV lama (Analog) itu hanya berbeda saat pengiriman dan penerimaan data dari stasiun transmisi/MUX/relay ke TV penontonnya yang sebelumnya pada TV lama menggunakan sistem analog PAL, sekarang menggunakan sistem digital DVB.
-![Si-Modi]({{ site.baseurl }}/images/carapancarTV.png)
+![Cara Pancar TV Digital]({{ site.baseurl }}/images/carapancarTV.png)
 
 
 ### Digital? Buffering?
@@ -63,16 +63,17 @@ Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekal
 
 ### Jangkauan sinyal TV Digital Terestrial
 Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referennsi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi.
-![Pemancar TV dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/tvnfm.webp)
-Jika kalian melihat antena seperti ini pada menara, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "sinyalTVDigital" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
+![Pemancar TV VIVA Group dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/tvnfm.webp)
+Jika melihat jenis antena seperti ini pada menara yaitu dengan panel antena yang lebar dan besar, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "sinyalTVDigital" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
 
 
 ### Urgensi Beralih ke TV Digital Terestrial
 Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siaran terestrial Analog ke siaran terestrial digital. Seperti Amerika Serikat, Inggris Raya, Negara-negara Eropa, Jepang, bahkan Negara-negara ASEAN sudah banyak yang migrasi ke televisi digital. Seperti Singapura, Malaysa dan Brunei Darussalam. Untuk itu Indonesia bisa diharapkan tepat waktu untuk menyelesaikan perpindahan ini dimana batasnya 2 November 2022.
-![Pemancar TV dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/urgensiaso.png)
+![Digitalisasi ITU dan dunia]({{ site.baseurl }}/images/urgensiaso.png)
 
 
 ### Jadwal ASO (Analog Switch Off)
+Semua stasiun Televisi di Indonesia akan segera dimatikan dengan jadwal sesuai daerahnya masing-masing. Untuk seluruh Indonesia semua stasiun TV analog akan diberhentikan total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi.
 Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap:
 1. Tahap I → 30 April 2022
 2. Tahap II → 31 Agustus 2022
@@ -119,7 +120,7 @@ Sudah Digital (5 MUX/17 Program):
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
 * EMTEK/SCM (602MHz/37UHF)¹: SCTV, **INDOSIAR**, O Ch., Mentari TV
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
-* VIVA/Bakrie (682MHz/47UHF)³: **ANTV**, TV One → Sinyal Lemah
+* VIVA/Bakrie (682MHz/47UHF)³: ANTV, **TV One** → Sinyal Lemah
 
 
 Belum Digital/Daya Lemah:
@@ -131,7 +132,7 @@ Belum Digital/Daya Lemah:
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
-Lokasi MUX berdasarkan [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran). Informasi teknis lebih tentang MUX di Cirebon bisa kunjungi [ini](https://docs.google.com/spreadsheets/d/1Fhi2wb1PovXPOxIKNoscLYcp64hYvB8Ma68MUsMooYU/edit?usp=sharing).
+Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran) atau [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau yang [ini](https://public.tableau.com/views/PetaISRTVDigital_16131981145190/DashboardISRTVDigital?:language=en&:embed=y&:toolbar=n&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link). Informasi teknis lebih tentang MUX di Cirebon bisa kunjungi [ini](https://docs.google.com/spreadsheets/d/1Fhi2wb1PovXPOxIKNoscLYcp64hYvB8Ma68MUsMooYU/edit?usp=sharing).
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
@@ -184,4 +185,4 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 05-09-2021)*
+*^(Diperbarui 06-10-2021)*
