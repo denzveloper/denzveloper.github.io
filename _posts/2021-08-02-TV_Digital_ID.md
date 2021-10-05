@@ -27,11 +27,11 @@ Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC dikembang
 
 
 ### Digital? Buffering?
-Tentu **Tidak**. Walaupun ini menggunakan sistem digital sama seperti teknologi internet dan data. TV digital tidak mengenal kata *buffering* dalam transmisinya dan penayangannya. Lagipula sistem penyiaran televisi lebih simpel dibandingkan dengan sistem dalam jaringan internet. Karena, TV digital merupakan media komunikasi yang hanya mengirimkan data berupa Suara dan Gambar (Video) dan beberapa informasi kecil lain, dibandingkan dengan arus komunikasi dalam jaringan internet yang kompleks.
+Tentu **Tidak**. Walaupun ini menggunakan sistem digital sama seperti teknologi internet dan data. TV digital tidak mengenal kata *buffering* dalam transmisinya dan penayangannya, hanya saja untuk berpindah stasiun tv mungkin membutuhkan jeda waktu beberapa detik untuk proses dekoding video. Lagipula sistem penyiaran televisi lebih simpel dibandingkan dengan sistem dalam jaringan internet. Karena, TV digital merupakan media komunikasi yang hanya mengirimkan data berupa Suara dan Gambar (Video) dan beberapa informasi kecil lain, dibandingkan dengan arus komunikasi dalam jaringan internet yang kompleks.
 
 
 ### TV Terestrial Apa itu?
-Televisi Terestrial secara sederhananya siaran televisi yang bisa ditangkap menggunakan antena biasa, tidak melibatkan satelit atau kabel panjang dari penyedia layanan televisi untuk penerimaan permisanya. Hanya dengan melibatkan gelombang radio VHF/UHF sebagai medium pengantarannya ke TV.
+Televisi Terestrial secara sederhananya adalah siaran televisi yang bisa ditangkap menggunakan antena biasa, tidak melibatkan satelit atau kabel dari penyedia layanan televisi untuk penerimaan permisanya. Hanya dengan melibatkan gelombang radio diudara menggunakan frekuensi VHF/UHF sebagai medium pengantarannya ke TV.
 
 
 ### Apakah TV Digital Terestrial ada biaya?
@@ -77,7 +77,7 @@ Semua stasiun Televisi di Indonesia akan segera dimatikan dengan jadwal sesuai d
 Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap:
 1. Tahap I → 30 April 2022
 2. Tahap II → 31 Agustus 2022
-3. Tahap III → 2 November 2022
+3. Tahap III → 02 November 2022
 
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
@@ -173,13 +173,13 @@ Informasi Teknis dan Hukum:
 
 ## #TV Digital Bersih, Jernih, Canggih!
 
-*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam channel: 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*
+*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam satu channel (8MHz UHF): 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*
 
 
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
 
-*^Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX wilayah tersebut.*
+*^Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX atau bekas pemancar stasiun TV wilayah tersebut.*
 
 
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
