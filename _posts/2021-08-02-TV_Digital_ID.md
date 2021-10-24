@@ -124,7 +124,7 @@ Sudah Digital (5 MUX/17 Program):
 
 
 Belum Digital/Daya Lemah:
-* TVRI (538MHz/29UHF)²: TVRI, **TVRI JABAR**, TVRI 3, TVRI Sport → Sinyal lemah, Belum pindah dari ch 48
+* TVRI (538MHz/29UHF)²: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah, Belum pindah dari ch 48
 * RCTV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
 * RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
