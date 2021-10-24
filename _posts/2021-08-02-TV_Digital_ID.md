@@ -118,20 +118,20 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 Sudah Digital (5 MUX/17 Program):
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
-* EMTEK/SCM (602MHz/37UHF)¹: SCTV, **INDOSIAR**, O Ch., Mentari TV
+* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
-* VIVA/Bakrie (682MHz/47UHF)³: ANTV, **TV One** → Sinyal Lemah
+* VIVA/Bakrie (682MHz/47UHF)⁴: ANTV, **TV One** → Sinyal Lemah
 
 
 Belum Digital/Daya Lemah:
-* TVRI (538MHz/29UHF)²: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah, Belum pindah dari ch 48
-* RCTV (?MHz/?UHF)⁴: → *Kemungkinan akan sewa MUX*
+* TVRI (538MHz/29UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah, Belum pindah dari ch 48
+* RCTV (?MHz/?UHF)²⁵: → *Kemungkinan akan sewa MUX*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
 * RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
 * Kompas TV (?MHz/?UHF): → *Kemungkinan akan sewa MUX TRANSMEDIA*
 
 
-Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Cirebon, Gunung Jati; ³Cirebon, Weru; ⁴Cirebon, Kesambi.
+Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati; ⁴Cirebon, Weru; ⁵Cirebon, Kesambi.
 Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran) atau [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau yang [ini](https://public.tableau.com/views/PetaISRTVDigital_16131981145190/DashboardISRTVDigital?:language=en&:embed=y&:toolbar=n&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link). Informasi teknis lebih tentang MUX di Cirebon bisa kunjungi [ini](https://docs.google.com/spreadsheets/d/1Fhi2wb1PovXPOxIKNoscLYcp64hYvB8Ma68MUsMooYU/edit?usp=sharing).
 
 
