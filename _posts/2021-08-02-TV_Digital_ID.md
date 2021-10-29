@@ -124,11 +124,12 @@ Sudah Digital (5 MUX/17 Program):
 
 
 Belum Digital/Daya Lemah:
-* TVRI (538MHz/29UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah, Belum pindah dari ch 48
-* RCTV (?MHz/?UHF)²⁵: → *Kemungkinan akan sewa MUX*
-* NET. (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
-* RTV (?MHz/?UHF)¹: → *Kemungkinan akan sewa MUX TVRI*
-* Kompas TV (?MHz/?UHF): → *Kemungkinan akan sewa MUX TRANSMEDIA*
+* TVRI (538MHz/29UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah, Tidak diketahui
+* RCTV (?MHz/?UHF)²⁵: → *Kemungkinan akan sewa MUX; Prediksi 2021 akhir*
+* NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi 2022 awal*
+* RTV (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi 2022 awal*
+* Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi; Prediksi setelah ASO*
+* NTV (?MHz/?UHF): → *Belum terkonfirmasi*
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati; ⁴Cirebon, Weru; ⁵Cirebon, Kesambi.
@@ -185,4 +186,4 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 06-10-2021)*
+*^(Diperbarui 29-10-2021)*
