@@ -116,11 +116,11 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 
 Sudah Digital (5 MUX/17 Program):
-* MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (ASO ke 44UHF)
+* MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
-* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV (ASO ke 38UHF)
+* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV (segera 38UHF)
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
-* VIVA/Bakrie (682MHz/47UHF)⁴: ANTV, **TV One** → Sinyal Lemah (ASO ke 35UHF)
+* VIVA/Bakrie (682MHz/47UHF)⁴: ANTV, **TV One** → Sinyal Lemah (segera 35UHF)
 
 
 Belum Digital/Daya Lemah:
