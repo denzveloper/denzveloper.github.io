@@ -125,11 +125,24 @@ Sudah Digital (5 MUX/17 Program):
 
 Belum Digital/Daya Lemah:
 * TVRI (538MHz/29UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah, Tidak diketahui
-* RCTV (?MHz/?UHF)²⁵: → *Kemungkinan akan sewa MUX; Prediksi 2021 akhir*
+* RCTV (?MHz/?UHF)²⁵: → *Kemungkinan akan sewa MUX VIVA; Prediksi 2021 akhir*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi 2022 awal*
 * RTV (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi 2022 awal*
 * Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi; Prediksi setelah ASO*
 * NTV (?MHz/?UHF): → *Belum terkonfirmasi*
+
+
+Daftar LCN stasiun TV Digital:
+* 20 TRANS TV
+* 21 TRANS 7
+* 23 SCTV
+* 24 INDOSIAR
+* 28 RCTI
+* 29 MNCTV
+* 30 GTV
+* 31 iNews
+* 113 CNN INDONESIA
+* 114 CNBC INDONESIA
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati; ⁴Cirebon, Weru; ⁵Cirebon, Kesambi.
