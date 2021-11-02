@@ -121,11 +121,11 @@ Sudah Digital (5 MUX/17 Program):
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV (segera 38UHF)
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
 * VIVA/Bakrie (682MHz/47UHF)⁴: ANTV, **TV One** → Sinyal Lemah (segera 35UHF)
+* TVRI (538MHz/29UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
 
 
 Belum Digital/Daya Lemah:
-* TVRI (538MHz/29UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah, Tidak diketahui
-* RCTV (?MHz/?UHF)²⁵: → *Kemungkinan akan sewa MUX VIVA; Prediksi 2021 akhir*
+* RCTV (?MHz/?UHF)²: → *Kemungkinan akan sewa MUX VIVA; Prediksi 2021 akhir*
 * NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi 2022 awal*
 * RTV (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi 2022 awal*
 * Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi; Prediksi setelah ASO*
@@ -145,8 +145,11 @@ Daftar LCN stasiun TV Digital:
 * 114 CNBC INDONESIA
 
 
-Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati; ⁴Cirebon, Weru; ⁵Cirebon, Kesambi.
+Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati; ⁴Cirebon, Weru.
 Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran) atau [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau yang [ini](https://public.tableau.com/views/PetaISRTVDigital_16131981145190/DashboardISRTVDigital?:language=en&:embed=y&:toolbar=n&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link). Informasi teknis lebih tentang MUX di Cirebon bisa kunjungi [ini](https://docs.google.com/spreadsheets/d/1Fhi2wb1PovXPOxIKNoscLYcp64hYvB8Ma68MUsMooYU/edit?usp=sharing).
+
+
+*Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
@@ -199,4 +202,4 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 29-10-2021)*
+*^(Diperbarui 02-11-2021)*
