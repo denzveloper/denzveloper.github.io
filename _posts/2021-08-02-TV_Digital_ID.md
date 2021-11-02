@@ -121,7 +121,7 @@ Sudah Digital (5 MUX/17 Program):
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV (segera 38UHF)
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
 * VIVA/Bakrie (682MHz/47UHF)⁴: ANTV, **TV One** → Sinyal Lemah (segera 35UHF)
-* TVRI (538MHz/29UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
+* TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
 
 
 Belum Digital/Daya Lemah:
