@@ -117,26 +117,25 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 Sudah Digital (5 MUX/17 Program):
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)
-* MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV
+* MEDIA Group (562MHz/32UHF)¹: **METRO TV HD**, MAGNA, BN TV, Metro TV, RTV HD
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV (segera 38UHF)
-* TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN, CNBC
-* VIVA/Bakrie (682MHz/47UHF)⁴: ANTV, **TV One** → Sinyal Lemah (segera 35UHF)
+* TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
+* VIVA/Bakrie (682MHz/47UHF)⁴: ANTV, **TV One**, RCTV → Sinyal Lemah (segera 35UHF)
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
 
 
-Belum Digital/Daya Lemah:
-* RCTV (?MHz/?UHF)²: → *Kemungkinan akan sewa MUX VIVA; Prediksi 2021 akhir*
-* NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi 2022 awal*
-* RTV (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi 2022 awal*
+Belum Digital, Masih di Analog:
+* NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi Setelah ASO*
 * Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi; Prediksi setelah ASO*
 * NTV (?MHz/?UHF): → *Belum terkonfirmasi*
 
 
 Daftar LCN stasiun TV Digital:
-* 20 TRANS TV
-* 21 TRANS 7
-* 23 SCTV
-* 24 INDOSIAR
+* 20 TRANS TV HD
+* 21 TRANS 7 HD
+* 22 Metro TV HD
+* 23 SCTV HD
+* 24 INDOSIAR HD
 * 28 RCTI
 * 29 MNCTV
 * 30 GTV
@@ -202,4 +201,4 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 02-11-2021)*
+*^(Diperbarui 03-03-2022)*
