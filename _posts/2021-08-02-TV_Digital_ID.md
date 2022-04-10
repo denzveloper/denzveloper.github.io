@@ -124,13 +124,12 @@ Sudah Digital (5 MUX/17 Program):
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
 
 
-Belum Digital, Masih di Analog:
+Belum Digital, tapi ada rencana:
 * NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi Setelah ASO*
 * Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi; Prediksi setelah ASO*
-* NTV (?MHz/?UHF): → *Belum terkonfirmasi*
 
 
-Daftar LCN stasiun TV Digital:
+Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
 * 22 Metro TV HD
