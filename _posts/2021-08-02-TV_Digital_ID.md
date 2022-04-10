@@ -200,4 +200,4 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 03-03-2022)*
+*^(Diperbarui 10-04-2022)*
