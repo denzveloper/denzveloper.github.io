@@ -199,5 +199,7 @@ Informasi Teknis dan Hukum:
 
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
+*^Untuk NET., beberapa pemirsa TV menyaksikan NET. sedang uji coba menggunakan MUX Media Group Cirebon*
+
 
 *^(Diperbarui 10-04-2022)*
