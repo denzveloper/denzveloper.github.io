@@ -117,16 +117,16 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 Sudah Digital (5 MUX/17 Program):
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)
-* MEDIA Group (562MHz/32UHF)¹: **METRO TV HD**, MAGNA, BN TV, Metro TV, RTV HD
+* MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV (segera 38UHF)
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
-* VIVA/Bakrie (682MHz/47UHF)⁴: ANTV, **TV One**, RCTV → Sinyal Lemah (segera 35UHF)
+* VIVA/Bakrie (682MHz/47UHF)²: ANTV, **TV One**, RCTV → Sinyal Lemah (segera 35UHF)
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
 
 
 Belum Digital, tapi ada rencana:
-* NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX TVRI; Prediksi Setelah ASO*
-* Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi; Prediksi setelah ASO*
+* NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX Media Group; Prediksi Sebelum ASO*
+* Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*
 
 
 Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
@@ -143,7 +143,7 @@ Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Sal
 * 114 CNBC INDONESIA
 
 
-Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati; ⁴Cirebon, Weru.
+Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
 Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran) atau [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau yang [ini](https://public.tableau.com/views/PetaISRTVDigital_16131981145190/DashboardISRTVDigital?:language=en&:embed=y&:toolbar=n&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link). Informasi teknis lebih tentang MUX di Cirebon bisa kunjungi [ini](https://docs.google.com/spreadsheets/d/1Fhi2wb1PovXPOxIKNoscLYcp64hYvB8Ma68MUsMooYU/edit?usp=sharing).
 
 
