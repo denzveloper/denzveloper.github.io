@@ -203,4 +203,4 @@ Informasi Teknis dan Hukum:
 *^Untuk NET., beberapa pemirsa TV menyaksikan NET. sedang uji coba menggunakan MUX Media Group Cirebon*
 
 
-*^(Diperbarui 10-04-2022)*
+*^(Diperbarui 15-04-2022)*
