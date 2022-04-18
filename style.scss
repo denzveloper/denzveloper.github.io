@@ -121,8 +121,8 @@ img {
 
 .date {
   font-style: italic;
-  color: $black;
   background-color: $lightGray;
+  padding-right: 8px;
 }
 
 // Specify the color of the selection
@@ -303,10 +303,10 @@ footer {
   padding-right: 10px;
   color: $white;
   background-color: $darkGray;
-  :hover{
-    color: $gray;
-    background-color: $lightGray;
-  }
+    :hover{
+      color: $gray;
+      background-color: $lightGray;
+    }
 }
 
 .pagination {
