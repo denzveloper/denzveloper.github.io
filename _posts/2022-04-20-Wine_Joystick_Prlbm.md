@@ -46,3 +46,6 @@ downgrade wine
 ![Logo Pipewire]({{ site.baseurl }}/images/winejoy/downmain.png)
 Then you can select what old packages you want to install on your system and after selecting packages you can follow instruction on downgrade tools like using *pacman* package manager.
 ![Logo Pipewire]({{ site.baseurl }}/images/winejoy/downpac.png)
+
+# Why this happen?
+Wine have new a driver for some Joystick that effected Playstation like Joystick. they mapping *L1*/*R1* Button as a *Z,Rz*.
