@@ -13,8 +13,8 @@ If You have issue with USB Joystick with driver **Bus 002 Device 004: ID 0810:00
 ## Method 1
 ### Download old packages of wine
 You can download Wine packages on links below:
-- (Wine)[https://archive.archlinux.org/packages/w/wine/]
-- (Wine Staging)[https://archive.archlinux.org/packages/w/wine-staging/]
+- [Wine](https://archive.archlinux.org/packages/w/wine/)
+- [Wine Staging](https://archive.archlinux.org/packages/w/wine-staging/)
 ![Logo Pipewire]({{ site.baseurl }}/images/winejoy/winepkg.png)
 
 Pick one of packages with ended by (file extension) *.xz* or *.zst*. And download it by clicking that hyperlinks or you can use *wget* and for example you can follow this command:
