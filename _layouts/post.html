@@ -4,13 +4,12 @@ layout: default
 
 <article class="post">
 	<h1><span class="title">{{ page.title }}&nbsp;</span></h1>
+	<div class="date">
+      DzEN/DzEN @ {{ page.date | date: "%B %e, %Y" }}
+    </div>
 
   <div class="entry">
     {{ content }}
-  </div>
-  
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}
