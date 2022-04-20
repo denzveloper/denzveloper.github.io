@@ -49,6 +49,12 @@ h1 {
   a {
     color: inherit;
   }
+  a:hover{
+    color: $white;
+    background-color: $blue;
+    padding: 4px 10px 2px 2px;
+    text-decoration: none;
+  }
 }
 
 h2 {
