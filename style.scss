@@ -122,7 +122,7 @@ img {
 .date {
   font-style: italic;
   background-color: $lightGray;
-  padding-right: 8px;
+  padding-right: 7px;
 }
 
 // Specify the color of the selection
@@ -206,7 +206,7 @@ img {
 	:hover{
 		color: $white;
         background-color: $darkGray;
-        padding: 7px 0px 0px 7px;
+        padding: 7px 6px 0px 7px;
 	}
 	:hover::after{
 		content: ".";
@@ -303,10 +303,10 @@ footer {
   padding-right: 10px;
   color: $white;
   background-color: $darkGray;
-    :hover{
-      color: $gray;
-      background-color: $lightGray;
-    }
+}
+.title:hover{
+  color: $gray;
+  background-color: $lightGray;
 }
 
 .pagination {
