@@ -74,7 +74,10 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    backgroud-color: $blue;
+    color: $white;
+    padding: 7px 10px 0px 4px;
+    font-weight: bold;
   }
 }
 
@@ -206,7 +209,7 @@ img {
 	:hover{
 		color: $white;
         background-color: $darkGray;
-        padding: 7px 20px 0px 7px;
+        padding: 7px 20px 0px 5px;
 	}
 	:hover::after{
 		content: ".";
