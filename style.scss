@@ -81,7 +81,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
-    text-decoration: underline wavy $blue 1px;
+    text-decoration: underline $blue;
   }
 }
 
