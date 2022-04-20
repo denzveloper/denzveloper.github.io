@@ -74,9 +74,8 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    background-color: $blue;
-    color: $white;
-    padding: 3px 10px 0px 4px;
+    color: $blue;
+    text-decoration: underline wavy $blue 1px;
   }
 }
 
