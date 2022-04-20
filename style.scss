@@ -206,7 +206,7 @@ img {
 	:hover{
 		color: $white;
         background-color: $darkGray;
-        padding: 7px 6px 0px 7px;
+        padding: 7px 20px 0px 7px;
 	}
 	:hover::after{
 		content: ".";
