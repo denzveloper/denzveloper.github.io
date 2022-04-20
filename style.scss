@@ -74,10 +74,9 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    backgroud-color: $blue;
+    background-color: $blue;
     color: $white;
-    padding: 7px 10px 0px 4px;
-    font-weight: bold;
+    padding: 3px 10px 0px 4px;
   }
 }
 
