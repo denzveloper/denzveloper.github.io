@@ -117,7 +117,7 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 Sudah Digital (5 MUX/17 Program):
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)
-* MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV
+* MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV (segera 38UHF)
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
 * VIVA/Bakrie (682MHz/47UHF)²: ANTV, **TV One**, RCTV → Sinyal Lemah (segera 35UHF)
@@ -125,7 +125,6 @@ Sudah Digital (5 MUX/17 Program):
 
 
 Belum Digital, tapi ada rencana:
-* NET. (?MHz/?UHF)¹: → *Kemungkinan sewa MUX Media Group; Prediksi Sebelum ASO*
 * Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*
 
 
@@ -200,7 +199,4 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^Untuk NET., beberapa pemirsa TV menyaksikan NET. sedang uji coba menggunakan MUX Media Group Cirebon*
-
-
-*^(Diperbarui 15-04-2022)*
+*^(Diperbarui 25-04-2022)*
