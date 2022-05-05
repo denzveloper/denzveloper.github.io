@@ -75,7 +75,7 @@ Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siara
 ### Jadwal ASO (Analog Switch Off)
 Semua stasiun Televisi di Indonesia akan segera dimatikan dengan jadwal sesuai daerahnya masing-masing. Untuk seluruh Indonesia semua stasiun TV analog akan diberhentikan total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi.
 Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap:
-1. Tahap I → 30 April 2022
+1. Tahap I → 30 April 2022 (Sudah dimulai, Bertahap)
 2. Tahap II → 31 Agustus 2022
 3. Tahap III → 02 November 2022
 
@@ -159,6 +159,7 @@ Anda bisa ikut bergabung di-grup non-resmi TV Digital (Facebook):
 Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 - Surel: <helpdesk@pelayananprimaditjenppi.go.id>
 - Telepon: 159
+- Whatsapp: [Whatsapp](https://wa.me/628118202208)
 - Facebook: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Twitter: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
 - Website: <https://siarandigital.kominfo.go.id/>
@@ -192,6 +193,7 @@ Informasi Teknis dan Hukum:
 
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
+*^Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan secara bergelombang.*
 
 *^Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX atau bekas pemancar stasiun TV wilayah tersebut.*
 
@@ -199,4 +201,4 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 25-04-2022)*
+*^(Diperbarui 06-05-2022)*
