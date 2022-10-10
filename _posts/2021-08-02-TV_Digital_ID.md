@@ -117,7 +117,7 @@ Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka ata
 Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 
 
-Sudah Digital (5 MUX/17 Program):
+Sudah Digital (6 MUX/25 Program):
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (segera 38UHF)
@@ -126,7 +126,7 @@ Sudah Digital (5 MUX/17 Program):
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
 
 
-Belum Digital, Pernah Bersiaran, dan ada rencana:
+Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~
 
 
