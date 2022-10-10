@@ -64,7 +64,7 @@ Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekal
 ### Jangkauan sinyal TV Digital Terestrial
 Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referensi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi.
 ![Pemancar TV VIVA Group dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/tvnfm.webp)
-Jika melihat jenis antena seperti ini pada menara yaitu dengan panel antena yang lebar dan besar, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "sinyalTVDigital" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
+Jika melihat jenis antena seperti ini pada menara yaitu dengan panel antena yang lebar dan besar dengan bentuk trapesium, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "sinyalTVDigital" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
 
 
 ### Urgensi Beralih ke TV Digital Terestrial
@@ -74,10 +74,11 @@ Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siara
 
 ### Jadwal ASO (Analog Switch Off)
 Semua stasiun Televisi di Indonesia akan segera dimatikan dengan jadwal sesuai daerahnya masing-masing. Untuk seluruh Indonesia semua stasiun TV analog akan diberhentikan total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi.
-Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap:
-1. Tahap I → 30 April 2022 (Sudah dimulai, Bertahap)
+Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap pada awalnya yaitu:
+1. Tahap I → 30 April 2022
 2. Tahap II → 31 Agustus 2022
 3. Tahap III → 02 November 2022
+Untuk saat ini direncanakan penghentian siaran analog dipastikan pada 02 November 2022, dan tanpa tahap.
 
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
 
@@ -118,28 +119,36 @@ Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
 Sudah Digital (5 MUX/17 Program):
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
-* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, O Ch., Mentari TV (segera 38UHF)
+* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (segera 38UHF)
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
-* VIVA/Bakrie (682MHz/47UHF)²: ANTV, **TV One**, RCTV → Sinyal Lemah (segera 35UHF)
+* VIVA/Bakrie (682MHz/47UHF)²: ANTV, TV One, **RCTV** → Sinyal Lemah (segera 35UHF)
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
 
 
-Belum Digital, tapi ada rencana:
-* Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*
+Belum Digital, Pernah Bersiaran, dan ada rencana:
+* ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~
 
 
 Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
+* 01 TVRI Nasional
+* 02 TVRI Jawa Barat
+* 03 TVRI World Kanal 3
+* 04 TVRI Sport Kanal 4
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
 * 22 Metro TV HD
 * 23 SCTV HD
 * 24 INDOSIAR HD
+* 26 ANTV
+* 27 TV One
 * 28 RCTI
 * 29 MNCTV
 * 30 GTV
 * 31 iNews
 * 113 CNN INDONESIA
 * 114 CNBC INDONESIA
+* 123 Moji
+* 124 Mentari TV
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
@@ -150,10 +159,11 @@ Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/
 
 
 ### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
-Anda bisa ikut bergabung di-grup non-resmi TV Digital (Facebook):
+Anda bisa ikut bergabung di-grup TV Digital (Facebook+Telegram):
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
 - [Komunitas tv digital terestrial DVB-T2 Indonesia](https://www.facebook.com/groups/357305085288304)
+- [Grup Telegram TV DIGITAL INDONESIA](https://t.me/SiaranDigitalIndonesia)
 
 
 Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
@@ -193,7 +203,7 @@ Informasi Teknis dan Hukum:
 
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
-*^Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan secara bergelombang.*
+*^Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total pada 02 November 2022.*
 
 *^Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX atau bekas pemancar stasiun TV wilayah tersebut.*
 
@@ -201,4 +211,7 @@ Informasi Teknis dan Hukum:
 *^Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*^(Diperbarui 06-05-2022)*
+*^Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang*
+
+
+*^(Diperbarui 10-10-2022)*
