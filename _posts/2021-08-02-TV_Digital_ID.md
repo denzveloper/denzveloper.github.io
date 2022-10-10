@@ -131,10 +131,10 @@ Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana:
 
 
 Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
-* 01 TVRI Nasional
-* 02 TVRI Jawa Barat
-* 03 TVRI World Kanal 3
-* 04 TVRI Sport Kanal 4
+* 1 TVRI Nasional
+* 2 TVRI Jawa Barat
+* 3 TVRI World Kanal 3
+* 4 TVRI Sport Kanal 4
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
 * 22 Metro TV HD
