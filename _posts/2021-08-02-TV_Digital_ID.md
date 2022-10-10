@@ -78,6 +78,7 @@ Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*)
 1. Tahap I → 30 April 2022
 2. Tahap II → 31 Agustus 2022
 3. Tahap III → 02 November 2022
+
 Untuk saat ini direncanakan penghentian siaran analog dipastikan pada 02 November 2022, dan tanpa tahap.
 
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
