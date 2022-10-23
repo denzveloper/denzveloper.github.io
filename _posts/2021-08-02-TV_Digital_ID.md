@@ -13,7 +13,7 @@ TV digital adalah siaran seperti TV biasa tapi dapat menerima modulasi/sistem si
 
 
 ### Sejarah Analog dan Program TV
-Sudah hampir 60 tahun (2021, pada saat artikel ini dibuat) TVRI yang perupakan stasiun televisi pertama di Indonesia mengudara uantuk menyiarkan ajang Asian Games IV (Asian Games ke-4 tahun 1962) yang sebagai tanda mengudaranya televisi Indonesia kemudian sistem analog berwarna dikenalkan pada tahun 1979 untuk menggantikan televisi dengan sistem siaran Hitam-Putih. Indonesia mengadopsi sistem siaran berwarna dengan standar siaran modulasi Analog-Eropa(PAL-BG), dan sekarang ini penggunaan frekuensinya sudah penuh sesak karena banyak bermunculan stasiun televisi-televisi baru yang akhirnya memenuhi langit Indonesia. Karena sistem analog ini hanya bisa diisi satu program dalam satu frekuensi, apalagi setiap satu channel/kanal frekuensi ini lebarnya 8 MHz ditambah lagi untuk *spacing* antar kanal agar tidak saling menganggu satu dengan lainnya maka kira-kira dalam satu dareah maksimum ada 20 channel/program/saluran TV UHF (perhitungan dengan cara "(62-22)/2=20" → 62 Channel maksimum UHF,  22 Channel minimum UHF, dibagi 2 untuk *spacing*) itupun kalau daerahnya benar-benar tidak ada gangguan frekuensi yang sama dengan daerah sekitarnya, kalau ada 20 channel/program tersebut bisa kurang. Dalam sistem TV Digital satu ini dalam satu frekuensi bisa diisi hingga 12 program/saluran TV dalam satu frekuensi, jadi sekiranya kalo tidak ada gangguan dari daerah lain bisa ada 156 program (perhitungan dengan cara "((48-22)/2)×12=156" → 48 Channel maksium UHF (700MHz keatas akan digunakan untuk jaringan telepon), 22 channel minimum UHF, dibagi 2 untuk *spacing*, dikali 12 untuk banyaknya program dalam satu frekuensi/channel*^*), banyak bukan? tapi tidak akan sebanyak itu, tiap daerah akan diberi porsi 6 channel/kanal saja, jadi setidaknya ada 72 saluran/program TV(6×12=72) maksimum. 72 program TV sudah lebih dari cukup, dibandingkan dengan Analog yang hanya 22 program/channel. *(catatan: TV digital Indonesia sepenuhnya menggunakan gelombang UHF, VHF? Tidak ada catatan atau informasi penggunaan gelombang VHF dalam digitalisai Televisi dan kemungkinan tidak akan ada)*
+Sudah hampir 60 tahun (2021, pada saat artikel ini dibuat) TVRI yang perupakan stasiun televisi pertama di Indonesia mengudara uantuk menyiarkan ajang Asian Games IV (Asian Games ke-4 tahun 1962) yang sebagai tanda mengudaranya televisi Indonesia kemudian sistem analog berwarna dikenalkan pada tahun 1979 untuk menggantikan televisi dengan sistem siaran Hitam-Putih. Indonesia mengadopsi sistem siaran berwarna dengan standar siaran modulasi Analog-Eropa(PAL-BG), dan sekarang ini penggunaan frekuensinya sudah penuh sesak karena banyak bermunculan stasiun televisi-televisi baru yang akhirnya memenuhi langit Indonesia. Karena sistem analog ini hanya bisa diisi satu program dalam satu frekuensi, apalagi setiap satu channel/kanal frekuensi ini lebarnya 8 MHz ditambah lagi untuk *spacing* antar kanal agar tidak saling menganggu satu dengan lainnya maka kira-kira dalam satu dareah maksimum ada 20 channel/program/saluran TV UHF (perhitungan dengan cara "(62-22)/2=20" → 62 Channel maksimum UHF,  22 Channel minimum UHF, dibagi 2 untuk *spacing*) itupun kalau daerahnya benar-benar tidak ada gangguan frekuensi yang sama dengan daerah sekitarnya, kalau ada 20 channel/program tersebut bisa kurang. Dalam sistem TV Digital satu ini dalam satu frekuensi bisa diisi hingga 12 program/saluran TV dalam satu frekuensi, jadi sekiranya kalo tidak ada gangguan dari daerah lain bisa ada 156 program (perhitungan dengan cara "((48-22)/2)×12=156" → 48 Channel maksium UHF (700MHz keatas akan digunakan untuk jaringan telepon), 22 channel minimum UHF, dibagi 2 untuk *spacing*, dikali 12 untuk banyaknya program dalam satu frekuensi/channel<sup>[1](#no1)</sup>), banyak bukan? tapi tidak akan sebanyak itu, tiap daerah akan diberi porsi 6 channel/kanal saja, jadi setidaknya ada 72 saluran/program TV(6×12=72) maksimum. 72 program TV sudah lebih dari cukup, dibandingkan dengan Analog yang hanya 22 program/channel. *(catatan: TV digital Indonesia sepenuhnya menggunakan gelombang UHF, VHF? Tidak ada catatan atau informasi penggunaan gelombang VHF dalam digitalisai Televisi dan kemungkinan tidak akan ada)*
 
 
 ### Standar Digital Indonesia
@@ -128,6 +128,8 @@ Sudah Digital (6 MUX/25 Program):
 
 Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~
+* ~~BTV (?MHz/?UHF): → *Belum terkonfirmasi*~~
+* sportOne (586MHz/35UHF): → Mungkin setelah ASO, dan aktif dikota-kota besar^.
 
 
 Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
@@ -199,7 +201,8 @@ Informasi Teknis dan Hukum:
 
 ## #TV Digital Bersih, Jernih, Canggih!
 
-*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam satu channel (8MHz UHF): 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*
+<a name="no1">
+*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam satu channel (8MHz UHF): 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*</a>
 
 
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
@@ -213,6 +216,11 @@ Informasi Teknis dan Hukum:
 
 
 *^Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang*
+
+
+*^Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, JABAR-3 belum ada kabar*
+
+*^Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut*
 
 
 *^(Diperbarui 10-10-2022)*
