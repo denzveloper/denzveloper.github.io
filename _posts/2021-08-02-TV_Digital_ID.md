@@ -201,8 +201,7 @@ Informasi Teknis dan Hukum:
 
 ## #TV Digital Bersih, Jernih, Canggih!
 
-<a name="no1">
-*^Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam satu channel (8MHz UHF): 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*</a>
+*<sup><a name="no1">1 </a></sup>Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam satu channel (8MHz UHF): 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*
 
 
 *^Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
