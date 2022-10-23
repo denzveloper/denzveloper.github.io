@@ -35,7 +35,7 @@ Televisi Terestrial secara sederhananya adalah siaran televisi yang bisa ditangk
 
 
 ### Apakah TV Digital Terestrial ada biaya?
-Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran TV melalui media kabel, parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV/*Streaming*), yang mengharuskan Anda berlangganan dengan biaya berjangka baik bulanan ataupun tahunan untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Pada sistem TV digital ini lebih baik dibanding sistem pada TV analog. Gambar yang diterima pun lebih **Bersih** bisa menyiarkan gambar HD<sup>[[9](#no9)]</sup>, suaranya **Jernih** tidak aka kemeresek karena kurang sinyal<sup>[[9](#no9)]</sup>, berkat teknologinya yang **Canggih** yang dapat memaksimalkan bandwith frekuensi<sup>[[1](#no1)]</sup>. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat penerima, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
+Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran TV melalui media kabel, parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV/*Streaming*), yang mengharuskan Anda berlangganan dengan biaya berjangka baik bulanan ataupun tahunan untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Pada sistem TV digital ini lebih baik dibanding sistem pada TV analog. Gambar yang diterima pun lebih **Bersih** bisa menyiarkan gambar HD<sup>[[10](#no10)]</sup>, suaranya **Jernih** tidak aka kemeresek karena kurang sinyal<sup>[[10](#no10)]</sup>, berkat teknologinya yang **Canggih** yang dapat memaksimalkan bandwith frekuensi<sup>[[1](#no1)]</sup>. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat penerima, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
 
 
 ### TV saya sudah LCD/LED, termasuk TV digital Terestrial?
@@ -114,7 +114,7 @@ Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka ata
 
 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
-Ini adalah salah satu list yang berhasil dipantau khusus untuk daerah Cirebon.
+Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon.
 
 
 Sudah Digital (6 MUX/25 Program)<sup>[[4](#no4)]</sup>:
@@ -223,10 +223,10 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no8">8</a>] </sup>Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut*
 
 
-*<sup>[<a name="no8">8</a>] </sup>TVRI masih belum menggunakan sistem SFN, dimana TVRI Cirebon masih di 48UHF sedangkan TVRI Kuningan sudah menggunakan 29UHF. dan dibanyak daerah melaporkan bahwa TVRI Jabar-3 tidak tertangkap.*
+*<sup>[<a name="no9">9</a>] </sup>TVRI masih belum menggunakan sistem SFN, dimana TVRI Cirebon masih di 48UHF sedangkan TVRI Kuningan sudah menggunakan 29UHF. dan dibanyak daerah melaporkan bahwa TVRI Jabar-3 tidak tertangkap.*
 
 
-*<sup>[<a name="no9">9</a>] </sup>Bersih dan Jernih jika Kualitas sinyal yang diterima diatas 60% untuk Siaran HD, dan 40% Siaran SD juga Bit Error Rate yang tidak banyak. Jika dibawah angka tersebut maka penerimaan akan seperti CD/DVD Rusak. Kalau terjadi seperti demikian coba ubah arah antena kemudian hadpkan kearah pemancar MUX yang dituju atau gantilah peralatan penerima. Jika bingung mintalah bantuan dari teknisi terdekat.*
+*<sup>[<a name="no10">10</a>] </sup>Bersih dan Jernih jika Kualitas sinyal yang diterima diatas 60% untuk Siaran HD, dan 40% Siaran SD juga Bit Error Rate yang tidak banyak. Jika dibawah angka tersebut maka penerimaan akan seperti CD/DVD Rusak. Kalau terjadi seperti demikian coba ubah arah antena kemudian hadpkan kearah pemancar MUX yang dituju atau gantilah peralatan penerima. Jika bingung mintalah bantuan dari teknisi terdekat.*
 
 
 *^(Diperbarui 23-10-2022)*
