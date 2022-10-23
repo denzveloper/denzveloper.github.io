@@ -35,7 +35,7 @@ Televisi Terestrial secara sederhananya adalah siaran televisi yang bisa ditangk
 
 
 ### Apakah TV Digital Terestrial ada biaya?
-Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran TV melalui media kabel, parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV/*Streaming*), yang mengharuskan Anda berlangganan dengan biaya berjangka (bulanan/tahunan) untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Pada sistem TV digital ini lebih baik dibanding sistem pada TV analog. Gambar yang diterima pun lebih Bersih, suaranya Jernih, berkat teknologinya yang Canggih. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
+Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran TV melalui media kabel, parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV/*Streaming*), yang mengharuskan Anda berlangganan dengan biaya berjangka baik bulanan ataupun tahunan untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Pada sistem TV digital ini lebih baik dibanding sistem pada TV analog. Gambar yang diterima pun lebih **Bersih** bisa menyiarkan gambar HD<sup>[[9](#no9)]</sup>, suaranya **Jernih** tidak aka kemeresek karena kurang sinyal<sup>[[9](#no9)]</sup>, berkat teknologinya yang **Canggih** yang dapat memaksimalkan bandwith frekuensi<sup>[[1](#no1)]</sup>. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat penerima, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
 
 
 ### TV saya sudah LCD/LED, termasuk TV digital Terestrial?
@@ -46,7 +46,7 @@ Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sam
 
 
 ### Apa saya perlu beli antena baru?
-Tidak perlu, Anda bisa menggunakan antena yang telah anda gunakan pada televisi Anda selama ini (Lebih spesifiknya Antena UHF).
+**Tidak perlu**, Anda bisa menggunakan antena yang telah anda gunakan pada televisi Anda selama ini (Lebih spesifiknya Antena UHF). Tapi jika dirasa antena anda sudah lama dan usang apa salahnya untuk segera untuk diganti.
 
 
 ### Antena saya ××-Digital, jadi bisa dapat acara dari TV digital Terestrial?
@@ -58,11 +58,11 @@ Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), A
 
 
 ### Cara pasang STB ke TV
-Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekali! Tinggal colok antena TV lama Anda ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih) jika cuma ada Jingga dan Putih (Televisi dengan Audio Mono atau Kanan-Kiri sama)? Sesuaikan saja. Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang. Tips: Untuk yang memakai HDMI atur resolusi ke 720p-60Hz terlebih dahulu, karena ada beberapa TV/Monitor yang tidak mendukung selain resolusi layar tersebut dan mengakibatkan tulisan pesan "*Out Of Range*". Setelah semua pengaturan awal selesai baru Anda bisa menggantinya dengan resolusi yang lebih tinggi/sesuai dengan keinginan; Untuk pengguna AV/TV Tabung gunakan PAL/576i-50Hz agar gambar yang dihasilkan lebih tajam, dan sesuai dengan format *refresh rate* video yang digunakan di televisi Indonesia jika tidak gambar akan menjadi buram bahkan hanya Hitam-Putih. (Ada beberapa STB yang mendukung diantaranya "Video Component YPbPr" dan "S-Video" tapi tidak akan dibahas disini karena hanya mendukung gambar saja)
+Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekali! Tinggal colok antena TV lama Anda ke STB dan colok juga port yang kompatibel dengan TV Anda. Misalnya TV Anda memiliki input berupa AV/RCA, Anda tinggal mencolokkannya sesuai dengan warna dari konektor dan lubang AV/RCAnya(Merah dengan Merah, Jingga dengan Jingga, dan Putih dengan Putih) jika cuma ada Jingga dan Putih (Televisi dengan Audio Mono atau Kanan-Kiri sama)? Sesuaikan saja. Ada HDMI? Justru itu lebih baik, karena Anda bisa dapat menikmati resolusi HD yang terbaik(dibanding dengan AV akan diturunkan ke resolusi PAL 576i/NTSC 480i). Setelah dicolokkan kemudian di TV ubah ke input AV/HDMI sesuai dengan yang Anda pasang. Tips: Untuk yang memakai HDMI atur resolusi ke 720p-60Hz terlebih dahulu, karena ada beberapa TV/Monitor yang tidak mendukung selain resolusi layar tersebut dan mengakibatkan tulisan pesan "*Out Of Range*". Setelah semua pengaturan awal selesai baru Anda bisa menggantinya dengan resolusi yang lebih tinggi/sesuai dengan keinginan; Untuk pengguna AV/TV Tabung gunakan PAL/576i-50Hz agar gambar yang dihasilkan lebih tajam, dan sesuai dengan format *refresh rate* video yang digunakan di televisi Indonesia jika tidak gambar akan menjadi buram bahkan hanya Hitam-Putih. (Ada beberapa STB yang mendukung diantaranya "Video Component YPbPr" dan "S-Video" tapi tidak akan dibahas disini karena hanya mendukung gambar saja).
 
 
 ### Jangkauan sinyal TV Digital Terestrial
-Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referensi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi.
+Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referensi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi. atau Anda bisa mengunjungi web [Dashboard ini](https://digitaltv.kominfo.go.id/).
 ![Pemancar TV VIVA Group dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/tvnfm.webp)
 Jika melihat jenis antena seperti ini pada menara yaitu dengan panel antena yang lebar dan besar dengan bentuk trapesium, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "sinyalTVDigital" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
 
@@ -128,15 +128,15 @@ Sudah Digital (6 MUX/25 Program)<sup>[[4](#no4)]</sup>:
 
 Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
-* ~~BTV (?MHz/?UHF): → *Belum terkonfirmasi*~~
-* sportOne (586MHz/35UHF): → Mungkin setelah ASO, dan aktif dikota-kota besar^.
+* ~~BTV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[7](#no7)]</sup>
+* sportOne (586MHz/35UHF): → Mungkin setelah ASO, dan aktif dikota-kota besar<sup>[[8](#no8)]</sup>.
 
 
 Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
-* 1 TVRI Nasional
-* 2 TVRI Jawa Barat
-* 3 TVRI World Kanal 3
-* 4 TVRI Sport Kanal 4
+* 1 TVRI Nasional<sup>[[9](#no9)]</sup>
+* 2 TVRI Jawa Barat<sup>[[9](#no9)]</sup>
+* 3 TVRI World Kanal 3<sup>[[9](#no9)]</sup>
+* 4 TVRI Sport Kanal 4<sup>[[9](#no9)]</sup>
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
 * 22 Metro TV HD
@@ -217,9 +217,13 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no6">6</a>] </sup>Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang*
 
 
-*^Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, JABAR-3 belum ada kabar*
-
-*^Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut*
+*<sup>[<a name="no7">7</a>] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, JABAR-3 belum ada kabar*
 
 
-*^(Diperbarui 10-10-2022)*
+*<sup>[<a name="no8">8</a>] </sup>Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut*
+
+
+*<sup>[<a name="no8">8</a>] </sup>TVRI masih belum menggunakan sistem SFN, dimana TVRI Cirebon masih di 48UHF sedangkan TVRI Kuningan sudah menggunakan 29UHF. dan dibanyak daerah melaporkan bahwa TVRI Jabar-3 tidak tertangkap.*
+
+
+*^(Diperbarui 23-10-2022)*
