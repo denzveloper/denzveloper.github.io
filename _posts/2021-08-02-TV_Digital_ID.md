@@ -73,7 +73,8 @@ Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siara
 
 
 ### Jadwal ASO (Analog Switch Off)<sup>[[2](#no2)]</sup>
-Semua stasiun Televisi di Indonesia akan segera dimatikan dengan jadwal sesuai daerahnya masing-masing. Untuk seluruh Indonesia semua stasiun TV analog akan direncanakan berhenti total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi.
+Semua stasiun Televisi di Indonesia akan segera dimatikan. Untuk beberapa wilayah Indonesia yaitu JABODETABEK dan 173 kabupaten atau kota lainnya, semua stasiun TV analog akan direncanakan berhenti total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi. Untuk sisanya 292 Kota lain akan menyusul, sesuai kesiapan wilayahnya masing-masing.
+
 
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia), atau grup dibawah [ini](#group).
 
