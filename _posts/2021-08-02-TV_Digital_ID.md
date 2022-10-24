@@ -73,15 +73,9 @@ Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siara
 
 
 ### Jadwal ASO (Analog Switch Off)<sup>[[2](#no2)]</sup>
-Semua stasiun Televisi di Indonesia akan segera dimatikan dengan jadwal sesuai daerahnya masing-masing. Untuk seluruh Indonesia semua stasiun TV analog akan diberhentikan total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi.
-Jadwal penghentian sinyal TV analog atau dikenal dengan ASO(*Analog Switch Off*) akan terjadi dalam 3 tahap pada awalnya yaitu:
-1. Tahap I → 30 April 2022<sup>[[3](#no3)]</sup>
-2. Tahap II → 31 Agustus 2022
-3. Tahap III → 02 November 2022
+Semua stasiun Televisi di Indonesia akan segera dimatikan dengan jadwal sesuai daerahnya masing-masing. Untuk seluruh Indonesia semua stasiun TV analog akan direncanakan berhenti total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi.
 
-Untuk saat ini direncanakan penghentian siaran analog dipastikan pada 02 November 2022, dan tanpa tahap.
-
-Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia)
+Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia), atau grup dibawah [ini](#group).
 
 
 ### Channel/Program di-TV saya kok' semakin sedikit (Analog)?
@@ -129,7 +123,7 @@ Sudah Digital (6 MUX/25 Program)<sup>[[4](#no4)]</sup>:
 Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
 * ~~BTV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[7](#no7)]</sup>
-* sportOne (586MHz/35UHF): → Mungkin setelah ASO, dan aktif dikota-kota besar<sup>[[8](#no8)]</sup>.
+* sportOne (586MHz/35UHF): → Mungkin setelah ASO Nasional, dan aktif dikota-kota besar<sup>[[8](#no8)]</sup>.
 
 
 Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
@@ -161,7 +155,7 @@ Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/
 *Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara
 
 
-### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
+### <a name="group">Forum/Tanya-Jawab/informasi lebih lanjut/teknis?</a>
 Anda bisa ikut bergabung di-grup TV Digital (Facebook+Telegram):
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
@@ -229,4 +223,4 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no10">10</a>] </sup>Bersih dan Jernih jika Kualitas sinyal yang diterima diatas 60% untuk Siaran HD, dan 40% Siaran SD juga Bit Error Rate yang tidak banyak. Jika dibawah angka tersebut maka penerimaan akan seperti CD/DVD Rusak. Kalau terjadi seperti demikian coba ubah arah antena kemudian hadpkan kearah pemancar MUX yang dituju atau gantilah peralatan penerima. Jika bingung mintalah bantuan dari teknisi terdekat.*
 
 
-*^(Diperbarui 23-10-2022)*
+*^(Diperbarui 24-10-2022)*
