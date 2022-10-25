@@ -59,16 +59,23 @@ h1 {
 
 h2 {
   font-size: 24px;
-  margin-bottom: -6px;
+  margin-bottom: -15px;
 }
 
 h3 {
   font-size: 20px;
+  margin-bottom: -15px;
 }
 
 h4 {
   font-size: 18px;
   color: $gray;
+  margin-bottom: -15px;
+}
+
+h5{
+  font-size: 14px;
+  margin-bottom: -15px;
 }
 
 p {
@@ -131,6 +138,7 @@ img {
   font-style: italic;
   background-color: $lightGray;
   padding-right: 7px;
+  margin-top: -3px;
 }
 
 // Specify the color of the selection
