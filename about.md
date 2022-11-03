@@ -30,7 +30,7 @@ WORK: STUDENTS (Right Now)
 
 LANG: Bahasa Indonesia, English
 
-Quotes: "Clouds over the Moon, and Wind over the Flowers" — Good time doesn't last long.
+Quotes: "[Clouds over the Moon, and Wind over the Flowers](https://en.touhouwiki.net/wiki/Lyrics:_%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8#cite_note-clouds-1)" — Good time doesn't last long.
 
 
 ### Workstation
