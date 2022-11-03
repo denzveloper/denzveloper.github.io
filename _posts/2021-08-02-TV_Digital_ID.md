@@ -228,7 +228,7 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no10">10</a>] </sup>Bersih dan Jernih jika Kualitas sinyal yang diterima diatas 60% untuk Siaran HD, dan 40% Siaran SD juga Bit Error Rate yang tidak banyak. Jika dibawah angka tersebut maka penerimaan akan seperti CD/DVD Rusak. Kalau terjadi seperti demikian coba ubah arah antena kemudian hadpkan kearah pemancar MUX yang dituju atau gantilah peralatan penerima. Jika bingung mintalah bantuan dari teknisi terdekat.*
 
 
-*<sup>[<a name="no11">11</a>] </sup>Opini Penulis: Seharusnya Standar STB itu ada 2 output, yakni: RF Out dan HDMI. Kenapa RF Out kebanyakan TV jadul tidak punya AV/RCA dan sangat mengandalkan Antena, jadi seharusnya wajib ada RF Out. Seminimal mungkin Hanya ada keluaran dari RF Out VHF dan HDMI saja, AV oposional (Tidak Semua TV Bisa AV, tapi semua TV bisa RF. dan untuk menikmati Resolusi Tinggi pakai HDMI).*
+*<sup>[<a name="no11">11</a>] </sup>Opini Penulis: Seharusnya Standar STB itu ada 2 output, yakni: RF Out dan HDMI. Kenapa RF Out? kebanyakan TV jadul tidak punya AV/RCA dan sangat mengandalkan Antena, jadi seharusnya wajib ada RF Out. Seminimal mungkin Hanya ada keluaran dari RF Out VHF dan HDMI saja, AV oposional (Tidak Semua TV Bisa AV, tapi semua TV bisa RF. dan untuk menikmati Resolusi Tinggi pakai HDMI).*
 
 
 *^(Diperbarui 03-11-2022)*
