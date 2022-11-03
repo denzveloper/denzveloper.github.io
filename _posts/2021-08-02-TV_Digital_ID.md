@@ -38,7 +38,7 @@ Televisi Terestrial secara sederhananya adalah siaran televisi yang bisa ditangk
 Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran TV melalui media kabel, parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV/*Streaming*), yang mengharuskan Anda berlangganan dengan biaya berjangka baik bulanan ataupun tahunan untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Pada sistem TV digital ini lebih baik dibanding sistem pada TV analog. Gambar yang diterima pun lebih **Bersih** bisa menyiarkan gambar HD<sup>[[10](#no10)]</sup>, suaranya **Jernih** tidak aka kemeresek karena kurang sinyal<sup>[[10](#no10)]</sup>, berkat teknologinya yang **Canggih** yang dapat memaksimalkan bandwith frekuensi<sup>[[1](#no1)]</sup>. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat penerima, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
 
 
-### TV saya sudah LCD/LED, termasuk TV digital Terestrial?<a name="digitanya">&nbsp;</a>
+### <a name="digitanya"></a>TV saya sudah LCD/LED, termasuk TV digital Terestrial?
 **Belum tentu** "**TV Digital**". Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda adakah tulisan atau label ataupun ada Logo **DVB-T2**, **Modi**, dan atau **Siap Digital** ataupun juga bisa dicek pada menu pencarian di-TV Anda apakah ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
 ![DVB-T2 Logo]({{ site.baseurl }}/images/dvbt2.png)
 ![Siap Digital Logo]({{ site.baseurl }}/images/siapdigi.png)
@@ -200,35 +200,35 @@ Informasi Teknis dan Hukum:
 
 ## #TV Digital Bersih, Jernih, Canggih!
 
-*<sup>[<a name="no1">1</a>] </sup>Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam satu channel (8MHz UHF): 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*
+*<sup>[<a name="no1"></a>1] </sup>Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam satu channel (8MHz UHF): 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*
 
 
-*<sup>[<a name="no2">2</a>] </sup>Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
+*<sup>[<a name="no2"></a>2] </sup>Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
-*<sup>[<a name="no3">3</a>] </sup>Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total segera setelah 02 November 2022.*
+*<sup>[<a name="no3"></a>3] </sup>Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total segera setelah 02 November 2022.*
 
-*<sup>[<a name="no4">4</a>] </sup>Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX atau bekas pemancar stasiun TV wilayah tersebut.*
-
-
-*<sup>[<a name="no5">5</a>] </sup>Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
+*<sup>[<a name="no4"></a>4] </sup>Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX atau bekas pemancar stasiun TV wilayah tersebut.*
 
 
-*<sup>[<a name="no6">6</a>] </sup>Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang*
+*<sup>[<a name="no5"></a>5] </sup>Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*<sup>[<a name="no7">7</a>] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, JABAR-3 belum ada kabar*
+*<sup>[<a name="no6"></a>6] </sup>Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang*
 
 
-*<sup>[<a name="no8">8</a>] </sup>Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut*
+*<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, JABAR-3 belum ada kabar*
 
 
-*<sup>[<a name="no9">9</a>] </sup>TVRI masih belum menggunakan sistem SFN, dimana TVRI Cirebon masih di 48UHF sedangkan TVRI Kuningan sudah menggunakan 29UHF. dan dibanyak daerah melaporkan bahwa TVRI Jabar-3 tidak tertangkap.*
+*<sup>[<a name="no8"></a>8] </sup>Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut*
 
 
-*<sup>[<a name="no10">10</a>] </sup>Bersih dan Jernih jika Kualitas sinyal yang diterima diatas 60% untuk Siaran HD, dan 40% Siaran SD juga Bit Error Rate yang tidak banyak. Jika dibawah angka tersebut maka penerimaan akan seperti CD/DVD Rusak. Kalau terjadi seperti demikian coba ubah arah antena kemudian hadpkan kearah pemancar MUX yang dituju atau gantilah peralatan penerima. Jika bingung mintalah bantuan dari teknisi terdekat.*
+*<sup>[<a name="no9"></a>9] </sup>TVRI masih belum menggunakan sistem SFN, dimana TVRI Cirebon masih di 48UHF sedangkan TVRI Kuningan sudah menggunakan 29UHF. dan dibanyak daerah melaporkan bahwa TVRI Jabar-3 tidak tertangkap.*
 
 
-*<sup>[<a name="no11">11</a>] </sup>Opini Penulis: Seharusnya Standar STB itu ada 2 output, yakni: RF Out dan HDMI. Kenapa RF Out? kebanyakan TV jadul tidak punya AV/RCA dan sangat mengandalkan Antena, jadi seharusnya wajib ada RF Out. Seminimal mungkin Hanya ada keluaran dari RF Out VHF dan HDMI saja, AV oposional (Tidak Semua TV Bisa AV, tapi semua TV bisa RF. dan untuk menikmati Resolusi Tinggi pakai HDMI).*
+*<sup>[<a name="no10"></a>10] </sup>Bersih dan Jernih jika Kualitas sinyal yang diterima diatas 60% untuk Siaran HD, dan 40% Siaran SD juga Bit Error Rate yang tidak banyak. Jika dibawah angka tersebut maka penerimaan akan seperti CD/DVD Rusak. Kalau terjadi seperti demikian coba ubah arah antena kemudian hadpkan kearah pemancar MUX yang dituju atau gantilah peralatan penerima. Jika bingung mintalah bantuan dari teknisi terdekat.*
+
+
+*<sup>[<a name="no11"></a>11] </sup>Opini Penulis: Seharusnya Standar STB itu ada 2 output, yakni: RF Out dan HDMI. Kenapa RF Out? kebanyakan TV jadul tidak punya AV/RCA dan sangat mengandalkan Antena, jadi seharusnya wajib ada RF Out. Seminimal mungkin Hanya ada keluaran dari RF Out VHF dan HDMI saja, AV oposional (Tidak Semua TV Bisa AV, tapi semua TV bisa RF. dan untuk menikmati Resolusi Tinggi pakai HDMI).*
 
 
 *^(Diperbarui 03-11-2022)*
