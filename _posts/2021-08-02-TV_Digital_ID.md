@@ -121,7 +121,7 @@ Sudah Digital (6 MUX/25 Program)<sup>[[4](#no4)]</sup>:
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
 
 
-Sudah ASO (Analouge Switch Off):
+Sudah ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital:
 * RCTV (Radar Cirebon Televisi) → 34UHF ([Off pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941))
 
 
@@ -173,7 +173,7 @@ Atau Anda bisa menghubungi/mengunjugi situs kementrian terkait di:
 - Telepon: 159
 - Whatsapp: [Whatsapp](https://wa.me/628118202208)
 - Facebook: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
-- Twitter: [Siaran Digital Indonesia](https://www.facebook.com/siarandigitalindonesia)
+- Twitter: [Siaran Digital Indonesia](https://twitter.com/siarandigital)
 - Website: <https://siarandigital.kominfo.go.id/>
 
 
@@ -228,4 +228,4 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no10">10</a>] </sup>Bersih dan Jernih jika Kualitas sinyal yang diterima diatas 60% untuk Siaran HD, dan 40% Siaran SD juga Bit Error Rate yang tidak banyak. Jika dibawah angka tersebut maka penerimaan akan seperti CD/DVD Rusak. Kalau terjadi seperti demikian coba ubah arah antena kemudian hadpkan kearah pemancar MUX yang dituju atau gantilah peralatan penerima. Jika bingung mintalah bantuan dari teknisi terdekat.*
 
 
-*^(Diperbarui 24-10-2022)*
+*^(Diperbarui 03-11-2022)*
