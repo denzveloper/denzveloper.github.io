@@ -64,7 +64,7 @@ Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekal
 ### Jangkauan sinyal TV Digital Terestrial
 Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referensi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi. atau Anda bisa mengunjungi web [Dashboard ini](https://digitaltv.kominfo.go.id/).
 ![Pemancar TV VIVA Group dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/tvnfm.webp)
-Jika melihat jenis antena seperti ini pada menara yaitu dengan panel antena yang lebar dan besar dengan bentuk trapesium, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "sinyalTVDigital" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
+Jika melihat jenis antena seperti ini pada menara yaitu dengan panel antena yang lebar dan besar dengan bentuk trapesium, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
 
 
 ### Urgensi Beralih ke TV Digital Terestrial
@@ -160,7 +160,7 @@ Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/
 *Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara
 
 
-### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?<a name="group">&nbsp;</a>
+### <a name="group"></a>Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
 Anda bisa ikut bergabung di-grup TV Digital (Facebook+Telegram):
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
