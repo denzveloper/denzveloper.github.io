@@ -205,7 +205,7 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no2">2</a>] </sup>Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
-*<sup>[<a name="no3">3</a>] </sup>Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total pada 02 November 2022.*
+*<sup>[<a name="no3">3</a>] </sup>Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total segera setelah 02 November 2022.*
 
 *<sup>[<a name="no4">4</a>] </sup>Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX atau bekas pemancar stasiun TV wilayah tersebut.*
 
