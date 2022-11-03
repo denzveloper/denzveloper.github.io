@@ -38,7 +38,7 @@ Televisi Terestrial secara sederhananya adalah siaran televisi yang bisa ditangk
 Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sama seperti TV biasa (Analog). TV Digital perbedaannya terletak sistem sinyalnya. TV Digital itu bukan siaran TV melalui media kabel, parabola/satelit ataupun TV yang menggunakan koneksi jaringan internet (IPTV/*Streaming*), yang mengharuskan Anda berlangganan dengan biaya berjangka baik bulanan ataupun tahunan untuk mendapatkan konten secara maksimal atau membutuhkan paket data atau pulsa untuk mengaksesnya. Pada sistem TV digital ini lebih baik dibanding sistem pada TV analog. Gambar yang diterima pun lebih **Bersih** bisa menyiarkan gambar HD<sup>[[10](#no10)]</sup>, suaranya **Jernih** tidak aka kemeresek karena kurang sinyal<sup>[[10](#no10)]</sup>, berkat teknologinya yang **Canggih** yang dapat memaksimalkan bandwith frekuensi<sup>[[1](#no1)]</sup>. Hanya saja kalau untuk membeli alat tambahan akan dikenakan biaya (kalau TV Anda tidak *support*), itupun  biaya hanya diawal saja sebagai pembelian alat penerima, untuk menonton TV Digital FTA alias *Free To Air* tentunya gratis tanpa biaya berlangganan.
 
 
-### TV saya sudah LCD/LED, termasuk TV digital Terestrial?
+### TV saya sudah LCD/LED, termasuk TV digital Terestrial?<a name="digitanya">&nbsp;</a>
 **Belum tentu** "**TV Digital**". Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda adakah tulisan atau label ataupun ada Logo **DVB-T2**, **Modi**, dan atau **Siap Digital** ataupun juga bisa dicek pada menu pencarian di-TV Anda apakah ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
 ![DVB-T2 Logo]({{ site.baseurl }}/images/dvbt2.png)
 ![Siap Digital Logo]({{ site.baseurl }}/images/siapdigi.png)
@@ -54,7 +54,7 @@ Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digit
 
 
 ### TV saya hanya analog, cara dapat siaran digital terestrial gimana?
-Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli **Set Top Box**/*Dekoder* Digital DVB-T2 dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)). Set Top Box ini berguna untuk merubah atau mengkonversi (*Decoding*) sinyal Digital DVB-T2 yang ada disekitar area Anda menjadi sinyal/data yang dapat diterima di TV lama Anda melalui AV atau bahkan HDMI. Jika Anda ragu dan agar tidak salah membeli: pertama tanyakan pada penjual "Apakah ini dekoder/STB TV digital", kedua lihat bagian dusnya apakah ada ciri-ciri STB digital seperti pada pembahasan "**TV saya sudah LCD/LED, termasuk TV digital?**", ketiga lihat pada RF IN/Antena IN apakah colokannya seperti pada colokan antena TV Anda (Ada juga STB/dekoder yang memakai konektor tipe F, lebih baik dihindari agar gak perlu membeli konverter atau malah salah membeli produk), keempat Pilihlah STB yang memiliki garansi resmi dan atau lebih baik merk/produk yang Anda beli punya *service center* terdekat disekitar Anda.
+Untuk membuat TV lama anda bisa bernafas lebih lama (daripada tidak terpakai), Anda bisa membeli **Set Top Box**/*Dekoder* Digital DVB-T2 dengan harga yang bervariasi mulai dari 100ribuan hingga 700ribuan (Lebih baik beli yang ada [Rekomendasi dari Kominfo](https://siarandigital.kominfo.go.id/informasi/perangkat-televisi)). Set Top Box ini berguna untuk merubah atau mengkonversi (*Decoding*) sinyal Digital DVB-T2 yang ada disekitar area Anda menjadi sinyal/data yang dapat diterima di TV lama Anda melalui AV atau bahkan HDMI. Jika Anda ragu dan agar tidak salah membeli: pertama tanyakan pada penjual "Apakah ini dekoder/STB TV digital", kedua lihat bagian dusnya apakah ada ciri-ciri STB digital seperti pada pembahasan "**[TV saya sudah LCD/LED, termasuk TV digital?](#digitanya)**", ketiga lihat pada RF IN/Antena IN apakah colokannya seperti pada colokan antena TV Anda (Ada juga STB/dekoder yang memakai konektor tipe F, lebih baik dihindari agar gak perlu membeli konverter atau malah salah membeli produk), keempat Pilihlah STB yang memiliki garansi resmi dan atau lebih baik merk/produk yang Anda beli punya *service center* terdekat disekitar Anda.
 
 
 ### Cara pasang STB ke TV
@@ -160,7 +160,7 @@ Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/
 *Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara
 
 
-### <a name="group">Forum/Tanya-Jawab/informasi lebih lanjut/teknis?</a>
+### Forum/Tanya-Jawab/informasi lebih lanjut/teknis?<a name="group">&nbsp;</a>
 Anda bisa ikut bergabung di-grup TV Digital (Facebook+Telegram):
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
