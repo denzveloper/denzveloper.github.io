@@ -3,7 +3,7 @@ layout: post
 title: Siaran TV Digital (Bahasa Indonesia)
 ---
 
-![Si-Modi]({{ site.baseurl }}/images/modi.webp)
+![Si-Modi]({{ site.baseurl }}/images/tvdigi/modi.webp)
 
 *Only Available in Indonesian (Bahasa Indonesia) as a greeter era digital television in Indonesia*
 
@@ -18,12 +18,12 @@ Sudah hampir 60 tahun (2021, pada saat artikel ini dibuat) TVRI yang perupakan s
 
 ### Standar Digital Indonesia
 Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC dikembangkan Amerika, DTMB dikembangkan Tiongkok, ISDB dikembangkan Jepang, dan DVB dikembangkan Eropa. Di Indonesia sendiri memilih sistem siaran digital dikembangkan Eropa yaitu DVB. Untuk siaran yang berbasis antena menggunakan sistem **DVB-T2**. DVB-T2 sendiri merupakan sistem TV digital terestrial generasi ke-2 yang telah disempurnakan dibanding generasi sebelumnya yang dikeluarkan tahun 1997-an. Awas jangan keliru dengan DVB lainnya ya, sebab standar DVB ini ada banyak macamnya juga ada DVB-C untuk TV kabel langganan (1<sup>st</sup>media contohnya), standar DVB-S atau DVB-S2 untuk TV satelit/parabola, dan DVB-T ini standar lama dan sudah tidak dipakai di Indonesia. Jadi jangan sampai salah membeli! Pilih yang berspesifikasi **DVB-T2**!
-![Konten siaran TV Digital]({{ site.baseurl }}/images/cara_siaranTV.png)
+![Konten siaran TV Digital]({{ site.baseurl }}/images/tvdigi/cara_siaranTV.png)
 
 
 ### Digital? Satelit? Streaming?
 **Bukan, bukan..** TV digital yang dimaksud disini bukan digital satelit atau streaming ataupun juga paket channel *bundling* dari paket Penyedia Internet berkabel, walau memang semuanya itu menggunakan sistem digital dalam transmisinya/pengirimannya. TV digital sekali lagi seperti TV yang Anda tonton selama ini, hanya saja TV digital menggunakan teknologi sinyal digital terkini, dan tetap transmisinya/pengirimannya melalui medium udara. Karena menggunakan teknologi digital terkini maka sistem lama yang merupakan sistem penyiaran TV analog tidak akan kompatibel/sesuai dengan sistem digital. Sekali lagi perbedaan TV digital dengan TV lama (Analog) itu hanya berbeda saat pengiriman dan penerimaan data dari stasiun transmisi/MUX/relay ke TV penontonnya yang sebelumnya pada TV lama menggunakan sistem analog PAL, sekarang menggunakan sistem digital DVB.
-![Cara Pancar TV Digital]({{ site.baseurl }}/images/carapancarTV.png)
+![Cara Pancar TV Digital]({{ site.baseurl }}/images/tvdigi/carapancarTV.png)
 
 
 ### Digital? Buffering?
@@ -40,9 +40,9 @@ Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sam
 
 ### <a name="digitanya"></a>TV saya sudah LCD/LED, termasuk TV digital Terestrial?
 **Belum tentu** "**TV Digital**". Anda bisa mengecek spesifikasi pada buku petunjuk atau manual penggunaan atau bisa juga cek di dus TV Anda adakah tulisan atau label ataupun ada Logo **DVB-T2**, **Modi**, dan atau **Siap Digital** ataupun juga bisa dicek pada menu pencarian di-TV Anda apakah ada tulisan atau menu **Pencarian DTV**(**Pencarian Digital TV**)?
-![DVB-T2 Logo]({{ site.baseurl }}/images/dvbt2.png)
-![Siap Digital Logo]({{ site.baseurl }}/images/siapdigi.png)
-![Gambar Si-Modi Maskot TV Digital Indonesia]({{ site.baseurl }}/images/modi.webp)
+![DVB-T2 Logo]({{ site.baseurl }}/images/tvdigi/dvbt2.png)
+![Siap Digital Logo]({{ site.baseurl }}/images/tvdigi/siapdigi.png)
+![Gambar Si-Modi Maskot TV Digital Indonesia]({{ site.baseurl }}/images/tvdigi/modi.webp)
 
 
 ### Apa saya perlu beli antena baru?
@@ -50,7 +50,7 @@ Tentu saja **tidak ada biaya** untuk menontonnya, sekali lagi TV Digital ini sam
 
 
 ### Antena saya ××-Digital, jadi bisa dapat acara dari TV digital Terestrial?
-Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" Tidak serta-merta Anda bisa menangkap tayangan TV digital, Sekali lagi pada dasarnya semua **antena** itu sama yaitu **menangkap radiasi/gelombang radio** yang ada diudara/langit **disekitar Anda** dan memang beberapa antena dirancang dengan kepekaan terhadap sinyal atau gelombang radio yang tinggi, biasa ditandai dengan panjangnya antena, serta banyaknya jari-jari kecil/pendek pada antena (Untuk lebih jelas terhadap masalah teknis antena ini lebih baik konsultasi dengan orang disekitar Anda yang ahli dibidang itu). Karena itu semua kembali lagi kepada alat yang dipakai atau dalam hal ini televisi yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
+Jawabannya **Tidak**. Antena digital saja tidak bisa menayangkan siaran TV digital, karena tetap saja yang merubah gelombang sinyal ke gambar dan suara itu ada dibagian televisinya(dalam hal ini pada perangkat penerima sinyalnya atau turner). Antena hanya sebagai alat penangkap gelombang yang ada diudara/langit lalu mentransfernya ke televisi yang ada dirumah(Tidak peduli sinyal itu berupa Analog ataukah Digital antena hanya menangkap sinyal tersebut kemudian mentransernya ke televisi). Jadi jika Anda menemukan label "4K Ultra HD Digital TV Antena", "Digital Antenna", "FULL HD Digital Antenna" Tidak serta-merta Anda bisa menangkap tayangan TV digital, Sekali lagi pada dasarnya semua **antena** itu sama yaitu **menangkap radiasi/gelombang radio** yang ada diudara/langit **disekitar Anda** dan memang beberapa antena dirancang dengan kepekaan terhadap sinyal atau gelombang radio yang tinggi, biasa ditandai dengan panjangnya antena, serta banyaknya jari-jari kecil/pendek pada antena (Untuk lebih jelas terhadap masalah teknis antena ini lebih baik konsultasi dengan orang disekitar Anda yang ahli dibidang itu). Karena itu semua kembali lagi kepada alat yang dipakai atau dalam hal ini televisi yang Anda gunakan apa bisa menangkap sinyal DVB-T2.
 
 
 ### TV saya hanya analog, cara dapat siaran digital terestrial gimana?
@@ -62,14 +62,14 @@ Jika anda memilih untuk membeli STB, untuk cara pemasangannya sangat mudah sekal
 
 
 ### Jangkauan sinyal TV Digital Terestrial
-Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referensi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi. atau Anda bisa mengunjungi web [Dashboard ini](https://digitaltv.kominfo.go.id/).
-![Pemancar TV VIVA Group dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/tvnfm.webp)
+Anda bisa megunduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" untuk **referensi** ketersediaan program TV yang tersedia disekitar Anda (catatan: ada kemungkinan program TV yang tertampil lebih/kurang dari aplikasi). Aplikasi ini membantu Anda untuk mengecek kekuatan sinyal di area anda, membantu juga untuk pengarahan antena agar mendapat sinyal yang lebih baik lagi. atau Anda bisa mengunjungi web [Dashboard ini](https://digitaltv.kominfo.go.id/).ll
+![Pemancar TV VIVA Group dan Pemancar Radio FM RRI WERU-CIREBON]({{ site.baseurl }}/images/tvdigi/tvnfm.webp)
 Jika melihat jenis antena seperti ini pada menara yaitu dengan panel antena yang lebar dan besar dengan bentuk trapesium, maka kemungkinan besar itu adalah pemancar dari sebuah televisi, tapi belum tentu pemancar Televisi Digital, untuk itu silahkan unduh aplikasi "[sinyalTVdigital](https://siarandigital.kominfo.go.id/informasi/pemirsa-televisi)" sebagai referennsinya (kiri merupakan pemancar Televisi dan sebelah kanan adalah Pemancar FM dari stasiun RRI).
 
 
 ### Urgensi Beralih ke TV Digital Terestrial
 Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siaran terestrial Analog ke siaran terestrial digital. Seperti Amerika Serikat, Inggris Raya, Negara-negara Eropa, Jepang, bahkan Negara-negara ASEAN sudah banyak yang migrasi ke televisi digital. Seperti Singapura, Malaysa dan Brunei Darussalam. Untuk itu Indonesia bisa diharapkan tepat waktu untuk menyelesaikan perpindahan ini dimana batasnya 2 November 2022.
-![Digitalisasi ITU dan dunia]({{ site.baseurl }}/images/urgensiaso.png)
+![Digitalisasi ITU dan dunia]({{ site.baseurl }}/images/tvdigi/urgensiaso.png)
 
 
 ### Jadwal ASO (Analog Switch Off)<sup>[[2](#no2)]</sup>
@@ -81,6 +81,13 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 
 ### Channel/Program di-TV saya kok' semakin sedikit (Analog)?
 Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk digunakan pada jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini) dari rencana/jadwal Kominfo. Memang pada dasarnya jadwal dari Kominfo itu adalah tanggal paling akhir/**batas akhir** untuk **analog mengudara** di tempat tersebut.
+
+
+### QAM, QPSK apa itu?
+QAM, QPSK adalah jenis modulasi yang termasuk didalam keluarga modulasi OFDM dipakai dalam transmisi sinyal digital. dimana data transmisi sinyal tersebut dikodekan dalam koordinat angka-angka biner. berikut contoh dari modulasi-modulasinya yang dipakai dalam sistem DVB-T2:
+![Modulasi QPSK-QAM]({{ site.baseurl }}/images/tvdigi/modulasi.png)
+Dari gambar tersersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya maka semakin banyak titik koordinat dan penyimbolan datanya, maka dari itu semakin banyak makan semakin besar bandwidthnya. Namun semakin banyak penyimbolan data maka akan semakin rentan juga datanya dengan gangguan derau atau *noise* yang ada dilingkungan sekitar.
+
 
 
 ### Tabel Konversi nomor kanal ke Frekuensi (MHz)
@@ -231,4 +238,4 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no11"></a>11] </sup>Opini Penulis: Seharusnya Standar STB itu ada 2 output, yakni: RF Out dan HDMI. Kenapa RF Out? kebanyakan TV jadul tidak punya AV/RCA dan sangat mengandalkan Antena, jadi seharusnya wajib ada RF Out. Seminimal mungkin Hanya ada keluaran dari RF Out VHF dan HDMI saja, AV oposional (Tidak Semua TV Bisa AV, tapi semua TV bisa RF. dan untuk menikmati Resolusi Tinggi pakai HDMI).*
 
 
-*^(Diperbarui 03-11-2022)*
+*^(Diperbarui 15-11-2022)*
