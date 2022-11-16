@@ -84,7 +84,7 @@ Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka ata
 
 
 ### QAM, QPSK apa itu?
-QAM, QPSK adalah jenis modulasi yang termasuk didalam keluarga modulasi OFDM dipakai dalam transmisi sinyal digital. dimana data transmisi sinyal tersebut dikodekan dalam koordinat angka-angka biner. berikut contoh dari modulasi-modulasinya yang dipakai dalam sistem DVB-T2:
+QAM, QPSK adalah jenis modulasi yang termasuk didalam keluarga modulasi OFDM dipakai dalam transmisi sinyal digital. dimana data transmisi sinyal tersebut dikodekan dalam koordinat angka-angka biner. berikut contoh dari modulasi-modulasinya yang dipakai dalam sistem DVB-T2[]:
 ![Modulasi QPSK-QAM]({{ site.baseurl }}/images/tvdigi/modulasi.png)
 Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya maka semakin banyak titik koordinat dan penyimbolan datanya, maka dari itu semakin banyak makan semakin besar bandwidthnya. Namun semakin banyak penyimbolan data maka akan semakin rentan juga datanya dengan gangguan derau atau *noise* yang ada dilingkungan sekitar.
 
@@ -237,5 +237,7 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no11"></a>11] </sup>Opini Penulis: Seharusnya Standar STB itu ada 2 output, yakni: RF Out dan HDMI. Kenapa RF Out? kebanyakan TV jadul tidak punya AV/RCA dan sangat mengandalkan Antena, jadi seharusnya wajib ada RF Out. Seminimal mungkin Hanya ada keluaran dari RF Out VHF dan HDMI saja, AV oposional (Tidak Semua TV Bisa AV, tapi semua TV bisa RF. dan untuk menikmati Resolusi Tinggi pakai HDMI).*
 
+*<sup>[<a name="no12"></a>12] </sup>Gambar tersebut merupakan gambar moduliasi yang biasanya dipakai dalam jaringan. dalam siaran TV dengan DVB-T2 akan dimiringkan atau diputar moduliasinya searah jarum jam.*
 
-*^(Diperbarui 15-11-2022)*
+
+*^(Diperbarui 16-11-2022)*
