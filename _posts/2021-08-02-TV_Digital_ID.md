@@ -240,4 +240,4 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no12"></a>12] </sup>Gambar tersebut merupakan gambar moduliasi yang biasanya dipakai dalam jaringan. dalam siaran TV dengan DVB-T2 akan dimiringkan atau diputar moduliasinya searah jarum jam.*
 
 
-*^(Diperbarui 16-11-2022)*
+*^(Diperbarui 17-11-2022)*
