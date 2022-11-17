@@ -84,7 +84,7 @@ Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka ata
 
 
 ### QAM, QPSK apa itu?
-QAM, QPSK adalah jenis modulasi yang termasuk didalam keluarga modulasi OFDM dipakai dalam transmisi sinyal digital. dimana data transmisi sinyal tersebut dikodekan dalam koordinat angka-angka biner. berikut contoh dari modulasi-modulasinya yang dipakai dalam sistem DVB-T2[]:
+QAM, QPSK adalah jenis modulasi yang termasuk didalam keluarga modulasi OFDM dipakai dalam transmisi sinyal digital. dimana data transmisi sinyal tersebut dikodekan dalam koordinat angka-angka biner. berikut contoh dari modulasi-modulasinya yang dipakai dalam sistem DVB-T2<sup>[[12](#no12)]</sup>:
 ![Modulasi QPSK-QAM]({{ site.baseurl }}/images/tvdigi/modulasi.png)
 Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya maka semakin banyak titik koordinat dan penyimbolan datanya, maka dari itu semakin banyak makan semakin besar bandwidthnya. Namun semakin banyak penyimbolan data maka akan semakin rentan juga datanya dengan gangguan derau atau *noise* yang ada dilingkungan sekitar.
 
