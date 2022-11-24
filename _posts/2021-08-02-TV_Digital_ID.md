@@ -24,6 +24,7 @@ Ada banyak standar dari sistem TV digital yang dikenalkan, yaitu; ATSC dikembang
 ### Digital? Satelit? Streaming?
 **Bukan, bukan..** TV digital yang dimaksud disini bukan digital satelit atau streaming ataupun juga paket channel *bundling* dari paket Penyedia Internet berkabel, walau memang semuanya itu menggunakan sistem digital dalam transmisinya/pengirimannya. TV digital sekali lagi seperti TV yang Anda tonton selama ini, hanya saja TV digital menggunakan teknologi sinyal digital terkini, dan tetap transmisinya/pengirimannya melalui medium udara. Karena menggunakan teknologi digital terkini maka sistem lama yang merupakan sistem penyiaran TV analog tidak akan kompatibel/sesuai dengan sistem digital. Sekali lagi perbedaan TV digital dengan TV lama (Analog) itu hanya berbeda saat pengiriman dan penerimaan data dari stasiun transmisi/MUX/relay ke TV penontonnya yang sebelumnya pada TV lama menggunakan sistem analog PAL, sekarang menggunakan sistem digital DVB.
 ![Cara Pancar TV Digital]({{ site.baseurl }}/images/tvdigi/carapancarTV.png)
+![Cara Pancar TV Digital v2]({{ site.baseurl }}/images/tvdigi/tvdigital.png)
 
 
 ### Digital? Buffering?
@@ -120,12 +121,12 @@ Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Ci
 
 
 Sudah Digital (6 MUX/25 Program)<sup>[[4](#no4)]</sup>:
-* MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)
+* MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)<sup>[[13](#no13)]</sup>
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
-* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (segera 38UHF)
+* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (segera 38UHF)<sup>[[13](#no13)]</sup>
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
-* VIVA/Bakrie (682MHz/47UHF)²: ANTV, TV One, **RCTV** → Sinyal Lemah (segera 35UHF)
-* TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)
+* VIVA/Bakrie (682MHz/47UHF)²: ANTV, TV One, **RCTV** → Sinyal Lemah (segera 35UHF)<sup>[[13](#no13)]</sup>
+* TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
 
 
 Sudah ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital:
@@ -162,9 +163,6 @@ Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Sal
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
 Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/lembaga-penyiaran) atau [link ini](https://www.postel.go.id/sdppi_maps/27-20210208-peta-sebaran-isr-tv-digital.php) atau yang [ini](https://public.tableau.com/views/PetaISRTVDigital_16131981145190/DashboardISRTVDigital?:language=en&:embed=y&:toolbar=n&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link). Informasi teknis lebih tentang MUX di Cirebon bisa kunjungi [ini](https://docs.google.com/spreadsheets/d/1Fhi2wb1PovXPOxIKNoscLYcp64hYvB8Ma68MUsMooYU/edit?usp=sharing).
-
-
-*Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara
 
 
 ### <a name="group"></a>Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
@@ -237,7 +235,10 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no11"></a>11] </sup>Opini Penulis: Seharusnya Standar STB itu ada 2 output, yakni: RF Out dan HDMI. Kenapa RF Out? kebanyakan TV jadul tidak punya AV/RCA dan sangat mengandalkan Antena, jadi seharusnya wajib ada RF Out. Seminimal mungkin Hanya ada keluaran dari RF Out VHF dan HDMI saja, AV oposional (Tidak Semua TV Bisa AV, tapi semua TV bisa RF. dan untuk menikmati Resolusi Tinggi pakai HDMI).*
 
-*<sup>[<a name="no12"></a>12] </sup>Gambar tersebut merupakan gambar moduliasi yang biasanya dipakai dalam jaringan. dalam siaran TV dengan DVB-T2 akan dimiringkan atau diputar moduliasinya searah jarum jam.*
+*<sup>[<a name="no12"></a>12] </sup>Gambar tersebut merupakan gambar moduliasi yang biasanya dipakai dalam jaringan. dalam siaran TV dengan DVB-T2 akan dimiringkan atau diputar modulasinya searah jarum jam.*
 
 
-*^(Diperbarui 17-11-2022)*
+*<sup>[<a name="no13"></a>13] </sup>Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara. Sedangkan yang sudah menggunakan kanal tetap dimana tidak perlu scan ulang jika sudah ASO*
+
+
+*^(Diperbarui 24-11-2022)*
