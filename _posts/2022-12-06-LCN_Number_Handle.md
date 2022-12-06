@@ -19,7 +19,7 @@ No LCN is no gives number by multiplexer when sending they transmit, then receiv
 ## Numbering No LCN Number
 
 ### NEX Parabola Combo (DVB-S2+DVB-T2) receiver
-in NEX Parabola Combo no LCN number from multiplexer, they start at LCN number 920
+in NEX Parabola Combo no LCN number from multiplexer, they start at LCN number 935
 ![NEX Parabola STB]({{ site.baseurl }}/images/lcnhandle/nex.webp)
 
 ### TCL TV
