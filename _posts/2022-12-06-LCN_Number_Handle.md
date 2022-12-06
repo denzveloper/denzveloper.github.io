@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No LCN Number Handle on DVB-T2
+title: No LCN Handle on DVB-T2 Device
 ---
 
 ![TV remote]({{ site.baseurl }}/images/lcnhandle/lastremote.webp)
@@ -17,6 +17,7 @@ No LCN is no gives number by multiplexer when sending they transmit, then receiv
 
 
 ## Numbering No LCN Number
+This data is impelent from device DVB-T2 turner.
 
 ### NEX Parabola Combo (DVB-S2+DVB-T2) receiver
 in NEX Parabola Combo no LCN number from multiplexer, they start at LCN number 935 then sort by high signal strengh first
