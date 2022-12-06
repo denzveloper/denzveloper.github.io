@@ -6,7 +6,7 @@ title: LCN Number Handle on DVB-T2
 ![TV remote]({{ site.baseurl }}/images/lcnhandle/lastremote.webp)
 
 ## What is LCN?
-LCN is Logical Channel Number was using in television for easily numbering TV Program by genre, group, company, or any other purpose. This LCN work best by 
+LCN is Logical Channel Number was using in television for easily numbering TV Program by genre, group, company, or any other purpose. This LCN work best by remote control.
 
 
 ## LCN in Indonesia
