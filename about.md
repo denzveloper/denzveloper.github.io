@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+image: /images/dendy.jpg
 ---
 
 ![DzEN/DzEN]({{ site.baseurl }}/images/dendy.jpg)

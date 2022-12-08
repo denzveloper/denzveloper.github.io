@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wine Controller Joystick Error
+image: /images/winejoy/wineglass.png
 ---
 
 ![Logo Pipewire]({{ site.baseurl }}/images/winejoy/wineglass.png)

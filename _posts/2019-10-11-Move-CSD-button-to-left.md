@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moving GTK-CSD to left
+image: /images/gtkcsdmove.png
 ---
 
 ![CSD Left Like MAC for GTK]({{ site.baseurl }}/images/gtkcsdmove.png)

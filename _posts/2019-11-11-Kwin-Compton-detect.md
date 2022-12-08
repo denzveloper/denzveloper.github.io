@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Detecting Kwin is running or not for run compton
+image: /images/kwincmptn.svg
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/kwincmptn.svg)

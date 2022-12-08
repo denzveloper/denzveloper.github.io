@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MIDI playback on Linux
+image: /images/midi_logo.jpg
 ---
 
 ![Logo MIDI]({{ site.baseurl }}/images/midi_logo.jpg)

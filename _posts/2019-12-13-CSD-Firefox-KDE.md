@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CSD gap space Firefox Problem in KDE
+image: /images/ssff.png
 ---
 
 ![Firefox CSD Fix]({{ site.baseurl }}/images/ssff.png)

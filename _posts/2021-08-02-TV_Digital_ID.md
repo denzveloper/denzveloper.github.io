@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Siaran TV Digital (Bahasa Indonesia)
+image: /images/tvdigi/modi.webp
 ---
 
 ![Si-Modi]({{ site.baseurl }}/images/tvdigi/modi.webp)
