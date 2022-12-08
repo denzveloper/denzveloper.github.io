@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No LCN Handle on DVB-T2 Device
-preview: /images/lcnhandle/lastremote.webp
+image: /images/lcnhandle/lastremote.webp
 ---
 
 ![TV remote]({{ site.baseurl }}/images/lcnhandle/lastremote.webp)
