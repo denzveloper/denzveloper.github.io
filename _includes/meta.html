@@ -6,9 +6,9 @@
 
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.content| strip_html }}" />
-    <meta property="og:description" content="{{ post.content| strip_html }}" />
+    {% if page.content %}
+    <meta name="description" content="{{ page.content| strip_html|truncatewords:175 }}" />
+    <meta property="og:description" content="{{ page.content| strip_html|truncatewords:175 }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
