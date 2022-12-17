@@ -4,13 +4,13 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon" />
 
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    {% if post.content %}
+    <meta name="description" content="{{ post.content | strip_html | truncatewords:75 }}" />
+    <meta property="og:description" content="{{ post.content | strip_html | truncatewords:75 }}" />
     {% else %}
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description }}" />
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
@@ -21,7 +21,7 @@
     {% endif %}
     
     {% if page.image %}
-    <meta property="og:image" content="{{ site.baseurl }}{{ page.image }}" />
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
     {% endif %}
     
     <meta name="url" content="{{ site.url }}" />
