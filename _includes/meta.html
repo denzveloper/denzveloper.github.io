@@ -7,8 +7,8 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
     {% if page.content %}
-    <meta name="description" content="{{ page.content| strip_html|truncatewords:175 }}" />
-    <meta property="og:description" content="{{ page.content| strip_html|truncatewords:175 }}" />
+    <meta name="description" content="{{ page.content| strip_html|truncatewords:100 }}" />
+    <meta property="og:description" content="{{ page.content| strip_html|truncatewords:100 }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />

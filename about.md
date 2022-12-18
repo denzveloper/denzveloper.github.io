@@ -27,7 +27,7 @@ Sex: MALE
 
 Country: Indonesia
 
-WORK: STUDENTS (Right Now)
+WORK: Fulltime → IT Support
 
 LANG: Bahasa Indonesia, English
 
@@ -41,9 +41,6 @@ Quotes: "[Clouds over the Moon, and Wind over the Flowers](https://en.touhouwiki
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
 ![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
-
-### Now Playing ▶
-[![Spotify](https://novatorem-denzveloper.vercel.app/api/spotify)](https://open.spotify.com/user/314qkaftvxwsgxbp2lr4gwjddk44)
 
 ### Contact me
 [dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com)
