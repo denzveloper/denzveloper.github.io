@@ -42,8 +42,9 @@ Quotes: "[Clouds over the Moon, and Wind over the Flowers](https://en.touhouwiki
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
 ![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
 
-### Log Github:web
-Log: <https://github.com/denzveloper/denzveloper.github.io/commits/master>
+### Log Github
+WEB: <https://github.com/denzveloper/denzveloper.github.io/commits/master>
+Gallery: <https://github.com/denzveloper/gallery/commits/master>
 
 ### Contact me
 [dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com)
