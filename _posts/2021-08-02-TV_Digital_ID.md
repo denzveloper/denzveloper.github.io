@@ -76,6 +76,7 @@ Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siara
 
 ### Jadwal ASO (Analog Switch Off)<sup>[[2](#no2)]</sup>
 Semua stasiun Televisi di Indonesia akan segera dimatikan. Untuk beberapa wilayah Indonesia yaitu JABODETABEK dan 173 kabupaten atau kota lainnya, semua stasiun TV analog sudah berhenti total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi. Untuk sisanya 292 Kota lain akan menyusul, sesuai kesiapan wilayahnya masing-masing.
+Untuk Wilayah Cirebon dan Kuiningan sudah diinfokan bahwa akan dilakukan ASO pada 10 Januari 2023 pukul 24:00 WIB. Silahkan persiapkan perangkat televisi Anda dengan perangkai penerima Televisi Digital.
 
 
 Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/wiki/Penghentian_siaran_analog#Tahapan_penghentian_siaran_analog_di_Indonesia), atau grup dibawah [ini](#group).
@@ -118,7 +119,7 @@ Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya 
 
 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
-Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon.
+Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon. Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan dimatikan pada 10 Januari 2023 pukul 24:00 WIB.
 
 
 Sudah Digital (6 MUX/25 Program)<sup>[[4](#no4)]</sup>:
@@ -211,7 +212,7 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no2"></a>2] </sup>Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
 
-*<sup>[<a name="no3"></a>3] </sup>Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total segera setelah 02 November 2022.*
+*<sup>[<a name="no3"></a>3] </sup>Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total segera setelah 02 November 2022. Untuk wilayah Jabar-3 akan dilakukan 10 Januari 2023 pada pukul 24:00 waktu setempat bersamaan dengan sembilan Wilayah Bali, Makassar, Banjarmasin, Medan, Palembang, Malang, Kediri, Madiun, dan Purwokerto.*
 
 *<sup>[<a name="no4"></a>4] </sup>Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX atau bekas pemancar stasiun TV wilayah tersebut.*
 
@@ -242,4 +243,4 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no13"></a>13] </sup>Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara. Sedangkan yang sudah menggunakan kanal tetap dimana tidak perlu scan ulang jika sudah ASO*
 
 
-*^(Diperbarui 24-11-2022)*
+*^(Diperbarui 03-01-2022)*
