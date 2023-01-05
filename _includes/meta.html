@@ -6,7 +6,7 @@
 
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
-    {% if page.layout == "page" |  %}
+    {% if page.layout == "page" %}
     <meta name="description" content="{{ page.content|markdownify|strip_html|truncatewords:100 }}" />
     <meta property="og:description" content="{{ page.content|markdownify|strip_html|truncatewords:100 }}" />
     {% elsif page.excerpt %}
