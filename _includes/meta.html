@@ -6,7 +6,10 @@
 
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
-    {% if page.content %}
+	{% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt| strip_html }}" />
+    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    {% elseif page.content %}
     <meta name="description" content="{{ page.content|strip_html|truncatewords:100 }}" />
     <meta property="og:description" content="{{ page.content|strip_html|truncatewords:100 }}" />
     {% else %}

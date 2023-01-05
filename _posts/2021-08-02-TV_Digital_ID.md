@@ -139,7 +139,7 @@ Sudah ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia di
 Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
 * ~~BTV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[7](#no7)]</sup>
-* sportOne (586MHz/35UHF): → Mungkin setelah ASO Nasional, dan aktif dikota-kota besar<sup>[[8](#no8)]</sup>.
+* sportOne/VTV (586MHz/35UHF): → Mungkin setelah ASO Nasional, dan aktif dikota-kota besar<sup>[[8](#no8)]</sup>.
 
 
 Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
