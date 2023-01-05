@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Test
-permalink: /video/
+permalink: /videotest/
 image: /images/lcnhandle/lastremote.webp
 ---
 This just a video recorded some Indonesia Television Program on Digital Television DVB-T2, Preview is encoded by MP4 Video codec for raw or transport stream you cant view in browser but you download it (content is same with preview version).
