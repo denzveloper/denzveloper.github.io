@@ -7,11 +7,11 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
     {% if page.layout == "page" %}
-    <meta name="description" content="{{ page.content|markdownify|strip_html|truncatewords:100 }}" />
-    <meta property="og:description" content="{{ page.content|markdownify|strip_html|truncatewords:100 }}" />
+    <meta name="description" content="{{ page.content|markdownify|strip_html|truncatewords:50 }}" />
+    <meta property="og:description" content="{{ page.content|markdownify|strip_html|truncatewords:50 }}" />
     {% elsif page.excerpt %}
-    <meta name="description" content="{{ page.content|strip_html|truncatewords:100 }}" />
-    <meta property="og:description" content="{{ page.content|strip_html|truncatewords:100 }}" />
+    <meta name="description" content="{{ page.content|strip_html|truncatewords:75 }}" />
+    <meta property="og:description" content="{{ page.content|strip_html|truncatewords:75 }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
@@ -19,12 +19,12 @@
     <meta name="author" content="{{ site.name }}" />
 
     {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+    <meta property="og:title" content="{{ page.title }} — {{ site.name }}" />
+    <meta property="twitter:title" content="{{ page.title }} — {{ site.name }}" />
     {% endif %}
     
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
     {% endif %}
     
-    <meta name="url" content="{{ site.url }}" />
+    <meta name="url" content="{{ site.url }}{{ post.url }}" />
