@@ -123,13 +123,13 @@ Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Ci
 **Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan dimatikan pada 10 Januari 2023 pukul 24:00 WIB.**
 
 
-Sudah Digital (6 MUX/25 Program)<sup>[[4](#no4)]</sup>:
+Sudah Digital (6 MUX/26 Program)<sup>[[4](#no4)]</sup>:
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)<sup>[[13](#no13)]</sup>
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (segera 38UHF)<sup>[[13](#no13)]</sup>
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
 * VIVA/Bakrie (682MHz/47UHF)²: ANTV, TV One, **RCTV** → Sinyal Lemah (segera 35UHF)<sup>[[13](#no13)]</sup>
-* TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
+* TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
 
 
 Sudah ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital:
@@ -139,7 +139,7 @@ Sudah ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia di
 Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
 * ~~BTV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[7](#no7)]</sup>
-* sportOne/VTV (586MHz/35UHF): → Mungkin setelah ASO Nasional, dan aktif dikota-kota besar<sup>[[8](#no8)]</sup>.
+* ~~VTV (586MHz/35UHF): → Mungkin setelah ASO Nasional, dan aktif dikota-kota besar~~<sup>[[8](#no8)]</sup>.
 
 
 Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
@@ -227,7 +227,7 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, JABAR-3 belum ada kabar*
 
 
-*<sup>[<a name="no8"></a>8] </sup>Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut*
+*<sup>[<a name="no8"></a>8] </sup>Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut. Mungkin hanya kabar angin juga.*
 
 
 *<sup>[<a name="no9"></a>9] </sup>TVRI masih belum menggunakan sistem SFN, dimana TVRI Cirebon masih di 48UHF sedangkan TVRI Kuningan sudah menggunakan 29UHF. dan dibanyak daerah melaporkan bahwa TVRI Jabar-3 tidak tertangkap.*
