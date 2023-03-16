@@ -142,7 +142,7 @@ Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana<sup>[[5](#no5)]</su
 * ~~VTV (586MHz/35UHF): → Mungkin setelah ASO Nasional, dan aktif dikota-kota besar~~<sup>[[8](#no8)]</sup>.
 
 
-Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
+Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
 * 1 TVRI Nasional<sup>[[9](#no9)]</sup>
 * 2 TVRI Jawa Barat<sup>[[9](#no9)]</sup>
 * 3 TVRI World Kanal 3<sup>[[9](#no9)]</sup>
@@ -152,8 +152,8 @@ Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Sal
 * 22 Metro TV HD
 * 23 SCTV HD
 * 24 INDOSIAR HD
-* 26 ANTV
-* 27 TV One
+* 26 ANTV HD<sup>[[9](#no9)]</sup>
+* 27 TV One<sup>[[9](#no9)]</sup>
 * 28 RCTI
 * 29 MNCTV
 * 30 GTV
@@ -162,6 +162,8 @@ Daftar [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Sal
 * 114 CNBC INDONESIA
 * 123 Moji
 * 124 Mentari TV
+* - Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)]</sup>
+* - Garuda TV<sup>[[9](#no9)]</sup>
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
@@ -227,10 +229,10 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, JABAR-3 belum ada kabar*
 
 
-*<sup>[<a name="no8"></a>8] </sup>Untuk sportOne kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut. Mungkin hanya kabar angin juga.*
+*<sup>[<a name="no8"></a>8] </sup>Untuk VTV kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut. Mungkin hanya kabar angin juga.*
 
 
-*<sup>[<a name="no9"></a>9] </sup>TVRI masih belum menggunakan sistem SFN, dimana TVRI Cirebon masih di 48UHF sedangkan TVRI Kuningan sudah menggunakan 29UHF. dan dibanyak daerah melaporkan bahwa TVRI Jabar-3 tidak tertangkap.*
+*<sup>[<a name="no9"></a>9] </sup>Unuk Stasiun TV ini hanya sebagian wilayah saja yang tertangkap. Banyak wilayah yang melaporkan bahwa stasiun TV dari MUX ini masih lemah sinyal atau terkena inteverensi dari wilayah lain mengakibatkan penangkapan siaran tidak maksimal dan bahkan beberapa wilayah tidak tertangkap sama sekali.*
 
 
 *<sup>[<a name="no10"></a>10] </sup>Bersih dan Jernih jika Kualitas sinyal yang diterima diatas 60% untuk Siaran HD, dan 40% Siaran SD juga Bit Error Rate yang tidak banyak. Jika dibawah angka tersebut maka penerimaan akan seperti CD/DVD Rusak. Kalau terjadi seperti demikian coba ubah arah antena kemudian hadpkan kearah pemancar MUX yang dituju atau gantilah peralatan penerima. Jika bingung mintalah bantuan dari teknisi terdekat.*
@@ -244,4 +246,4 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no13"></a>13] </sup>Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara. Sedangkan yang sudah menggunakan kanal tetap dimana tidak perlu scan ulang jika sudah ASO*
 
 
-*^(Diperbarui 03-01-2022)*
+*^(Diperbarui 16-03-2022)*
