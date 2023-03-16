@@ -162,8 +162,8 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 114 CNBC INDONESIA
 * 123 Moji
 * 124 Mentari TV
-* - Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)]</sup>
-* - Garuda TV<sup>[[9](#no9)]</sup>
+* [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)]</sup>
+* [?] Garuda TV<sup>[[9](#no9)]</sup>
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
