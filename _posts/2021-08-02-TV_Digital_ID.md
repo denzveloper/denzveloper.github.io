@@ -246,4 +246,4 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no13"></a>13] </sup>Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara. Sedangkan yang sudah menggunakan kanal tetap dimana tidak perlu scan ulang jika sudah ASO*
 
 
-*^(Diperbarui 16-03-2022)*
+*^(Diperbarui 21-03-2022)*
