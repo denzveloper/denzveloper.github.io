@@ -120,7 +120,7 @@ Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya 
 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
 Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon.
-**Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan dimatikan pada 10 Januari 2023 pukul 24:00 WIB.**
+**Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan Segera dimatikan. Jadi bersiaplah!**
 
 
 Sudah Digital (6 MUX/26 Program)<sup>[[4](#no4)]</sup>:
