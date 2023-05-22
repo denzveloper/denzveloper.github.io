@@ -126,9 +126,9 @@ Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Ci
 Sudah Digital (6 MUX/26 Program)<sup>[[4](#no4)]</sup>:
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)<sup>[[13](#no13)]</sup>
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
+* VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, RCTV, VTV → Sinyal Lemah<sup>[[13](#no13)]</sup>
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (segera 38UHF)<sup>[[13](#no13)]</sup>
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
-* VIVA/Bakrie (682MHz/47UHF)²: ANTV, TV One, **RCTV** → Sinyal Lemah (segera 35UHF)<sup>[[13](#no13)]</sup>
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
 
 
@@ -139,7 +139,7 @@ Sudah ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia di
 Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
 * ~~BTV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[7](#no7)]</sup>
-* ~~VTV (586MHz/35UHF): → Mungkin setelah ASO Nasional, dan aktif dikota-kota besar~~<sup>[[8](#no8)]</sup>.
+* VTV (586MHz/35UHF): → Sudah Tersedia di MUX ANTV/RCTV Jawa Barat-3<sup>[[8](#no8)]</sup>.
 
 
 Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
@@ -163,6 +163,7 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 123 Moji
 * 124 Mentari TV
 * [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)]</sup>
+* [?] VTV (Viva TV)<sup>[[9](#no9)]</sup>
 * [?] Garuda TV<sup>[[9](#no9)]</sup>
 
 
@@ -246,4 +247,4 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no13"></a>13] </sup>Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara. Sedangkan yang sudah menggunakan kanal tetap dimana tidak perlu scan ulang jika sudah ASO*
 
 
-*^(Diperbarui 21-03-2022)*
+*^(Diperbarui 22-05-2022)*
