@@ -152,8 +152,8 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 22 Metro TV HD
 * 23 SCTV HD
 * 24 INDOSIAR HD
-* 26 ANTV HD<sup>[[9](#no9)]</sup>
-* 27 TV One<sup>[[9](#no9)]</sup>
+* 26 ANTV HD<sup>[[9](#no9)][[14](#no14)]</sup>
+* 27 TV One<sup>[[9](#no9)][[14](#no14)]</sup>
 * 28 RCTI
 * 29 MNCTV
 * 30 GTV
@@ -162,9 +162,9 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 114 CNBC INDONESIA
 * 123 Moji
 * 124 Mentari TV
-* [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)]</sup>
-* [?] VTV<sup>[[9](#no9)]</sup>
-* [?] Garuda TV<sup>[[9](#no9)]</sup>
+* [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)][[14](#no14)]</sup>
+* [?] VTV<sup>[[9](#no9)][[14](#no14)]</sup>
+* [?] Garuda TV<sup>[[9](#no9)][[14](#no14)]</sup>
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
@@ -246,5 +246,7 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no13"></a>13] </sup>Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara. Sedangkan yang sudah menggunakan kanal tetap dimana tidak perlu scan ulang jika sudah ASO*
 
+
+*<sup>[<a name="no14"></a>14] </sup>Saat ini LCN atau Saluran Virtual pada stasiun TV ini tidak atau belum terkonfigurasi sesuai dengan data yang ada. Maka, stasiun TV tersebut akan ditempatkan secara otomatis oleh perangkat penerima pada nomor saluran virtual lebihan.*
 
 *^(Diperbarui 22-05-2022)*
