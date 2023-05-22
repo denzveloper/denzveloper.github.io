@@ -163,7 +163,7 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 123 Moji
 * 124 Mentari TV
 * [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)]</sup>
-* [?] VTV (Viva TV)<sup>[[9](#no9)]</sup>
+* [?] VTV<sup>[[9](#no9)]</sup>
 * [?] Garuda TV<sup>[[9](#no9)]</sup>
 
 
