@@ -121,19 +121,25 @@ Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
 Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon.
 **Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan Segera dimatikan. Jadi bersiaplah!**
+Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten di Jabar-3. Berikut daftar stasiun televisi swasta yang akan mengakhiri siaran analognya akhir bulan juni 2023; NET. EMTEK (meliputi Indosiar, SCTV), dan TRANSMEDIA (meliputi TRANS TV, Trans7).
 
 
 Sudah Digital (6 MUX/26 Program)<sup>[[4](#no4)]</sup>:
-* MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (segera 44UHF)<sup>[[13](#no13)]</sup>
+* MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (**Segera 44UHF**)<sup>[[13](#no13)]</sup>
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
 * VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, RCTV, VTV → Sinyal Lemah<sup>[[13](#no13)]</sup>
-* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (segera 38UHF)<sup>[[13](#no13)]</sup>
+* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (**Segera 38UHF**)<sup>[[13](#no13)]</sup>
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
 
 
-Sudah ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital:
-* RCTV (Radar Cirebon Televisi) → 34UHF ([Off pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941))
+Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital:
+* RCTV (Radar Cirebon Televisi) → 34UHF ([Off pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941)) tersedia di 35UHF
+* NET. → 23UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 32UHF
+* Indosiar → 46UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 37UHF
+* SCTV → 36UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 37UHF
+* TRANS7 → 50UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 41UHF
+* TRANSTV → 62UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 41UHF
 
 
 Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana<sup>[[5](#no5)]</sup>:
@@ -249,4 +255,4 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no14"></a>14] </sup>Saat ini LCN atau Saluran Virtual pada stasiun TV ini tidak atau belum terkonfigurasi sesuai dengan data yang ada. Maka, stasiun TV tersebut akan ditempatkan secara otomatis oleh perangkat penerima pada nomor saluran virtual lebihan.*
 
-*^(Diperbarui 22-05-2022)*
+*^(Diperbarui 21 Juni 2022)*
