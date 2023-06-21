@@ -70,12 +70,12 @@ Jika melihat jenis antena seperti ini pada menara yaitu dengan panel antena yang
 
 
 ### Urgensi Beralih ke TV Digital Terestrial
-Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siaran terestrial Analog ke siaran terestrial digital. Seperti Amerika Serikat, Inggris Raya, Negara-negara Eropa, Jepang, bahkan Negara-negara ASEAN sudah banyak yang migrasi ke televisi digital. Seperti Singapura, Malaysa dan Brunei Darussalam. Untuk itu Indonesia bisa diharapkan tepat waktu untuk menyelesaikan perpindahan ini dimana batasnya 2 November 2022.
+Sudah banyak Negara dibelahan dunia ini sudah migrasi dari televisi dengan siaran terestrial Analog ke siaran terestrial digital. Seperti Amerika Serikat, Inggris Raya, Negara-negara Eropa, Jepang, bahkan Negara-negara ASEAN sudah banyak yang migrasi ke televisi digital. Seperti Singapura, Malaysa dan Brunei Darussalam. Untuk itu Indonesia bisa diharapkan tepat waktu untuk menyelesaikan perpindahan ini dimana batasnya 17 Agustus 2023.
 ![Digitalisasi ITU dan dunia]({{ site.baseurl }}/images/tvdigi/urgensiaso.png)
 
 
 ### Jadwal ASO (Analog Switch Off)<sup>[[2](#no2)]</sup>
-Semua stasiun Televisi di Indonesia akan segera dimatikan. Untuk beberapa wilayah Indonesia yaitu JABODETABEK dan 173 kabupaten atau kota lainnya, semua stasiun TV analog sudah berhenti total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi. Untuk sisanya 292 Kota lain akan menyusul, sesuai kesiapan wilayahnya masing-masing.
+Semua stasiun Televisi di Indonesia akan segera dimatikan. Untuk beberapa wilayah Indonesia yaitu JABODETABEK dan 173 kabupaten atau kota lainnya, semua stasiun TV analog sudah berhenti total pada 2 November 2022, dan dipastikan tidak ada TV Analog yang bersiaran lagi. Untuk sisanya 292 Kota lain akan menyusul, sesuai kesiapan wilayahnya masing-masing hingga batas akhir yang ditetapkan Kominfo yaitu pada 17 Agustus 2023.
 **Untuk Wilayah Cirebon dan Kuiningan sudah diinfokan bahwa akan dilakukan segera dilakukan ASO. Silahkan persiapkan perangkat televisi Anda dengan perangkat penerima siaran Televisi Digital.**
 
 
@@ -83,7 +83,7 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 
 
 ### Channel/Program di-TV saya kok' semakin sedikit (Analog)?
-Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk digunakan pada jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini) dari rencana/jadwal Kominfo. Memang pada dasarnya jadwal dari Kominfo itu adalah tanggal paling akhir/**batas akhir** untuk **analog mengudara** di tempat tersebut.
+Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk digunakan pada jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini) dari rencana/jadwal Kominfo. Memang pada dasarnya jadwal dari Kominfo itu adalah tanggal paling akhir/**batas akhir** untuk **analog mengudara** di tempat tersebut. Jadwal Analog aktif dari kominfo hingga 17 Agustus 2023.
 
 
 ### QAM, QPSK apa itu?
@@ -127,7 +127,7 @@ Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri sia
 Sudah Digital (6 MUX/26 Program)<sup>[[4](#no4)]</sup>:
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (**Segera 44UHF**)<sup>[[13](#no13)]</sup>
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
-* VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, RCTV, VTV → Sinyal Lemah<sup>[[13](#no13)]</sup>
+* VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, RCTV, VTV.
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (**Segera 38UHF**)<sup>[[13](#no13)]</sup>
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
@@ -158,8 +158,8 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 22 Metro TV HD
 * 23 SCTV HD
 * 24 INDOSIAR HD
-* 26 ANTV HD<sup>[[9](#no9)][[14](#no14)]</sup>
-* 27 TV One<sup>[[9](#no9)][[14](#no14)]</sup>
+* 26 ANTV HD<sup>[[14](#no14)]</sup>
+* 27 TV One<sup>[[14](#no14)]</sup>
 * 28 RCTI
 * 29 MNCTV
 * 30 GTV
@@ -169,7 +169,7 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 123 Moji
 * 124 Mentari TV
 * [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)][[14](#no14)]</sup>
-* [?] VTV<sup>[[9](#no9)][[14](#no14)]</sup>
+* [?] VTV<sup>[[14](#no14)]</sup>
 * [?] Garuda TV<sup>[[9](#no9)][[14](#no14)]</sup>
 
 
