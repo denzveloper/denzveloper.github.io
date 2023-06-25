@@ -124,7 +124,7 @@ Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Ci
 Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten di Jabar-3. Berikut daftar stasiun televisi swasta yang akan mengakhiri siaran analognya akhir bulan juni 2023; NET. EMTEK (meliputi Indosiar, SCTV), dan TRANSMEDIA (meliputi TRANS TV, Trans7).
 
 
-Sudah Digital (6 MUX/26 Program)<sup>[[4](#no4)]</sup>:
+Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (**Segera 44UHF**)<sup>[[13](#no13)]</sup>
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
 * VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, RCTV, VTV.
@@ -133,16 +133,16 @@ Sudah Digital (6 MUX/26 Program)<sup>[[4](#no4)]</sup>:
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
 
 
-Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital:
-* RCTV (Radar Cirebon Televisi) → 34UHF ([Off pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941)) tersedia di 35UHF
-* NET. → 23UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 32UHF
-* Indosiar → 46UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 37UHF
-* SCTV → 36UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 37UHF
-* TRANS7 → 50UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 41UHF
-* TRANSTV → 62UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 41UHF
+Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3:
+* RCTV (Radar Cirebon Televisi) → 34UHF ([Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941)) tersedia di 35UHF - Belum Terkonfirmasi
+* NET. → 23UHF ([Akan Off Segera](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 32UHF - Belum Terkonfirmasi
+* Indosiar → 46UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
+* SCTV → 36UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
+* TRANS7 → 50UHF ([Akan Off Segera](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 41UHF - Belum Terkonfirmasi
+* TRANSTV → 62UHF ([Akan Off Segera](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 41UHF - Belum Terkonfirmasi
 
 
-Belum Digital, Pernah Bersiaran, dan terindikasi ada rencana<sup>[[5](#no5)]</sup>:
+Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
 * ~~BTV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[7](#no7)]</sup>
 * VTV (586MHz/35UHF): → Sudah Tersedia di MUX ANTV/RCTV Jawa Barat-3<sup>[[8](#no8)]</sup>.
@@ -255,4 +255,4 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no14"></a>14] </sup>Saat ini LCN atau Saluran Virtual pada stasiun TV ini tidak atau belum terkonfigurasi sesuai dengan data yang ada. Maka, stasiun TV tersebut akan ditempatkan secara otomatis oleh perangkat penerima pada nomor saluran virtual lebihan.*
 
-*^(Diperbarui 21 Juni 2022)*
+*^(Diperbarui 25 Juni 2022)*
