@@ -93,10 +93,10 @@ Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya 
 
 
 - Pada gambar dibawah ini adalah contoh diagram konstelasi dari 16QAM (Kiri) dan 64QAM (Kanan)
-![16QAM-64QAM DATA]({{ site.baseurl }}/images/tvdigi/16-64.gif)
+![16QAM-64QAM DATA]({{ site.baseurl }}/images/tvdigi/16-64opt.gif)
 
 - Pada gambar dibawah ini adalah contoh diagram konstelasi dari 256QAM (Kiri) dan 64QAM (Kanan)
-![256QAM-64QAM DATA]({{ site.baseurl }}/images/tvdigi/256-64.gif)
+![256QAM-64QAM DATA]({{ site.baseurl }}/images/tvdigi/256-64opt.gif)
 
 
 
