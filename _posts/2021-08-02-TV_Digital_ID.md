@@ -92,6 +92,13 @@ QAM, QPSK adalah jenis modulasi yang termasuk didalam keluarga modulasi OFDM dip
 Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya maka semakin banyak titik koordinat dan penyimbolan datanya, maka dari itu semakin banyak makan semakin besar bandwidthnya. Namun semakin banyak penyimbolan data maka akan semakin rentan juga datanya dengan gangguan derau atau *noise* yang ada dilingkungan sekitar.
 
 
+- Pada gambar dibawah ini adalah contoh diagram konstelasi dari 16QAM (Kiri) dan 64QAM (Kanan)
+![16QAM-64QAM DATA]({{ site.baseurl }}/images/tvdigi/16-64.gif)
+
+- Pada gambar dibawah ini adalah contoh diagram konstelasi dari 256QAM (Kiri) dan 64QAM (Kanan)
+![256QAM-64QAM DATA]({{ site.baseurl }}/images/tvdigi/256-64.gif)
+
+
 
 ### Tabel Konversi nomor kanal ke Frekuensi (MHz)
 
