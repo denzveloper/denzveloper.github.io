@@ -128,13 +128,13 @@ Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
 Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon.
 **Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan Segera dimatikan. Jadi bersiaplah!**
-Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten di Jabar-3. Berikut daftar stasiun televisi swasta yang akan mengakhiri siaran analognya akhir bulan juni 2023; NET. EMTEK (meliputi Indosiar, SCTV), dan TRANSMEDIA (meliputi TRANS TV, Trans7).
+Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten pada Jabar-3. Berikut daftar stasiun televisi swasta yang akan mengakhiri siaran analognya akhir bulan juni 2023: EMTEK (meliputi Indosiar, SCTV), dan TRANSMEDIA (meliputi TRANS TV, Trans7).
 
 
 Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 * MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (**Segera 44UHF**)<sup>[[13](#no13)]</sup>
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
-* VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, RCTV, VTV.
+* VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, *RCTV*, VTV.
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (**Segera 38UHF**)<sup>[[13](#no13)]</sup>
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
@@ -188,6 +188,7 @@ Anda bisa ikut bergabung di-grup TV Digital (Facebook+Telegram):
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
 - [Komunitas tv digital terestrial DVB-T2 Indonesia](https://www.facebook.com/groups/357305085288304)
+- [Tv digital jawa barat 3 ( CIAYUMAJAKUNING ,BREBES DAN SUBANG )](https://www.facebook.com/groups/486840772359870) (LOKAL)
 - [Grup Telegram TV DIGITAL INDONESIA](https://t.me/SiaranDigitalIndonesia)
 
 
@@ -226,9 +227,11 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no1"></a>1] </sup>Banyaknya program yang dimuat dalam satu kanal tergantung pada lebar bandwidth/banyak data yang tersedia pada mux dan pembagian bandwidth pada program televisi. (bandwidth dalam satuan laju data, bukan lebar frekuensi. Minimum lebar laju data dalam satu channel (8MHz UHF): 33Mbps; Siaran SD maksimum: 2,5Mbps; Siaran HD maksimum: 6Mbps)*
 
 
-*<sup>[<a name="no2"></a>2] </sup>Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan.*
+*<sup>[<a name="no2"></a>2] </sup>Informasi: (06-08-2021) Jadwal Penghentian Analog yang awalnya dimulai 17 Agustus 2021 ditunda hingga 30 April 2022 karena pandemi COVID-19. Tapi, mungkin beberapa stasiun TV akan ASO sebelum tanggal yang ditentukan. Jadwal pastinya direncanakan pada 17 Agustus 2023 ASO Total di seluruh wilayah Indonesia*
 
-*<sup>[<a name="no3"></a>3] </sup>Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total segera setelah 02 November 2022. Untuk wilayah Jabar-3 akan dilakukan 10 Januari 2023 pada pukul 24:00 waktu setempat bersamaan dengan sembilan Wilayah Bali, Makassar, Banjarmasin, Medan, Palembang, Malang, Kediri, Madiun, dan Purwokerto.*
+
+*<sup>[<a name="no3"></a>3] </sup>Tahap satu ASO sudah dimulai, tidak semua daerah serentak ASO. Akan dilakukan ASO total segera setelah 02 November 2022. Untuk wilayah Jabar-3 akan dilakukan segera, dan mulai pukul 24:00 tanggal 30 Juni 2023 beberapa stasiun Televisi menghentikan siaran analognya (Transmedia dan EMTEK).*
+
 
 *<sup>[<a name="no4"></a>4] </sup>Huruf yang dicetak tebal pada bagian "Saluran TV Digital wilayah JABAR-3" merupakan penyedia Multiplex/MUX atau bekas pemancar stasiun TV wilayah tersebut.*
 
@@ -253,6 +256,7 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no11"></a>11] </sup>Opini Penulis: Seharusnya Standar STB itu ada 2 output, yakni: RF Out dan HDMI. Kenapa RF Out? kebanyakan TV jadul tidak punya AV/RCA dan sangat mengandalkan Antena, jadi seharusnya wajib ada RF Out. Seminimal mungkin Hanya ada keluaran dari RF Out VHF dan HDMI saja, AV oposional (Tidak Semua TV Bisa AV, tapi semua TV bisa RF. dan untuk menikmati Resolusi Tinggi pakai HDMI).*
 
+
 *<sup>[<a name="no12"></a>12] </sup>Gambar tersebut merupakan gambar moduliasi yang biasanya dipakai dalam jaringan. dalam siaran TV dengan DVB-T2 akan dimiringkan atau diputar modulasinya searah jarum jam.*
 
 
@@ -260,5 +264,7 @@ Informasi Teknis dan Hukum:
 
 
 *<sup>[<a name="no14"></a>14] </sup>Saat ini LCN atau Saluran Virtual pada stasiun TV ini tidak atau belum terkonfigurasi sesuai dengan data yang ada. Maka, stasiun TV tersebut akan ditempatkan secara otomatis oleh perangkat penerima pada nomor saluran virtual lebihan.*
+
+
 
 *^(Diperbarui 03 Juli 2023)*
