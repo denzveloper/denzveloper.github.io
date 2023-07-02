@@ -142,11 +142,10 @@ Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3:
 * RCTV (Radar Cirebon Televisi) → 34UHF ([Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941)) tersedia di 35UHF - Belum Terkonfirmasi
-* NET. → 23UHF ([Akan Off Segera](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 32UHF - Belum Terkonfirmasi
-* Indosiar → 46UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
-* SCTV → 36UHF ([Akan Off pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
-* TRANS7 → 50UHF ([Akan Off Segera](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 41UHF - Belum Terkonfirmasi
-* TRANSTV → 62UHF ([Akan Off Segera](https://www.facebook.com/groups/486840772359870/?hoisted_section_header_type=recently_seen&multi_permalinks=971030400607569)) tersedia di 41UHF - Belum Terkonfirmasi
+* Indosiar → 46UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
+* SCTV → 36UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
+* TRANS7 → 50UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417)) tersedia di 41UHF
+* TRANSTV → 62UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417)) tersedia di 41UHF
 
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
@@ -237,10 +236,10 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no5"></a>5] </sup>Kemungkinan akan sewa MUX ××× → berdasarkan data di-wilayah lain untuk program televisi tersebut*
 
 
-*<sup>[<a name="no6"></a>6] </sup>Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang*
+*<sup>[<a name="no6"></a>6] </sup>Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang pada wilayah JABAR-3.*
 
 
-*<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, JABAR-3 belum ada kabar*
+*<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, Untuk wilayah JABAR-3 belum ada kabar.*
 
 
 *<sup>[<a name="no8"></a>8] </sup>Untuk VTV kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut. Mungkin hanya kabar angin juga.*
@@ -262,4 +261,4 @@ Informasi Teknis dan Hukum:
 
 *<sup>[<a name="no14"></a>14] </sup>Saat ini LCN atau Saluran Virtual pada stasiun TV ini tidak atau belum terkonfigurasi sesuai dengan data yang ada. Maka, stasiun TV tersebut akan ditempatkan secara otomatis oleh perangkat penerima pada nomor saluran virtual lebihan.*
 
-*^(Diperbarui 25 Juni 2022)*
+*^(Diperbarui 03 Juli 2023)*
