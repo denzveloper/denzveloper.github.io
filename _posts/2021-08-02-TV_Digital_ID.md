@@ -144,10 +144,11 @@ Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 
 Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3:
+
 | Stasiun Televisi | Kanal Analog | Tanggal ASO | Kanal Digital | LCN |
 | --- | --- | --- | --- | --- |
 | RCTV (Radar Citebon TV) | 34UHF | [Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941) | 35 UHF | \- |
-| Indosiar | 46UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 35UHF | 24 |
+| Indosiar | 46UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 37UHF | 24 |
 | SCTV | 36UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 37UHF | 23 |
 | TRANS 7 | 50UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417) | 41UHF | 21 |
 | TRANS TV | 62UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417) | 41UHF | 20 |
