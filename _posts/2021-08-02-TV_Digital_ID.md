@@ -128,11 +128,10 @@ Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
 Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon.
 **Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan Segera dimatikan. Jadi bersiaplah!**
-Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten pada Jabar-3. Berikut daftar stasiun televisi swasta yang akan mengakhiri siaran analognya akhir bulan juni 2023: EMTEK (meliputi Indosiar, SCTV), dan TRANSMEDIA (meliputi TRANS TV, Trans7).
+Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten pada Jabar-3. Pada tanggal 30 Juli 2023 seluruh siaran analog di JABAR-3 akan diakhiri, diakhiri oleh stasiun televisi NET. Kuningan.
 
 
-Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>
-
+Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 | Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
 | --- | --- | --- | --- |
@@ -145,17 +144,19 @@ Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>
 
 
 Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3:
-* RCTV (Radar Cirebon Televisi) → 34UHF ([Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941)) tersedia di 35UHF - Belum Terkonfirmasi
-* Indosiar → 46UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
-* SCTV → 36UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
-* TRANS 7 → 50UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417)) tersedia di 41UHF
-* TRANS TV → 62UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417)) tersedia di 41UHF
-* RTV → 40UHF ([Sudah ASO pada 20 Juli 2023 pukul 24:00](https://www.facebook.com/photo.php?fbid=655358009959016&set=pb.100064544686230.-2207520000.&type=3)) tersedia di 32UHF
-* ANTV → 42UHF ([Sudah ASO pada 20 Juli 2023 pukul 24:00](https://www.facebook.com/ANTVOfficial/posts/pfbid02mmzND9ujMZx2VP9DvcyLzzs6k2cpwBmTw36ZP5Po6WkJNGHK2dHaW8QcubNPBGaal)) tersedia di 35UHF
-* RCTI → 38UHF ([Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304)) tersedia di 44UHF
-* MNCTV → 44UHF ([Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304)) tersedia di 44UHF
-* iNEWS → 60UHF ([Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304)) tersedia di 44UHF
-* NET. -> 23UHF ([SEGERA ASO pada 30 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304)) tersedia di 32UHF
+| Stasiun Televisi | Kanal Analog | Tanggal ASO | Kanal Digital | LCN |
+| --- | --- | --- | --- | --- |
+| RCTV (Radar Citebon TV) | 34UHF | [Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941) | 35 UHF | \- |
+| Indosiar | 46UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 35UHF | 24 |
+| SCTV | 36UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 37UHF | 23 |
+| TRANS 7 | 50UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417) | 41UHF | 21 |
+| TRANS TV | 62UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417) | 41UHF | 20 |
+| RTV | 40UHF | [Sudah ASO pada 20 Juli 2023 pukul 24:00](https://www.facebook.com/photo.php?fbid=655358009959016&set=pb.100064544686230.-2207520000.&type=3) | 32UHF | \- |
+| ANTV | 42UHF | [Sudah ASO pada 20 Juli 2023 pukul 24:00](https://www.facebook.com/ANTVOfficial/posts/pfbid02mmzND9ujMZx2VP9DvcyLzzs6k2cpwBmTw36ZP5Po6WkJNGHK2dHaW8QcubNPBGaal) | 35UHF | 26 |
+| RCTI | 38UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 28 |
+| MNCTV | 44UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 29 |
+| iNews | 60UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 31 |
+| NET. | 23UHF | [[**SEGERA** ASO pada 30 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 32UHF | \- |
 
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
