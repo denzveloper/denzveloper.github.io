@@ -131,13 +131,15 @@ Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Ci
 Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten pada Jabar-3. Berikut daftar stasiun televisi swasta yang akan mengakhiri siaran analognya akhir bulan juni 2023: EMTEK (meliputi Indosiar, SCTV), dan TRANSMEDIA (meliputi TRANS TV, Trans7).
 
 
-Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
-* MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
-* VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, *RCTV*, VTV.
-* EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (**Segera 38UHF**)<sup>[[13](#no13)]</sup>
-* TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
-* MNC Group (658MHz/44UHF)¹: MNC TV, **RCTI**, GTV, iNews<sup>[[13](#no13)]</sup>
-* TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
+Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>
+| Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
+| --- | --- | --- | --- |
+| 562MHz/32UHF  | MEDIA Group | **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET. | Pasawahan|
+| 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV*, VTV | Padaherang |
+| 602MHz/37UHF (**Segera 38UHF**)<sup>[[13](#no13)]</sup>  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | Padaherang |
+| 634MHz/41UHF  | TRANSMEDIA | **TRANS TV**, TRANS 7, CNN ID, CNBC ID | Pasawahan |
+| 658MHz/44UHF  | MNC GROUP | MNC TV, **RCTI**, GTV, iNews | Pasawahan |
+| 690MHz/48UHF (**Segera 29UHF**)<sup>[[13](#no13)]</sup>  | LPP TVRI | TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV | Pasawahan |
 
 
 Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3:
@@ -278,4 +280,4 @@ Informasi Teknis dan Hukum:
 
 
 
-*^(Diperbarui 03 Juli 2023)*
+*^(Diperbarui 27 Juli 2023)*
