@@ -132,11 +132,11 @@ Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri sia
 
 
 Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
-* MNC Group (506MHz/25UHF)¹: MNC TV, **RCTI**, GTV, iNews (**Segera 44UHF**)<sup>[[13](#no13)]</sup>
 * MEDIA Group (562MHz/32UHF)¹: **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET.
 * VIVA/Bakrie (586MHz/35UHF)²: **ANTV**, TV One, *RCTV*, VTV.
 * EMTEK/SCM (602MHz/37UHF)²: SCTV, **INDOSIAR**, Moji, Mentari TV (**Segera 38UHF**)<sup>[[13](#no13)]</sup>
 * TRANSMEDIA (634MHz/41UHF)¹: **TRANS TV**, TRANS 7, CNN ID, CNBC ID
+* MNC Group (658MHz/44UHF)¹: MNC TV, **RCTI**, GTV, iNews<sup>[[13](#no13)]</sup>
 * TVRI (690MHz/48UHF)³: TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV → Sinyal lemah (segera 29UHF)<sup>[[13](#no13)]</sup>
 
 
@@ -144,8 +144,14 @@ Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersed
 * RCTV (Radar Cirebon Televisi) → 34UHF ([Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941)) tersedia di 35UHF - Belum Terkonfirmasi
 * Indosiar → 46UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
 * SCTV → 36UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/)) tersedia di 37UHF
-* TRANS7 → 50UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417)) tersedia di 41UHF
-* TRANSTV → 62UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417)) tersedia di 41UHF
+* TRANS 7 → 50UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417)) tersedia di 41UHF
+* TRANS TV → 62UHF ([Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417)) tersedia di 41UHF
+* RTV → 40UHF ([Sudah ASO pada 20 Juli 2023 pukul 24:00](https://www.facebook.com/photo.php?fbid=655358009959016&set=pb.100064544686230.-2207520000.&type=3)) tersedia di 32UHF
+* ANTV → 42UHF ([Sudah ASO pada 20 Juli 2023 pukul 24:00](https://www.facebook.com/ANTVOfficial/posts/pfbid02mmzND9ujMZx2VP9DvcyLzzs6k2cpwBmTw36ZP5Po6WkJNGHK2dHaW8QcubNPBGaal)) tersedia di 35UHF
+* RCTI → 38UHF ([Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304)) tersedia di 44UHF
+* MNCTV → 44UHF ([Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304)) tersedia di 44UHF
+* iNEWS → 60UHF ([Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304)) tersedia di 44UHF
+* NET. -> 23UHF ([SEGERA ASO pada 30 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304)) tersedia di 32UHF
 
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
@@ -164,8 +170,8 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 22 Metro TV HD
 * 23 SCTV HD
 * 24 INDOSIAR HD
-* 26 ANTV HD<sup>[[14](#no14)]</sup>
-* 27 TV One<sup>[[14](#no14)]</sup>
+* 26 ANTV HD
+* 27 TV One
 * 28 RCTI
 * 29 MNCTV
 * 30 GTV
@@ -174,9 +180,14 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 114 CNBC INDONESIA
 * 123 Moji
 * 124 Mentari TV
-* [?] Radar Cirebon Televisi (RCTV)<sup>[[14](#no14)]</sup>
+* [?] NET.<sup>[[14](#no14)]</sup>
+* [?] RTV<sup>[[14](#no14)]</sup>
+* [?] METRO TV<sup>[[14](#no14)]</sup>
+* [?] MAGNA TV<sup>[[14](#no14)]</sup>
+* [?] BN Channel<sup>[[14](#no14)]</sup>
 * [?] VTV<sup>[[14](#no14)]</sup>
 * [?] Garuda TV<sup>[[9](#no9)][[14](#no14)]</sup>
+* [?] Radar Cirebon Televisi (RCTV)<sup>[[14](#no14)]</sup>
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
@@ -185,10 +196,10 @@ Lokasi MUX berdasarkan [link ini](https://siarandigital.kominfo.go.id/informasi/
 
 ### <a name="group"></a>Forum/Tanya-Jawab/informasi lebih lanjut/teknis?
 Anda bisa ikut bergabung di-grup TV Digital (Facebook+Telegram):
+- [Komunitas tv digital terestrial DVB-T2 Indonesia](https://www.facebook.com/groups/357305085288304)
 - [Komunitas Pengguna Set Top Box DVB-T2 di Seluruh Indonesia](https://www.facebook.com/groups/321650658032756)
 - [Komunitas Pengguna SET TOP BOX DVB-TV2 seluruh Indonesia](https://www.facebook.com/groups/692226114789770)
-- [Komunitas tv digital terestrial DVB-T2 Indonesia](https://www.facebook.com/groups/357305085288304)
-- [Tv digital jawa barat 3 ( CIAYUMAJAKUNING ,BREBES DAN SUBANG )](https://www.facebook.com/groups/486840772359870) (LOKAL)
+- [Tv digital jawa barat 3 ( CIAYUMAJAKUNING ,BREBES DAN SUBANG )](https://www.facebook.com/groups/486840772359870) (LOKAL PANTURA)
 - [Grup Telegram TV DIGITAL INDONESIA](https://t.me/SiaranDigitalIndonesia)
 
 
