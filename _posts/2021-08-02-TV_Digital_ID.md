@@ -147,7 +147,7 @@ Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersed
 
 | Stasiun Televisi | Kanal Analog | Tanggal ASO | Kanal Digital | [LCN](https://id.wikipedia.org/wiki/Saluran_virtual) |
 | --- | --- | --- | --- | --- |
-| RCTV (Radar Citebon TV) | 34UHF | [Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941) | 35 UHF | \- |
+| RCTV (Radar Cirebon TV) | 34UHF | [Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941) | 35 UHF | \- |
 | Indosiar | 46UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 37UHF | 24 |
 | SCTV | 36UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 37UHF | 23 |
 | TRANS 7 | 50UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162764011814465&set=gm.1004956177189855&idorvanity=357305085288304) | 41UHF | 21 |
