@@ -132,9 +132,11 @@ Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri sia
 
 
 Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>
+
+
 | Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
 | --- | --- | --- | --- |
-| 562MHz/32UHF  | MEDIA Group | **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET. | Pasawahan|
+| 562MHz/32UHF  | MEDIA Group | **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET. | Pasawahan |
 | 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV*, VTV | Padaherang |
 | 602MHz/37UHF (**Segera 38UHF**)<sup>[[13](#no13)]</sup>  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | Padaherang |
 | 634MHz/41UHF  | TRANSMEDIA | **TRANS TV**, TRANS 7, CNN ID, CNBC ID | Pasawahan |
