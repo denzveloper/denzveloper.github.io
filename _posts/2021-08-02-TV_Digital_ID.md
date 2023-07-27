@@ -83,7 +83,7 @@ Untuk lebih lengkapnya bisa Anda lihat di-[Wikipedia](https://id.wikipedia.org/w
 
 
 ### Channel/Program di-TV saya kok' semakin sedikit (Analog)?
-Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk digunakan pada jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini) dari rencana/jadwal Kominfo. Memang pada dasarnya jadwal dari Kominfo itu adalah tanggal paling akhir/**batas akhir** untuk **analog mengudara** di tempat tersebut. Jadwal Analog aktif dari kominfo hingga 17 Agustus 2023.
+Kemungkinan besar stasiun televisi tersebut sudah *switch off* analog mereka atau menurunkan daya pemancar mereka. Jika *switch off* mungkin program mereka sudah dan hanya tersedia di jalur Digital TV(DVB-T2). Walau jadwal dari Kominfo sudah ditetapkan, tapi mungkin karena beban pemancar atau bisa dari izin operasional berakhir atau mungkin pengosongan kanal mereka untuk digunakan pada jalur digital, akhirnya di rendahkanlah daya pemancar mereka lebih awal atau mematikan siaran Analog mereka lebih awal (*Switch off* dini atau ASO Mandiri) dari rencana/jadwal Kominfo. Memang pada dasarnya jadwal dari Kominfo itu adalah tanggal paling akhir/**batas akhir** untuk **analog mengudara** di tempat tersebut. Jadwal Analog aktif dari kominfo hingga 17 Agustus 2023.
 
 
 ### QAM, QPSK apa itu?
@@ -145,19 +145,19 @@ Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3:
 
-| Stasiun Televisi | Kanal Analog | Tanggal ASO | Kanal Digital | LCN |
+| Stasiun Televisi | Kanal Analog | Tanggal ASO | Kanal Digital | [LCN](https://id.wikipedia.org/wiki/Saluran_virtual) |
 | --- | --- | --- | --- | --- |
 | RCTV (Radar Citebon TV) | 34UHF | [Sudah ASO pada 02 November 2022](https://www.facebook.com/groups/486840772359870/posts/829446694765941) | 35 UHF | \- |
 | Indosiar | 46UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 37UHF | 24 |
 | SCTV | 36UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.instagram.com/p/Ct0x_ojM-Ta/) | 37UHF | 23 |
-| TRANS 7 | 50UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417) | 41UHF | 21 |
+| TRANS 7 | 50UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162764011814465&set=gm.1004956177189855&idorvanity=357305085288304) | 41UHF | 21 |
 | TRANS TV | 62UHF | [Sudah ASO pada 30 Juni 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=6351767141569417) | 41UHF | 20 |
 | RTV | 40UHF | [Sudah ASO pada 20 Juli 2023 pukul 24:00](https://www.facebook.com/photo.php?fbid=655358009959016&set=pb.100064544686230.-2207520000.&type=3) | 32UHF | \- |
 | ANTV | 42UHF | [Sudah ASO pada 20 Juli 2023 pukul 24:00](https://www.facebook.com/ANTVOfficial/posts/pfbid02mmzND9ujMZx2VP9DvcyLzzs6k2cpwBmTw36ZP5Po6WkJNGHK2dHaW8QcubNPBGaal) | 35UHF | 26 |
 | RCTI | 38UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 28 |
 | MNCTV | 44UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 29 |
 | iNews | 60UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 31 |
-| NET. | 23UHF | [[**SEGERA** ASO pada 30 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 32UHF | \- |
+| NET. | 23UHF | [**SEGERA** ASO pada 30 Juli 2023 pukul 24:00](https://www.instagram.com/p/Cu6lZJUy95_/?hl=en) | 32UHF | \- |
 
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
