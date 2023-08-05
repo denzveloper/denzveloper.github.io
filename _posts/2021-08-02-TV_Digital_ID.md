@@ -128,19 +128,19 @@ Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
 Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon.
 **Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan Segera dimatikan. Jadi bersiaplah!**
-Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten pada Jabar-3. Pada tanggal 30 Juli 2023 seluruh siaran analog di JABAR-3 akan diakhiri, diakhiri oleh stasiun televisi NET. Kuningan.
+Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten pada Jabar-3. Agustus 2023, wilayah Jawa terlebih khususnya wilayah Jawa Barat-3 siaran analog telah dihentikan dan hanya bersiaran menggunakan Digital.
 
 
 Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 | Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
 | --- | --- | --- | --- |
+| 538MHz/29UHF  | LPP TVRI | TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV | Gn Jati |
 | 562MHz/32UHF  | MEDIA Group | **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET. | Pasawahan |
 | 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV*, VTV | Padaherang |
 | 602MHz/37UHF (**Segera 38UHF**)<sup>[[13](#no13)]</sup>  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | Padaherang |
 | 634MHz/41UHF  | TRANSMEDIA | **TRANS TV**, TRANS 7, CNN ID, CNBC ID | Pasawahan |
 | 658MHz/44UHF  | MNC GROUP | MNC TV, **RCTI**, GTV, iNews | Pasawahan |
-| 690MHz/48UHF (**Segera 29UHF**)<sup>[[13](#no13)]</sup>  | LPP TVRI | TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV | Pasawahan |
 
 
 Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3:
@@ -157,7 +157,7 @@ Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersed
 | RCTI | 38UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 28 |
 | MNCTV | 44UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 29 |
 | iNews | 60UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 31 |
-| NET. | 23UHF | [**SEGERA** ASO pada 30 Juli 2023 pukul 24:00](https://www.instagram.com/p/Cu6lZJUy95_/?hl=en) | 32UHF | \- |
+| NET. | 23UHF | [SUDAH ASO pada 30 Juli 2023 pukul 24:00](https://www.instagram.com/p/Cu6lZJUy95_/?hl=en) | 32UHF | \- |
 
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
@@ -169,8 +169,9 @@ Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<s
 Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
 * 1 TVRI Nasional<sup>[[9](#no9)]</sup>
 * 2 TVRI Jawa Barat<sup>[[9](#no9)]</sup>
-* 3 TVRI World Kanal 3<sup>[[9](#no9)]</sup>
-* 4 TVRI Sport Kanal 4<sup>[[9](#no9)]</sup>
+* 3 TVRI World<sup>[[9](#no9)]</sup>
+* 4 TVRI Sport<sup>[[9](#no9)]</sup>
+* 5 Garuda TV<sup>[[9](#no9)]</sup>
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
 * 22 Metro TV HD
@@ -192,7 +193,6 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * [?] MAGNA TV<sup>[[14](#no14)]</sup>
 * [?] BN Channel<sup>[[14](#no14)]</sup>
 * [?] VTV<sup>[[14](#no14)]</sup>
-* [?] Garuda TV<sup>[[9](#no9)][[14](#no14)]</sup>
 * [?] Radar Cirebon Televisi (RCTV)<sup>[[14](#no14)]</sup>
 
 
@@ -284,4 +284,4 @@ Informasi Teknis dan Hukum:
 
 
 
-*^(Diperbarui 27 Juli 2023)*
+*^(Diperbarui 05 Agustus 2023)*
