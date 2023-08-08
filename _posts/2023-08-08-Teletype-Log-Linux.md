@@ -5,6 +5,7 @@ image: /images/logkernel/kernlog_thumb.webp
 ---
 
 ![Message log]({{ site.baseurl }}/images/logkernel/kernlog_selected.webp)
+
 This message/log always shown while booting? Then when using Teletype/text based mode this message keep distub you while type a prompt and type something?
 This is because log level on your boot parameters not set loglevel lower than "3" or you didn't set it at all.
 
