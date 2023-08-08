@@ -135,15 +135,15 @@ Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 | Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
 | --- | --- | --- | --- |
-| 538MHz/29UHF  | LPP TVRI | TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV | Gn Jati |
-| 562MHz/32UHF  | MEDIA Group | **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET. | Pasawahan |
-| 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV*, VTV | Padaherang |
-| 602MHz/37UHF (**Segera 38UHF**)<sup>[[13](#no13)]</sup>  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | Padaherang |
-| 634MHz/41UHF  | TRANSMEDIA | **TRANS TV**, TRANS 7, CNN ID, CNBC ID | Pasawahan |
-| 658MHz/44UHF  | MNC GROUP | MNC TV, **RCTI**, GTV, iNews | Pasawahan |
+| 538MHz/29UHF  | LPP TVRI | TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
+| 562MHz/32UHF  | MEDIA Group | **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET. | [Pasawahan](https://goo.gl/maps/p5CjsUcmvjehw75x7) |
+| 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV*, VTV | [Padaherang](https://goo.gl/maps/SPb5DsQeSDPX2vBa8) |
+| 610MHz/38UHF  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | [Padaherang](https://goo.gl/maps/4Mp2imvMj5bVL4TG8) |
+| 634MHz/41UHF  | TRANSMEDIA | **TRANS TV**, TRANS 7, CNN ID, CNBC ID | [Pasawahan](https://goo.gl/maps/A6vVGshSAshoStbn8) |
+| 658MHz/44UHF  | MNC GROUP | MNC TV, **RCTI**, GTV, iNews | [Pasawahan](https://goo.gl/maps/CEyVowqdXa9Kip889) |
 
 
-Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3:
+Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersedia digital di JABAR-3<sup>[[13](#no13)]</sup>:
 
 | Stasiun Televisi | Kanal Analog | Tanggal ASO | Kanal Digital | [LCN](https://id.wikipedia.org/wiki/Saluran_virtual) |
 | --- | --- | --- | --- | --- |
@@ -157,7 +157,7 @@ Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersed
 | RCTI | 38UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 28 |
 | MNCTV | 44UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 29 |
 | iNews | 60UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 31 |
-| NET. | 23UHF | [SUDAH ASO pada 30 Juli 2023 pukul 24:00](https://www.instagram.com/p/Cu6lZJUy95_/?hl=en) | 32UHF | \- |
+| NET. | 23UHF | [Sudah ASO pada 30 Juli 2023 pukul 24:00](https://www.instagram.com/p/Cu6lZJUy95_/?hl=en) | 32UHF | \- |
 
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
@@ -277,7 +277,7 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no12"></a>12] </sup>Gambar tersebut merupakan gambar moduliasi yang biasanya dipakai dalam jaringan. dalam siaran TV dengan DVB-T2 akan dimiringkan atau diputar modulasinya searah jarum jam.*
 
 
-*<sup>[<a name="no13"></a>13] </sup>Untuk channel berlabel "(segera ××UHF)" nantinya akan berpindah ke kanal tetap, sekarang masih menggunakan kanal sementara. Sedangkan yang sudah menggunakan kanal tetap dimana tidak perlu scan ulang jika sudah ASO*
+*<sup>[<a name="no13"></a>13] </sup>Seluruh siaran Analog di Jawa Barat-3 telah beralih ke siaran digital. silahkan gunakan perangkat digital Anda. Jika belum digital, silahkan lengkapi TV Anda dengan SET TOP BOX DVB-T2 untuk menikmati tayangan kesayangan Anda.
 
 
 *<sup>[<a name="no14"></a>14] </sup>Saat ini LCN atau Saluran Virtual pada stasiun TV ini tidak atau belum terkonfigurasi sesuai dengan data yang ada. Maka, stasiun TV tersebut akan ditempatkan secara otomatis oleh perangkat penerima pada nomor saluran virtual lebihan.*
