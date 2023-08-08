@@ -135,9 +135,9 @@ Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 | Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
 | --- | --- | --- | --- |
-| 538MHz/29UHF  | LPP TVRI | TVRI, **TVRI JABAR**, TVRI 3/WORLD, TVRI Sport, Garuda TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
-| 562MHz/32UHF  | MEDIA Group | **METRO TV**, MAGNA, BN TV, Metro TV, RTV, NET. | [Pasawahan](https://goo.gl/maps/p5CjsUcmvjehw75x7) |
-| 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV*, VTV | [Padaherang](https://goo.gl/maps/SPb5DsQeSDPX2vBa8) |
+| 538MHz/29UHF  | LPP TVRI | TVRI Nasional, **TVRI Jawa Barat**, TVRI World, TVRI Sport, Garuda TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
+| 562MHz/32UHF  | MEDIA Group | **METRO TV**, Magna TV, BN Channel, Metro TV, RTV, NET. | [Pasawahan](https://goo.gl/maps/p5CjsUcmvjehw75x7) |
+| 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV (Radar Cirebon Televisi)*, VTV | [Padaherang](https://goo.gl/maps/SPb5DsQeSDPX2vBa8) |
 | 610MHz/38UHF  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | [Padaherang](https://goo.gl/maps/4Mp2imvMj5bVL4TG8) |
 | 634MHz/41UHF  | TRANSMEDIA | **TRANS TV**, TRANS 7, CNN ID, CNBC ID | [Pasawahan](https://goo.gl/maps/A6vVGshSAshoStbn8) |
 | 658MHz/44UHF  | MNC GROUP | MNC TV, **RCTI**, GTV, iNews | [Pasawahan](https://goo.gl/maps/CEyVowqdXa9Kip889) |
