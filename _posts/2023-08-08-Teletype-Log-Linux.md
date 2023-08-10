@@ -19,7 +19,7 @@ this step to disable that kernel log (Tested on Arch-based distro):
 3. then add "```loglevel=3```" on last word before "``` ' ```"
 ![Set loglevel]({{ site.baseurl }}/images/logkernel/grub_terminal.webp)
 
-4. save file with "*ctrl+x*" then "*y*" then "*<enter>*"
+4. save file with "*ctrl+x*" then "*y*" then press "*enter*"
 
 5. then run "```sudo update-grub```" or "```grub-mkconfig -o /boot/grub/grub.cfg```"
 ![Updating grub configuration]({{ site.baseurl }}/images/logkernel/update-in-grub.webp)
