@@ -4,7 +4,7 @@ title: Video Test
 permalink: /videotest/
 image: /images/lcnhandle/lastremote.webp
 ---
-This just a video recorded some Indonesia Television Program on Digital Television DVB-T2, Preview is encoded by MPEG-4 AVC (H.264) Video codec for raw video or transport stream you cant view in browser but you download it (content is same with preview version). (Due Weak signal from Viva Group Multiplexer, I extend duration of recording.)
+This just a video recorded some Indonesia Television Program on Digital Television DVB-T2, Preview is encoded by MPEG-4 AVC (H.264) Video codec for raw video or transport stream from DVB-T2 Device, sorry you cant view in browser but you download it (content is same with preview version). (Due Weak signal from Viva Group and TVRI Multiplexer, I extend duration of recording.)
 If you cant play ".ts" format in your devices, try install VLC Video Player.
 
 ## ANTV (Viva Group)
@@ -29,6 +29,12 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/CNBC INDONESIA HD--20221129
 20221129211209
 <iframe loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/CNN INDONESIA HD--20221129211209.mp4"></iframe>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/CNN INDONESIA HD--20221129211209.ts)
+
+
+## Garuda TV
+20230811230804
+<iframe loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/GARUDA TV--20230811230804.mp4"></iframe>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/GARUDA TV--20230811230804.ts)
 
 
 ## GTV ID (MNC Group)
@@ -125,6 +131,30 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TRANS TV HD--20221129210954
 20221207144638
 <iframe loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/TVONE--20221207144638.mp4"></iframe>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TVONE--20221207144638.ts)
+
+
+## TVRI JAWA BARAT
+20230811231316
+<iframe loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/TVRI Jawa Barat--20230811231316.mp4"></iframe>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TVRI Jawa Barat--20230811231316.ts)
+
+
+## TVRI NASIONAL
+20230811231547
+<iframe loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/TVRI Nasional--20230811231547.mp4"></iframe>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TVRI Nasional--20230811231547.ts)
+
+
+## TVRI SPORT
+20230811231447
+<iframe loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/TVRI Sport--20230811231447.mp4"></iframe>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TVRI Sport--20230811231447.ts)
+
+
+## TVRI WORLD
+20230811231152
+<iframe loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/TVRI World--20230811231152.mp4"></iframe>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TVRI World--20230811231152.ts)
 
 
 ## VTV (Viva Group)
