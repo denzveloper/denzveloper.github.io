@@ -9,9 +9,9 @@ If you cant play ".ts" format in your devices, try install VLC Video Player.
 *video list is alphabeticaly sort*
 
 ## ANTV (Viva Group)
-20221207144532
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/ANTV HD--20221207144532.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/ANTV HD--20221207144532.ts)
+20230811181814
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/ANTV HD--20230811181814.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/ANTV HD--20230811181814.ts)
 
 
 ## BN Channel (Media Group)
@@ -82,8 +82,8 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MNCTV HD--20221129211058.ts
 
 ## Moji (EMTEK)
 20221129210557
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/O CHANNEL HD--20221129210557.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/O CHANNEL HD--20221129210557.ts)
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MOJI HD--20230811181909.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MOJI HD--20230811181909.ts)
 
 
 ## NET. SD
@@ -99,9 +99,9 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTI HD--20221129211036.ts)
 
 
 ## RCTV|Radar Cirebon Televisi
-20221206134218
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RCTV--20221206134218.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTV--20221206134218.ts)
+20230811180302
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RCTV--20230811180302.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTV--20230811180302.ts)
 
 
 ## RTV|Rajawali Televisi
@@ -129,9 +129,9 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TRANS TV HD--20221129210954
 
 
 ## TV One (Viva Group)
-20221207144638
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/TVONE--20221207144638.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TVONE--20221207144638.ts)
+20230811181844
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/TVONE HD--20230811181844.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TVONE HD--20230811181844.ts)
 
 
 ## TVRI JAWA BARAT
@@ -159,6 +159,6 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/TVRI World--20230811231152.
 
 
 ## VTV (Viva Group)
-20230809121801
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/VTV HD--20230809121801.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/VTV HD--20230809121801.ts)
+20230811180241
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/VTV HD--20230811180241.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/VTV HD--20230811180241.ts)
