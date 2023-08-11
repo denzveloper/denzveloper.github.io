@@ -6,6 +6,7 @@ image: /images/lcnhandle/lastremote.webp
 ---
 This just a video recorded some Indonesia Television Program on Digital Television DVB-T2, Preview is encoded by MPEG-4 AVC (H.264) Video codec for raw video or transport stream from DVB-T2 Device, sorry you cant view in browser but you download it (content is same with preview version). (Due Weak signal from Viva Group and TVRI Multiplexer, I extend duration of recording.)
 If you cant play ".ts" format in your devices, try install VLC Video Player.
+*video list is alphabeticaly short*
 
 ## ANTV (Viva Group)
 20221207144532
