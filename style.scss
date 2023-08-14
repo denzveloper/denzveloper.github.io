@@ -222,12 +222,13 @@ img {
 		color: $white;
         background-color: $darkGray;
         padding: 7px 20px 0px 5px;
-        animation-timing-function: cubic-bezier(0.3,0.5);
+        transition: width 1s;
+        transition-timing-function: cubic-bezier(0.3, 0.7);
 	}
 	:hover::after{
 		content: "_";
         font-weight: bolder;
-        animation: blinker 0.5s steps(2,start) infinite;
+        animation: blinker 0.3s linear infinite;
 	}
 }
 
