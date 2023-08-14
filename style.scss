@@ -219,8 +219,8 @@ img {
   font-size: 28px;
   letter-spacing: 1px;
 	:hover{
-        transition: siteselect 0.5s;
-        transition-timing-function: cubic-bezier(0.1, 0.35, 1, 1);
+        animation: siteselect 0.5s;
+        transition-timing-function: cubic-bezier(0, 1, 0, 1.01);
 	}
 	:hover::after{
 		content: "_";
@@ -235,15 +235,16 @@ img {
 }
 
 @keyframes siteselect {
-  from {
+  0% {
     color: $darkGray;
   }
-  to {
+  100% {
     color: $white;
     background-color: $darkGray;
     padding: 7px 20px 0px 5px;
   }
 }
+
 
 .site-description {
   margin: -5px 0 0 0;
