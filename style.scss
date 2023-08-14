@@ -226,7 +226,7 @@ img {
         background-color: #333;
 	}
 	:hover::after{
-		content: "_";
+		content: " _";
         animation: bligbling 0.3s linear infinite;
 	}
 }
