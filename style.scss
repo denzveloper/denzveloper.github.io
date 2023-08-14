@@ -218,24 +218,30 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  transition: padding 0.5s;
-  transition-timing-function: cubic-bezier(0.86, 0.35, 1,-0.12);
-}
-
-.sitename:hover{
-  color: $white;
-  background-color: $darkGray;
-  padding: 7px 20px 0px 5px;
-}
-
-.sitename:hover::after{
-	content: "_";
-    animation: bligbling 0.3s linear infinite;
+	:hover{
+        transition: siteselect 0.5s;
+        transition-timing-function: cubic-bezier(0.1, 0.35, 1, 1);
+	}
+	:hover::after{
+		content: "_";
+        animation: bligbling 0.3s linear infinite;
+	}
 }
 
 @keyframes bligbling {
   50% {
     opacity: 0;
+  }
+}
+
+@keyframes siteselect {
+  from {
+    color: $darkGray;
+  }
+  to {
+    color: $white;
+    background-color: $darkGray;
+    padding: 7px 20px 0px 5px;
   }
 }
 
