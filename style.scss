@@ -219,7 +219,7 @@ img {
   font-size: 28px;
   letter-spacing: 1px;
   transition: padding 2s;
-  transition-timing-function: cubic-bezier(0.2, 0.7, 1, 2);
+  transition-timing-function: cubic-bezier(0.2, 0.7, 0.1, 1);
 	:hover{
 		color: $white;
         background-color: $darkGray;
