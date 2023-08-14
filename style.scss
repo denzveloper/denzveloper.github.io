@@ -219,16 +219,17 @@ img {
   font-size: 28px;
   letter-spacing: 1px;
   transition: padding 0.5s;
-  transition-timing-function: cubic-bezier(0.9, 0.1, 0.9, 0.1);
-	:hover{
-		color: $white;
-        background-color: $darkGray;
-        padding: 7px 20px 0px 5px;
-	}
+  transition-timing-function: cubic-bezier(0.86, 0.35, 1,-0.12);
 	:hover::after{
 		content: "_";
         animation: blinker 0.3s linear infinite;
 	}
+}
+
+.site-name:hover{
+    color: $white;
+    background-color: $darkGray;
+    padding: 7px 20px 0px 5px;
 }
 
 @keyframes blinker {
