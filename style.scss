@@ -220,7 +220,7 @@ img {
   letter-spacing: 1px;
 	:hover{
         transition: siteselect 0.5s;
-        transition-timing-function: cubic-bezier(0,1.22,.58,.97);
+        transition-timing-function: cubic-bezier(0, 1.22, 0.58, 0.97);
 	}
 	:hover::after{
 		content: "_";
