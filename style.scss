@@ -219,13 +219,29 @@ img {
   font-size: 28px;
   letter-spacing: 1px;
 	:hover{
-		color: $white;
-        background-color: $darkGray;
-        padding: 7px 20px 0px 5px;
+        transition: siteselect 0.5s　cubic-bezier(0.86, 0.35, 1, 0.12);
 	}
 	:hover::after{
-		content: ".";
+		content: "_";
+        animation: bligbling 0.3s linear infinite;
 	}
+}
+
+@keyframes bligbling {
+  50% {
+    opacity: 0;
+  }
+}
+
+@keyframes siteselect {
+  from {
+    background-color: $white;
+    color: $darkGray;
+  }to {
+    color: $white;
+    background-color: $darkGray;
+    padding: 7px 20px 0px 5px;
+  }
 }
 
 .site-description {
