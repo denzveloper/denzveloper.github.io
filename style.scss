@@ -218,8 +218,8 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  transition: padding 1s;
-  transition-timing-function: cubic-bezier(0.2, 0.4, 0.6, 1);
+  transition: padding 2s;
+  transition-timing-function: cubic-bezier(0.2, 0.7, 1, 2);
 	:hover{
 		color: $white;
         background-color: $darkGray;
@@ -227,7 +227,6 @@ img {
 	}
 	:hover::after{
 		content: "_";
-        font-weight: bolder;
         animation: blinker 0.3s linear infinite;
 	}
 }
