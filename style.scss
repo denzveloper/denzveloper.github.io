@@ -224,8 +224,15 @@ img {
         padding: 7px 20px 0px 5px;
 	}
 	:hover::after{
-		content: ".";
+		content: "_";
+        animation: blinker 1s linear infinite;
 	}
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
 }
 
 .site-description {
