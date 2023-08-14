@@ -218,23 +218,14 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-  transition: padding 0.5s;
-  transition-timing-function: cubic-bezier(0.86, 0.35, 1,-0.12);
 	:hover{
 		color: $white;
         background-color: $darkGray;
         padding: 7px 20px 0px 5px;
 	}
 	:hover::after{
-		content: "_";
-        animation: blinker 0.3s linear infinite;
+		content: ".";
 	}
-}
-
-@keyframes blinker {
-  50% {
-    opacity: 0;
-  }
 }
 
 .site-description {
