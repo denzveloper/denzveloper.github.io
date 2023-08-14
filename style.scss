@@ -219,21 +219,29 @@ img {
   font-size: 28px;
   letter-spacing: 1px;
 	:hover{
-		color: $white;
-        background-color: $darkGray;
-        transition: padding 0.5s;
+        transition: siteselect 0.5s;
         transition-timing-function: cubic-bezier(0.86, 0.35, 1,-0.12);
-        padding: 7px 20px 0px 5px;
 	}
 	:hover::after{
 		content: "_";
-        animation: blinker 0.3s linear infinite;
+        animation: bligbling 0.3s linear infinite;
 	}
 }
 
-@keyframes blinker {
+@keyframes bligbling {
   50% {
     opacity: 0;
+  }
+}
+
+@keyframes siteselect {
+  from {
+    color: $darkGray;
+  }
+  to {
+    color: $white;
+    background-color: $darkGray;
+    padding: 7px 20px 0px 5px;
   }
 }
 
