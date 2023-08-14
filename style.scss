@@ -218,12 +218,12 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  transition: width 1s;
+  transition-timing-function: cubic-bezier(0.3, 0.7);
 	:hover{
 		color: $white;
         background-color: $darkGray;
         padding: 7px 20px 0px 5px;
-        transition: width 1s;
-        transition-timing-function: cubic-bezier(0.3, 0.7);
 	}
 	:hover::after{
 		content: "_";
