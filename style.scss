@@ -51,7 +51,7 @@ h1 {
   }
   a:hover{
     transition: 0.5s;
-    transition-timing-function: cubic-bezier(0, 1.05, 0.05, 0.97);
+    transition-timing-function: cubic-bezier(0, 0.84, 0.19, 0.11);
     color: $white;
     background-color: $darkGray;
     padding: 4px 10px 2px 2px;
@@ -333,7 +333,7 @@ footer {
 }
 .title:hover{
   transition: 0.5s;
-  transition-timing-function: cubic-bezier(0, 1.05, 0.05, 0.97);
+  transition-timing-function: cubic-bezier(0.01,-1.51,0,1);
   color: $gray;
   background-color: $lightGray;
 }
