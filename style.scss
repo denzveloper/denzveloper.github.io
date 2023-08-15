@@ -50,8 +50,10 @@ h1 {
     color: inherit;
   }
   a:hover{
+    transition: 0.5s;
+    transition-timing-function: cubic-bezier(0, 1.05, 0.05, 0.97);
     color: $white;
-    background-color: $blue;
+    background-color: $darkGray;
     padding: 4px 10px 2px 2px;
     text-decoration: none;
   }
@@ -222,11 +224,11 @@ img {
         transition: 0.5s;
         transition-timing-function: cubic-bezier(0, 1.05, 0.05, 0.97);
         padding: 7px 20px 0px 5px;
-        color: #fff;
-        background-color: #333;
+        color: $white;
+        background-color: $darkerGray;
 	}
 	:hover::after{
-		content: " _";
+		content: "_";
         animation: bligbling 0.3s linear infinite;
 	}
 }
@@ -330,6 +332,8 @@ footer {
   background-color: $darkGray;
 }
 .title:hover{
+  transition: 0.5s;
+  transition-timing-function: cubic-bezier(0, 1.05, 0.05, 0.97);
   color: $gray;
   background-color: $lightGray;
 }
