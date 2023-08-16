@@ -12,7 +12,7 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more under">Read More</a>
     </article>
   {% endfor %}
 </div>
@@ -23,12 +23,12 @@ layout: default
       Previous
     </a>
   {% else %}
-    <span class="previous">Previous</span>
+    <span class="previous under">Previous</span>
   {% endif %}
 	&nbsp;&middot;&nbsp;
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="next under">Next</span>
   {% endif %}
 </div>

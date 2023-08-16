@@ -50,7 +50,7 @@ h1 {
     color: inherit;
   }
   a:hover{
-    transition: 0.5s;
+    transition: 0.3s;
     transition-timing-function: cubic-bezier(0, 0.84, 0.19, 0.11);
     color: $white;
     background-color: $darkGray;
@@ -93,6 +93,30 @@ a {
     color: $blue;
     text-decoration: underline $blue;
   }
+}
+
+a.under{
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}
+
+a.under:after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #0099ff;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+a.under:hover:after{
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 ul, ol {
@@ -332,7 +356,7 @@ footer {
   background-color: $darkGray;
 }
 .title:hover{
-  transition: 0.5s;
+  transition: 0.3s;
   transition-timing-function: cubic-bezier(0.01,-1.51,0,1);
   color: $gray;
   background-color: $lightGray;
