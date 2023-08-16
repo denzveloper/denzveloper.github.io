@@ -19,16 +19,16 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
+    <a href="{{ paginator.previous_page_path }}" class="previous under">
       Previous
     </a>
   {% else %}
-    <span class="previous under">Previous</span>
+    <span class="previous">Previous</span>
   {% endif %}
 	&nbsp;&middot;&nbsp;
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="{{ paginator.next_page_path }}" class="next under">Next</a>
   {% else %}
-    <span class="next under">Next</span>
+    <span class="next">Next</span>
   {% endif %}
 </div>
