@@ -47,10 +47,12 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
+    transition: 0.1s;
+    transition-timing-function: cubic-bezier(0, 0.84, 0.19, 0.11);
     color: inherit;
   }
   a:hover{
-    transition: 0.3s;
+    transition: 0.25s;
     transition-timing-function: cubic-bezier(0, 0.84, 0.19, 0.11);
     color: $white;
     background-color: $darkGray;
@@ -111,7 +113,7 @@ a.under:after{
   left: 0;
   background-color: #0099ff;
   transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
+  transition: transform 0.25s cubic-bezier(0.13, 0.98, 0.72, 0.09);
 }
 
 a.under:hover:after{
@@ -348,6 +350,8 @@ footer {
 }
 
 .title {
+  transition: 9s;
+  transition-timing-function: cubic-bezier(0, 1.5, 0.26, 0.66);
   padding-left: 3px;
   padding-top: 8px;
   padding-bottom: 4px;
