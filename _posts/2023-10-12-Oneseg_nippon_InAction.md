@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1seg/ISDB-T Japan
+title: 1seg still exists in Japan
 image: /images/onesegs.webp
 ---
 ![ISDB-T 1seg Japan]({{ site.baseurl }}/images/onesegimg.webp)
