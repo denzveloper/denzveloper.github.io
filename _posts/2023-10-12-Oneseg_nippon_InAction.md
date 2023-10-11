@@ -15,3 +15,5 @@ then him send video capituring tv digital can him received, i realized on video 
 then i explain what i found and i know about ISDB-T (digital television Japan)..
 
 Oneseg is still active!! unbeliveable! on 1seg website cant i entered is 403 error forbidden (maybe region lock?).
+
+on this article I just information about 1seg or mobile tv still exists. i hope all standard can follow Japan for avaiable Digital TV on handled/mobile device.
