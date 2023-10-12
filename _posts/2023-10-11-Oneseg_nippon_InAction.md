@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 1seg still exists in Japan
-image: /images/onesegs.webp
+image: /images/segidsb/onesegs.webp
 ---
 
-![ISDB-T 1seg Japan]({{ site.baseurl }}/images/onesegimg.webp)
+![ISDB-T 1seg Japan]({{ site.baseurl }}/images/segidsb/onesegimg.webp)
 
 Today my friend from japan ask question about "analoge TV on japan still exists?" realize TV still fungcionalized after him buy second phone from store. off course then I answered "no, maybe is that phone have digital terestial receiver", then ofc I searching to internet.
 I found japanese old phone have a receiver for ISDB-T/1seg (oneseg). then i explain him about this..
