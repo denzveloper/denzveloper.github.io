@@ -128,14 +128,14 @@ Dari gambar tersebut maka bisa kita lihat bahwa semakin besar nilai modulasinya 
 ### Saluran TV Digital wilayah JABAR-3 (Cirebon)
 Ini adalah daftar stasiun televisi yang berhasil dipantau khusus untuk daerah Cirebon.
 **Harap segera persiapkan perngkat televisi digital Anda karena Televisi Analog di wilayah 3-Jawa Barat (Kota Cirebon, Kabupaten Cirebon dan Kabupaten Kuningan) akan Segera dimatikan. Jadi bersiaplah!**
-Mulai tanggal 30 Juni 2023, beberapa stasiun televisi swasta akan mengakhiri siarannya dibeberapa kota termasuk kota-kabupaten pada Jabar-3. Agustus 2023, wilayah Jawa terlebih khususnya wilayah Jawa Barat-3 siaran analog telah dihentikan dan hanya bersiaran menggunakan Digital.
+Semua stasiun televisi swasta sudah mengakhiri siarannya pada Agustus 2023 wilayah Jawa Barat-3. Siaran analog telah dihentikan dan hanya bersiaran menggunakan sistem Digital DVB-T2.
 
 
 Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 | Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
 | --- | --- | --- | --- |
-| 538MHz/29UHF  | LPP TVRI | TVRI Nasional, **TVRI Jawa Barat**, TVRI World, TVRI Sport, Garuda TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
+| 538MHz/29UHF  | LPP TVRI | TVRI Nasional, **TVRI Jawa Barat**, TVRI World, TVRI Sport, Garuda TV, SinPo TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
 | 562MHz/32UHF  | MEDIA Group | **METRO TV**, Magna TV, BN Channel, Metro TV, RTV, NET. | [Pasawahan](https://goo.gl/maps/p5CjsUcmvjehw75x7) |
 | 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV (Radar Cirebon Televisi)*, VTV | [Padaherang](https://goo.gl/maps/SPb5DsQeSDPX2vBa8) |
 | 610MHz/38UHF  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | [Padaherang](https://goo.gl/maps/4Mp2imvMj5bVL4TG8) |
@@ -172,6 +172,7 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 3 TVRI World<sup>[[9](#no9)]</sup>
 * 4 TVRI Sport<sup>[[9](#no9)]</sup>
 * 5 Garuda TV<sup>[[9](#no9)]</sup>
+* 6 SinPo TV<sup>[[9](#no9)]</sup>
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
 * 22 Metro TV HD
@@ -284,4 +285,4 @@ Informasi Teknis dan Hukum:
 
 
 
-*^(Diperbarui 08 Agustus 2023)*
+*^(Diperbarui 14 Januari 2024)*
