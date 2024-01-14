@@ -40,3 +40,4 @@ if want to listening HF frequency using this parameter on gqrx for example. mayb
 
 In action:
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/images/astrm_dt2/video.mp4" controls></video>
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/images/astrm_dt2/video2.mp4" controls></video>
