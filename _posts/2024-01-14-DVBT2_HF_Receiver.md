@@ -28,8 +28,15 @@ then put the casing back on
 ![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/img_5.webp)
 ![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/img_4.webp)
 
-connect thin wire to other antenna for HF/SW/MW. for easily i using a crocodile clip and tin iron and solder on the other end of the cable.
+connect thin wire to other antenna for HF/SW/MW. for easily i using a crocodile clip (after tin iron and solder on the other end of the cable).
 ![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/img_3.webp)
 
 connect antenna jack for receiving a VHF/UHF
 ![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/img_2.webp)
+
+
+if want to listening HF frequency using this parameter on gqrx for example. maybe work on other software with with some adjustments
+![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/ss.webp)
+
+In action:
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/images/astrm_dt2/video.mp4" controls></video>
