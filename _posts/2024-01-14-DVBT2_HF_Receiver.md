@@ -6,7 +6,7 @@ image: /images/astrm_dt2/img_5.webp
 
 ![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/img_5.webp)
 
-I'm trying to experiment for receiving a MW/SW radio receiving with my DVB-T2 dongle with RTL2832P. but when i searching result is only for RTL2832U, then i maybe it works for RTL2832P too. then im doing slash the pcb line on pin 1 RTL2832P.
+I'm trying to experiment for receiving a MW/SW radio receiving with my DVB-T2 dongle with RTL2832P. but when i searching result is only for RTL2832U, then i maybe it works for RTL2832P too. then im doing slash the pcb line on pin 1 RTL2832P (Becareful dont cutting PCB trace!).
 ![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/img_1.webp)
 
 after that soldering that pcb line and provide a thin cable (on this i use a earphone wire) then make join for cable and pcb line like this image
