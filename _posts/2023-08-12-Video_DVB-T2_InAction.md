@@ -120,7 +120,7 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RTV--20221129211355.ts)
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/SCTV HD--20221129210639.ts)
 
 
-## SCTV|Surya Citra Televisi (ex E channel)
+## Sin Po TV (ex E channel)
 20240120125351
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/SIN PO TV-125351.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/SIN PO TV-125351.m2t)
