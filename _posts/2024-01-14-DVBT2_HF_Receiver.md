@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Modding DVB-T2 Receiver (Astrometa DVB-T2/Realtek RTL2832P)
+title: Modding RTL2832P Receiver to Receive a High Frequency (HF) Radio
 image: /images/astrm_dt2/img_5.webp
 ---
 
 ![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/img_5.webp)
 
-I'm trying to experiment for receiving a MW/SW radio receiving with my DVB-T2 dongle ([Astrometa DVB-T2 version 2018](https://linuxtv.org/wiki/index.php/Astrometa_DVB-T2)) that dongle is include a RTL2832P chip. but when i searching result is only shown tutorial for RTL2832U based chip (DVB-T model), then i thinking its maybe works for RTL2832P chip too. After that im prepare material such as iron solder, tin, cable, knife for peeling/slash the PCB trace and cable. and first is doing *slash (peel) the pcb trace on *"**pin 1**" *RTL2832P* (**Be careful dont cutting that PCB trace!**).
+I'm trying to experiment for receiving a Medium Wave (MW)/ Shortwave (SW) radio receiving with my DVB-T2 dongle ([Astrometa DVB-T2 version 2018](https://linuxtv.org/wiki/index.php/Astrometa_DVB-T2)) that dongle is include a RTL2832P chip. but when i searching result is only shown tutorial for RTL2832U based chip (DVB-T model), then i thinking its maybe works for RTL2832P chip too. After that im prepare material such as iron solder, tin, cable, knife for peeling/slash the PCB trace and cable. and first is doing *slash (peel) the pcb trace on* "**pin 1**" *RTL2832P* (**Be careful dont cutting that PCB trace!**).
 ![Modding DVB-T2]({{ site.baseurl }}/images/astrm_dt2/img_1.webp)
 
 after that soldering that pcb trace with tin and provide a thin cable (on this i use a earphone wire) then make join for cable and pcb trace like this image
