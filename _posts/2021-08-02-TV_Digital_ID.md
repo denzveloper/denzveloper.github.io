@@ -135,7 +135,7 @@ Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 | Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
 | --- | --- | --- | --- |
-| 538MHz/29UHF  | LPP TVRI | TVRI Nasional, **TVRI Jawa Barat**, TVRI World, TVRI Sport, Garuda TV, SinPo TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
+| 538MHz/29UHF  | LPP TVRI | TVRI Nasional, **TVRI Jawa Barat**, TVRI World, TVRI Sport, Garuda TV, Sin Po TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
 | 562MHz/32UHF  | MEDIA Group | **METRO TV**, Magna TV, BN Channel, Metro TV, RTV, NET. | [Pasawahan](https://goo.gl/maps/p5CjsUcmvjehw75x7) |
 | 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV (Radar Cirebon Televisi)*, VTV | [Padaherang](https://goo.gl/maps/SPb5DsQeSDPX2vBa8) |
 | 610MHz/38UHF  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | [Padaherang](https://goo.gl/maps/4Mp2imvMj5bVL4TG8) |
@@ -171,14 +171,14 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 3 TVRI World<sup>[[9](#no9)]</sup>
 * 4 TVRI Sport<sup>[[9](#no9)]</sup>
 * 5 Garuda TV<sup>[[9](#no9)]</sup>
-* 6 SinPo TV<sup>[[9](#no9)]</sup>
+* 6 Sin Po TV<sup>[[9](#no9)]</sup>
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
 * 22 Metro TV HD
 * 23 SCTV HD
 * 24 INDOSIAR HD
-* 26 ANTV HD
-* 27 TV One
+* 26 ANTV HD<sup>[[9](#no9)]</sup>
+* 27 TV One<sup>[[9](#no9)]</sup>
 * 28 RCTI
 * 29 MNCTV
 * 30 GTV
@@ -192,8 +192,8 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * [?] METRO TV<sup>[[14](#no14)]</sup>
 * [?] MAGNA TV<sup>[[14](#no14)]</sup>
 * [?] BN Channel<sup>[[14](#no14)]</sup>
-* [?] VTV<sup>[[14](#no14)]</sup>
-* [?] Radar Cirebon Televisi (RCTV)<sup>[[14](#no14)]</sup>
+* [?] VTV<sup>[[9](#no9)][[14](#no14)]</sup>
+* [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)][[14](#no14)]</sup>
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
@@ -277,7 +277,7 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no12"></a>12] </sup>Gambar tersebut merupakan gambar moduliasi yang biasanya dipakai dalam jaringan. dalam siaran TV dengan DVB-T2 akan dimiringkan atau diputar modulasinya searah jarum jam.*
 
 
-*<sup>[<a name="no13"></a>13] </sup>Seluruh siaran Analog di Jawa Barat-3 telah beralih ke siaran digital. silahkan gunakan perangkat digital Anda. Jika belum digital, silahkan lengkapi TV Anda dengan SET TOP BOX DVB-T2 untuk menikmati tayangan kesayangan Anda.
+*<sup>[<a name="no13"></a>13] </sup>Seluruh siaran Analog di Jawa Barat-3 telah beralih ke siaran digital. silahkan gunakan perangkat digital Anda. Jika belum digital, silahkan lengkapi TV Anda dengan SET TOP BOX DVB-T2 untuk menikmati tayangan kesayangan Anda.*
 
 
 *<sup>[<a name="no14"></a>14] </sup>Saat ini LCN atau Saluran Virtual pada stasiun TV ini tidak atau belum terkonfigurasi sesuai dengan data yang ada. Maka, stasiun TV tersebut akan ditempatkan secara otomatis oleh perangkat penerima pada nomor saluran virtual lebihan.*
