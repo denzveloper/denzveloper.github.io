@@ -108,7 +108,7 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTI HD--20221129211036.ts)
 
 ## RCTV|Radar Cirebon Televisi
 20240131153453
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RRCTV-153153.mp4" controls></video>
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RCTV-153153.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTV-153153.m2t)
 
 
