@@ -8,9 +8,13 @@ image: /images/infocodec.webp
 
 
 This just a video recorded some Indonesia Television (Cirebon Transmitter) Program on Digital Television DVB-T2, Preview is encoded by MPEG-4 AVC (H.264) Video codec for raw video or transport stream from DVB-T2 Device, sorry you cant view in browser but you download it (content is same with preview version). (Due Weak signal from TVRI (Television of the Republic of Indonesia) Multiplexer, I extend duration of recording for TVRI all channel and Garuda TV.)
-If you cant play ".ts" format in your devices, try install VLC Video Player.
+If you cant play ".ts" or ".m2t" format in your devices, try install VLC Video Player.
+
+".ts" is old file format recorded by using STB Xtreamer Dual. ".m2t" is new recording file format by using app kaffeine (linux).
 
 *video list is alphabeticaly sort*
+*When is recorded? You can see after the channel name (its using format DATE/Time as YYYYMMDDHHmmss)*
+
 
 ## ANTV (Viva Group)
 20230811181814
@@ -103,9 +107,9 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTI HD--20221129211036.ts)
 
 
 ## RCTV|Radar Cirebon Televisi
-20230811180302
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RCTV--20230811180302.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTV--20230811180302.ts)
+20240131153453
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RRCTV-153153.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTV-153153.m2t)
 
 
 ## RTV|Rajawali Televisi
@@ -124,7 +128,6 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/SCTV HD--20221129210639.ts)
 20240120125351
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/SIN PO TV-125351.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/SIN PO TV-125351.m2t)
-*this TS at bit different because this recorded by kaffeine (linux app), compared other with Xtreamer Dual DVB-T2 STB
 
 
 ## TRANS 7 (TRANSMEDIA GROUP)
