@@ -162,7 +162,7 @@ Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersed
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
-* BTV (?MHz/?UHF): → *Segera*<sup>[[7](https://btv.id/coverage)] (Sepertinya memakai MUX TVRI)</sup>
+* BTV (586MHz/35UHF): → *Segera*<sup>[[7](https://btv.id/coverage)]</sup>
 * VTV (586MHz/35UHF): → Sudah Tersedia di MUX ANTV/RCTV Jawa Barat-3<sup>[[8](#no8)]</sup>.
 
 
