@@ -13,6 +13,7 @@ If you cant play ".ts" or ".m2t" format in your devices, try install VLC Video P
 ".ts" is old file format recorded by using STB Xtreamer Dual. ".m2t" is new recording file format by using app kaffeine (linux).
 
 *video list is alphabeticaly sort*
+
 *When is recorded? You can see after the channel name (its using format DATE/Time as YYYYMMDDHHmmss)*
 
 
