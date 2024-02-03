@@ -23,7 +23,7 @@ If you cant play ".ts" or ".m2t" format in your devices, try install VLC Video P
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/ANTV HD--20230811181814.ts)
 
 
-## BN Channel (Media Group)
+## BN TV (Media Group)
 20221129211334
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/BNTV--20221129211334.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/BNTV--20221129211334.ts)
@@ -65,9 +65,9 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/INDOSIAR HD--20221129210619
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/iNews HD--20221129211146.ts)
 
 
-## Magna TV (Media Group)
-20221129211313
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA CHANNEL--20221129211313.mp4" controls></video>
+## Magna Channel (Media Group)
+20240203161226
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA CHANNEL-161226.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL--20221129211313.ts)
 
 
