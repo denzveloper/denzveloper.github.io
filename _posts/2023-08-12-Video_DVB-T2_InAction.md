@@ -68,7 +68,7 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/iNews HD--20221129211146.ts
 ## Magna Channel (Media Group)
 20240203161226
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA CHANNEL-161226.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL--20221129211313.ts)
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL-161226.m2t)
 
 
 ## MentariTV (EMTEK)
