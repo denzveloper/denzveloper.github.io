@@ -25,8 +25,8 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/ANTV HD--20230811181814.ts)
 
 ## BN TV (Media Group)
 20221129211334
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/BNTV--20221129211334.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/BNTV--20221129211334.ts)
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/BNTV-162455.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/BNTV-162455.m2t)
 
 
 ## CNBC ID (TRANSMEDIA GROUP)
