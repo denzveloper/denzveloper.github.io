@@ -108,12 +108,12 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MENTARITV HD--2022112921053
 
 
 ## MetroTV (Media Group)
-Time: 20221129211252
+Time: 20240225070810
 
 Resolution: 1080i HD (16:9)
 
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/METRO TV--20221129211252.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/METRO TV--20221129211252.ts)
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/METRO TV-070810-20240225.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/METRO TV-070810-20240225.m2t)
 
 
 ## MNCTV|Media Nusantara Citra Televisi (MNC Group)
@@ -149,7 +149,7 @@ Time: 20240224204424
 Resolution: 576p SD (16:9)
 
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/Nusa TV-204424-20240224.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/Nusa TV-204424-20240224.ts)
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/Nusa TV-204424-20240224.m2t)
 
 
 ## RCTI|Rajawali Citra Televisi (MNC Group)
