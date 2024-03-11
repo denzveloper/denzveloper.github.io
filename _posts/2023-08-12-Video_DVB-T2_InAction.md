@@ -144,7 +144,7 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/NET. SD--20221129211416.ts)
 
 
 ## NUSA TV
-Time: 20240224204424
+Time: 20240311214929
 
 Resolution: 1080p SD (16:9)
 
