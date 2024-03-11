@@ -146,10 +146,10 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/NET. SD--20221129211416.ts)
 ## NUSA TV
 Time: 20240224204424
 
-Resolution: 576p SD (16:9)
+Resolution: 1080p SD (16:9)
 
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/Nusa TV-204424-20240224.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/Nusa TV-204424-20240224.m2t)
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/Nusa TV-20240311_214929.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/Nusa TV-20240311_214929.m2t)
 
 
 ## RCTI|Rajawali Citra Televisi (MNC Group)
