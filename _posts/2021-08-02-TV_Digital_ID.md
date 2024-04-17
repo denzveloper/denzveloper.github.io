@@ -162,7 +162,7 @@ Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersed
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
-* BTV (586MHz/35UHF): → *Segera Pertengahan Tahun 2024*<sup>[[7](#no7)]</sup>
+* BTV (586MHz/35UHF): → *Segera Pertengahan Tahun 2024 ?*<sup>[[7](#no7)]</sup>
 
 
 Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
