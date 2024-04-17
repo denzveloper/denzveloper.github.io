@@ -135,11 +135,11 @@ Sudah Digital (6 MUX/26 Program) di wilayah JABAR-3<sup>[[4](#no4)]</sup>:
 
 | Frekuensi | Provider/Penyedia Konten | Staisun TV | Lokasi Pemancar |
 | --- | --- | --- | --- |
-| 538MHz/29UHF  | LPP TVRI | TVRI Nasional, **TVRI Jawa Barat**, TVRI World, TVRI Sport, Garuda TV, Sin Po TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
+| 538MHz/29UHF  | LPP TVRI | TVRI Nasional, **TVRI Jawa Barat**, TVRI World, TVRI Sport, Sin Po TV | [Gunung Jati](https://goo.gl/maps/3P35nTv95pJC2jEj6) |
 | 562MHz/32UHF  | MEDIA Group | **METRO TV**, Magna TV, BN Channel, Metro TV, RTV, NET. | [Pasawahan](https://goo.gl/maps/p5CjsUcmvjehw75x7) |
 | 586MHz/35UHF  | VIVA/Bakrie | **ANTV**, TV One, *RCTV (Radar Cirebon Televisi)*, VTV, Nusa TV | [Padaherang](https://goo.gl/maps/SPb5DsQeSDPX2vBa8) |
 | 610MHz/38UHF  | EMTEK/SCM | SCTV, **INDOSIAR**, Moji, Mentari TV | [Padaherang](https://goo.gl/maps/4Mp2imvMj5bVL4TG8) |
-| 634MHz/41UHF  | TRANSMEDIA | **TRANS TV**, TRANS 7, CNN ID, CNBC ID | [Pasawahan](https://goo.gl/maps/A6vVGshSAshoStbn8) |
+| 634MHz/41UHF  | TRANSMEDIA | **TRANS TV**, TRANS 7, CNN ID, CNBC ID, Garuda TV | [Pasawahan](https://goo.gl/maps/A6vVGshSAshoStbn8) |
 | 658MHz/44UHF  | MNC GROUP | MNC TV, **RCTI**, GTV, iNews | [Pasawahan](https://goo.gl/maps/CEyVowqdXa9Kip889) |
 
 
@@ -170,7 +170,6 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 2 TVRI Jawa Barat<sup>[[9](#no9)]</sup>
 * 3 TVRI World<sup>[[9](#no9)]</sup>
 * 4 TVRI Sport<sup>[[9](#no9)]</sup>
-* 5 Garuda TV<sup>[[9](#no9)]</sup>
 * 6 Sin Po TV<sup>[[9](#no9)]</sup>
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
@@ -195,6 +194,7 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * [?] VTV<sup>[[9](#no9)][[14](#no14)]</sup>
 * [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)][[14](#no14)]</sup>
 * [?] Nusa TV<sup>[[9](#no9)][[14](#no14)]</sup>
+* [?] Garuda TV<sup>[[14](#no14)]</sup>
 
 
 Lokasi Pemancar/MUX: ¹Kuningan, Pasawahan; ²Kuningan, Padaherang; ³Cirebon, Gunung Jati.
