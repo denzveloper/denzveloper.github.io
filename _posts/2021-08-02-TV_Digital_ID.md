@@ -171,26 +171,25 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 3 TVRI World<sup>[[9](#no9)]</sup>
 * 4 TVRI Sport<sup>[[9](#no9)]</sup>
 * 6 Sin Po TV<sup>[[9](#no9)]</sup>
+* 19 NET. SD
 * 20 TRANS TV HD
 * 21 TRANS 7 HD
 * 22 Metro TV HD
 * 23 SCTV HD
 * 24 INDOSIAR HD
+* 25 RTV HD
 * 26 ANTV HD<sup>[[9](#no9)]</sup>
-* 27 TV One<sup>[[9](#no9)]</sup>
-* 28 RCTI
-* 29 MNCTV
-* 30 GTV
-* 31 iNews
-* 113 CNN INDONESIA
-* 114 CNBC INDONESIA
+* 27 TV One HD<sup>[[9](#no9)]</sup>
+* 28 RCTI HD
+* 29 MNCTV HD
+* 30 GTV HD
+* 31 iNews HD
+* 40 CNN INDONESIA
+* 41 CNBC INDONESIA
+* 100 MAGNA TV
+* 101 BN Channel
 * 123 Moji
 * 124 Mentari TV
-* [?] NET.<sup>[[14](#no14)]</sup>
-* [?] RTV<sup>[[14](#no14)]</sup>
-* [?] METRO TV<sup>[[14](#no14)]</sup>
-* [?] MAGNA TV<sup>[[14](#no14)]</sup>
-* [?] BN Channel<sup>[[14](#no14)]</sup>
 * [?] VTV<sup>[[9](#no9)][[14](#no14)]</sup>
 * [?] Radar Cirebon Televisi (RCTV)<sup>[[9](#no9)][[14](#no14)]</sup>
 * [?] Nusa TV<sup>[[9](#no9)][[14](#no14)]</sup>
