@@ -157,7 +157,7 @@ Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersed
 | RCTI | 38UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 28 |
 | MNCTV | 44UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 29 |
 | iNews | 60UHF | [Sudah ASO pada 21 Juli 2023 pukul 24:00](https://www.facebook.com/photo/?fbid=10162823471689465&set=gm.1017470722605067&idorvanity=357305085288304) | 44UHF | 31 |
-| NET. | 23UHF | [Sudah ASO pada 30 Juli 2023 pukul 24:00](https://www.instagram.com/p/Cu6lZJUy95_/?hl=en) | 32UHF | \- |
+| NET. | 23UHF | [Sudah ASO pada 30 Juli 2023 pukul 24:00](https://www.instagram.com/p/Cu6lZJUy95_/?hl=en) | 32UHF | 19 |
 
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
@@ -184,8 +184,8 @@ Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/i
 * 29 MNCTV HD
 * 30 GTV HD
 * 31 iNews HD
-* 40 CNN INDONESIA
-* 41 CNBC INDONESIA
+* 40 CNN INDONESIA HD
+* 41 CNBC INDONESIA HD
 * 100 MAGNA TV
 * 101 BN Channel
 * 123 Moji
@@ -259,7 +259,7 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no6"></a>6] </sup>Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang pada wilayah JABAR-3.*
 
 
-*<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, Untuk wilayah JABAR-3 akan bersiaran melalui Multiplexer VIVA Group/ANTV.*<sup>[BTV Coverage](https://btv.id/coverage)[^wikipedia](https://id.wikipedia.org/wiki/BTV_Cirebon)</sup>
+*<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, Untuk wilayah JABAR-3 akan bersiaran melalui Multiplexer VIVA Group/ANTV.*<sup>[BTV Coverage](https://btv.id/coverage)  [^wikipedia](https://id.wikipedia.org/wiki/BTV_Cirebon)</sup>
 
 
 *<sup>[<a name="no8"></a>8] </sup>Untuk VTV kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut. Mungkin hanya kabar angin juga.*
@@ -284,4 +284,4 @@ Informasi Teknis dan Hukum:
 
 
 
-*^(Diperbarui 19 Maret 2024)*
+*^(Diperbarui 25 April 2024)*
