@@ -35,6 +35,15 @@ Resolution: 1080i HD (16:9)
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/BNTV-162455.m2t)
 
 
+## CarubanTV ex. NUSA TV
+Time: 20240527235709
+
+Resolution: 1080p HD (16:9)
+
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/CarubanTV-235709-20240527_2309.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/CarubanTV-235709-20240527_2309.m2t)
+
+
 ## CNBC ID (TRANSMEDIA GROUP)
 Time: 20221129211230
 
@@ -141,15 +150,6 @@ Resolution: 576i SD (16:9)
 
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/NET. SD--20221129211416.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/NET. SD--20221129211416.ts)
-
-
-## CarubanTV ex. NUSA TV
-Time: 20240527235709
-
-Resolution: 1080p HD (16:9)
-
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/CarubanTV-235709-20240527_2309.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/CarubanTV-235709-20240527_2309.m2t)
 
 
 ## RCTI|Rajawali Citra Televisi (MNC Group)
