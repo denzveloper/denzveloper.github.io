@@ -162,7 +162,7 @@ Sudah/Akan ASO (Analouge Switch Off) yang sebelumnya Ada analog dan sudah tersed
 
 Belum Digital, Pernah Bersiaran, atau terindikasi ada rencana hadir di JABAR-3<sup>[[5](#no5)]</sup>:
 * ~~Kompas TV (?MHz/?UHF): → *Belum terkonfirmasi*~~<sup>[[6](#no6)]</sup>
-* BTV (586MHz/35UHF): → *Segera Pertengahan Tahun 2024 ?*<sup>[[7](#no7)]</sup>
+* ~~BTV (586MHz/35UHF): → *Segera Pertengahan Tahun 2024 ?*~~<sup>[[7](#no7)]</sup>
 
 
 Daftar Saluran dan Nomor [Saluran Virtual atau LCN](https://id.wikipedia.org/w/index.php?title=Saluran_virtual) stasiun TV Digital:
@@ -259,7 +259,7 @@ Informasi Teknis dan Hukum:
 *<sup>[<a name="no6"></a>6] </sup>Untuk KompasTV sepertinya hanya kabar angin saja. Keterterikan siaran kurang pada wilayah JABAR-3.*
 
 
-*<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer, Untuk wilayah JABAR-3 akan bersiaran melalui Multiplexer VIVA Group/ANTV.*<sup>[BTV Coverage](https://btv.id/coverage)  [^wikipedia](https://id.wikipedia.org/wiki/BTV_Cirebon)</sup>
+*<sup>[<a name="no7"></a>7] </sup>Untuk BTV/BeritaSatu kabarnya akan aktif dibeberapa wilayah dan akan menjadi penyewa Multiplexer. Untuk sewa mux mana masih belum diketahui, dan sekarang data di BTV Coverage untuk wilayah JABAR-3 Menghilang dari daftar*<sup>[BTV Coverage](https://btv.id/coverage)  [^wikipedia](https://id.wikipedia.org/wiki/BTV_Cirebon)</sup>
 
 
 *<sup>[<a name="no8"></a>8] </sup>Untuk VTV kemungkinan akan aktif karena VIVA memiliki MUX-nya sendiri di JABAR-3, tapi prioritas rendah karena sebelumnya tidak ada saluran televisi tersebut. Mungkin hanya kabar angin juga.*
@@ -284,4 +284,4 @@ Informasi Teknis dan Hukum:
 
 
 
-*^(Diperbarui 25 April 2024)*
+*^(Diperbarui 04 Juni 2024)*
