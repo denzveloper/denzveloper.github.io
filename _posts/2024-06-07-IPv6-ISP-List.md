@@ -1,10 +1,10 @@
 ---
 layout: post
 title: IPv6 ISP Indonesia
-image: /images/ipv6/ipv6test.png
+image: /images/ipv6/ipterminal.png
 ---
 
-![IPterm]({{ site.baseurl }}/images/ipv6/ipterminal.png)
+![IPterm]({{ site.baseurl }}/images/ipv6/ipv6test.png)
 
 ## What is IPv6?
 IPv6 is next generation from IPv4. have more advance features and available for more host can get IP than IPv4. IPv6 have theoretically allowing 2¹²⁸ total address than 2³² with IPv4.
@@ -15,6 +15,7 @@ But please a note this IPv6 cant connected if witch one server or the clients ca
 
 
 This is list a Indonesian Cable based ISP supporting IPv6
+
 | ISP | IPv6 | Always Available | Public IP | Header IP | Performance Resolve |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Indihome | ✔️ | - | ✔️ | 2001:: | ↔️ |
@@ -27,6 +28,7 @@ This is list a Indonesian Cable based ISP supporting IPv6
 
 
 This List a Indonesian Mobile Celullar Operator Supporting IPv6
+
 | Operator | IPv6 | Always Avaiable | Public IP | Header IP | Performance |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Telkomsel  | ❌ | ❌ | ❌ | ?  | ? |
