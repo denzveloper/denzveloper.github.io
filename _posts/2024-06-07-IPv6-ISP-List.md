@@ -11,7 +11,7 @@ IPv6 is next generation from IPv4. have more advance features and available for 
 
 ## Why IPv6
 IPv6 is cheapest way for get publicity own micro-service or small project than IPv4. Because the IPv4 with public IP only can get for a subription fees with your ISP and its not cheap ( sure for me :) ) in Indonesia price is about ~ Rp 500.000,- and its just get a one dynamic IPv4 public IP and its without DDNS service Domain for get a domain with better remember your service :) .
-But please a note this IPv6 cant connected if witch one server or the clients cant get IPv6 provided by ISP. Make sure with this article you can choose ISP for client/server with booth support IPv6, or you can use Cloudflare WARP too or other VPN Service that support IPv6.
+But please a note this IPv6 cant connected if witch one server or the clients cant get IPv6 provided by ISP. Make sure with this article you can choose ISP for client/server with booth support IPv6, or for the client you can use Cloudflare WARP services too or other VPN Service that support IPv6.
 
 
 This is list a Indonesian Cable based ISP supporting IPv6
