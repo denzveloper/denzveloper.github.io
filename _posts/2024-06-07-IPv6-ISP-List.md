@@ -19,11 +19,11 @@ This is list a Indonesian Cable based ISP supporting IPv6
 | ISP | IPv6 | Always Available | Public IP | Header IP | Performance Resolve |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Indihome | ✔️ | - | ✔️ | 2001:: | ↔️ |
-| Biznet | ✔️ | ? | ✔️ | - | ✔️ |
+| Biznet | ✔️ | ✔️ | ✔️ | 2404:: | ✔️ |
 | My Republic | ? | ? | ? | ? | ? |
 | XL Satu Fiber | ? | ? | ? | ? | ? |
 | Oxygen | ? | ? | ? | ? | ? |
-| ICON NET | ? | ? | ? | ? | ? |
+| ICON-NET | ? | ? | ? | ? | ? |
 | Firstmedia | ? | ? | ? | ? | ? |
 
 
@@ -34,9 +34,11 @@ This List a Indonesian Mobile Celullar Operator Supporting IPv6
 | Telkomsel  | ❌ | ❌ | ❌ | ?  | ? |
 | ISAT/3  | ❌ | ❌ | ❌ | ?  | ? |
 | Smartfren  | ❌ | ❌ | ❌ | ?  | ? |
-| XL  | ✔️ | ✔️ | ↔️ | - | ✔️ |
+| XL  | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ |
 
 
 *Info Symbol meanings: ✔️: OK, ❌: NO, ↔️: Maybe, ?: No Data, -:No Info yet
 
-*This article is under construction, maybe can get update then soon (Lastest Update: 2024-06-07)
+*in some application maybe IPv6 not avaible because is disable on WAN Settings or APN Settings.
+
+*This article is under construction, maybe can get update then soon (Lastest Update: 2024-06-11)
