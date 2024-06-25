@@ -108,8 +108,8 @@ MAGNA CHANNEL
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL-161226.m2t)
 
 Nusantara TV
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA_NTV-20240625_174528.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA_NTV-20240625_174528.m2t)
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA_NTV-214810-20240625214810.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA_NTV-214810-20240625214810.m2t)
 
 ## MentariTV (EMTEK)
 Time: 20221129210536
