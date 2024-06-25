@@ -103,11 +103,11 @@ Time: 20240203161226 Magna Ch / 20240625214810 NTV
 
 Resolution: 1080i HD (16:9) Magna Ch / 720p(16:9) NTV
 
-MAGNA CHANNEL
+**MAGNA CHANNEL**
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA CHANNEL-161226.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL-161226.m2t)
 
-Nusantara TV
+**Nusantara TV**
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA_NTV-214810-20240625214810.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA_NTV-214810-20240625214810.m2t)
 
