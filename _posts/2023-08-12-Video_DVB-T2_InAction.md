@@ -99,7 +99,7 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/iNews HD--20221129211146.ts
 
 
 ## Magna Channel (Media Group) / NTV (Nusantara TV)
-Time: 20240203161226 /
+Time: 20240203161226 Magna Ch / 20240625174528 NTV
 
 Resolution: 1080i HD (16:9) Magna Ch / 576i (16:9) NTV
 
