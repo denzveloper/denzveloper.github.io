@@ -98,14 +98,18 @@ Resolution: 1080i HD (16:9)
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/iNews HD--20221129211146.ts)
 
 
-## Magna Channel (Media Group)
-Time: 20240203161226
+## Magna Channel (Media Group) / NTV (Nusantara TV)
+Time: 20240203161226 /
 
-Resolution: 1080i HD (16:9)
+Resolution: 1080i HD (16:9) Magna Ch / 576i (16:9) NTV
 
+MAGNA CHANNEL
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA CHANNEL-161226.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL-161226.m2t)
 
+Nusantara TV
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA_NTV-20240625_174528.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA_NTV-20240625_174528.m2t)
 
 ## MentariTV (EMTEK)
 Time: 20221129210536
