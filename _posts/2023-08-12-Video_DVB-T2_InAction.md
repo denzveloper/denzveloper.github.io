@@ -10,7 +10,7 @@ image: /images/infocodec.webp
 This just a video recorded some Indonesia Television (Cirebon Transmitter) Program on Digital Television DVB-T2, Preview is encoded by MPEG-4 AVC (H.264) Video codec for raw video or transport stream from DVB-T2 Device, sorry you cant view in browser but you download it (content is same with preview version). (Due Weak signal from TVRI (Television of the Republic of Indonesia) Multiplexer, I extend duration of recording for TVRI all channel and Garuda TV.)
 If you cant play ".ts" or ".m2t" format in your devices, try install VLC Video Player.
 
-".ts" is old file format recorded by using STB Xtreamer Dual. ".m2t" is new recording file format by using app kaffeine (linux).
+".ts" is file format recorded by using STB Xtreamer Dual and VLC. ".m2t" is new recording file format by using app kaffeine (linux).
 
 *video list is alphabeticaly sort*
 
@@ -108,8 +108,8 @@ Resolution: 1080i HD (16:9) Magna Ch / 720p(16:9) NTV
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL-161226.m2t)
 
 **Nusantara TV**
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA_NTV-214810-20240625214810.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA_NTV-214810-20240625214810.m2t)
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA_NTV-20240626190113-1080i.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA_NTV-20240626190113-1080i.ts)
 
 ## MentariTV (EMTEK)
 Time: 20221129210536
