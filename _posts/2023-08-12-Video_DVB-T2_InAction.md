@@ -98,19 +98,6 @@ Resolution: 1080i HD (16:9)
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/iNews HD--20221129211146.ts)
 
 
-## Magna Channel (Media Group) / NTV (Nusantara TV)
-Time: 20240203161226 Magna Ch / 20240625214810 NTV
-
-Resolution: 1080i HD (16:9) Magna Ch / 720p(16:9) NTV
-
-**MAGNA CHANNEL**
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA CHANNEL-161226.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL-161226.m2t)
-
-**Nusantara TV**
-<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA_NTV-20240626190113-1080i.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA_NTV-20240626190113-1080i.ts)
-
 ## MentariTV (EMTEK)
 Time: 20221129210536
 
@@ -154,6 +141,20 @@ Resolution: 576i SD (16:9)
 
 <video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/NET. SD--20221129211416.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/NET. SD--20221129211416.ts)
+
+
+## ntv (Nusantara TV) / Magna Channel (Media Group)
+Time: 20240704113757 ntv / 20240203161226 Magna Ch
+
+Resolution: 1080i(16:9) NTV / 1080i HD (16:9) Magna Ch
+
+**Nusantara TV**
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/NusantaraTV_MAGNAChannel-20240704_113757.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/NusantaraTV_MAGNAChannel-20240704_113757.m2t)
+
+**MAGNA CHANNEL**
+<video loading="lazy" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/MAGNA CHANNEL-161226.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/MAGNA CHANNEL-161226.m2t)
 
 
 ## RCTI|Rajawali Citra Televisi (MNC Group)
