@@ -7,7 +7,7 @@ image: /images/infocodec.webp
 ![DVB-T2 In Indonesiaction]({{ site.baseurl }}/images/infocodec.webp)
 
 
-This just a video recorded some Indonesia Television (Cirebon Transmitter) Program on Digital Television DVB-T2, Preview is encoded by MPEG-4 AVC (H.264) Video codec for raw video or transport stream from DVB-T2 Device, sorry you cant view in browser but you download it (content is same with preview version). (Due Weak signal from TVRI (Television of the Republic of Indonesia) Multiplexer, I extend duration of recording for TVRI all channel and Garuda TV.)
+This just a video recorded some Indonesia Television (Cirebon Transmitter) Program on Digital Television DVB-T2, Preview is encoded by MPEG-4 AVC (H.264) Video codec for raw video or transport stream from DVB-T2 Device, sorry you cant view in browser but you download it (content is same with preview version). (Due Weak signal from TVRI (Television of the Republic of Indonesia) Multiplexer, I extend duration of recording for TVRI all channel and SinpoTV.)
 If you cant play ".ts" or ".m2t" format in your devices, try install VLC Video Player.
 
 ".ts" is file format recorded by using STB Xtreamer Dual and VLC. ".m2t" is new recording file format by using app kaffeine (linux).
