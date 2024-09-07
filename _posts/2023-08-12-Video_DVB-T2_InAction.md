@@ -146,7 +146,7 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/NET. SD--20221129211416.ts)
 ## ntv (Nusantara TV) / Magna Channel (Media Group)
 Time: 20240704113757 ntv / 20240203161226 Magna Ch
 
-Resolution: 1080i(16:9) NTV / 1080i HD (16:9) Magna Ch
+Resolution: 576i(16:9) NTV / 1080i HD (16:9) Magna Ch
 
 **Nusantara TV**
 <video controls preload="none" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/NusantaraTV_MAGNAChannel-20240704_113757.mp4" controls></video>
@@ -167,7 +167,7 @@ Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTI HD--20221129211036.ts)
 
 
 ## RCTV|Radar Cirebon Televisi (w/ BTV)
-Time: 20240131153453
+Time: 20240131153453 RCTV / 20240905054300 BTV
 
 Resolution: 720p HD (16:9)
 
@@ -175,9 +175,9 @@ Resolution: 720p HD (16:9)
 <video controls preload="none" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RCTV-153153.mp4" controls></video>
 Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTV-153153.m2t)
 
-**BTV**
-<video controls preload="none" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RCTV-20240905-0543.mp4" controls></video>
-Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTV-20240905-0543.ts)
+RCTV relay **BTV**
+<video controls preload="none" width="560" height="315" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ts/convert/RCTV_BTV-20240905-0543.mp4" controls></video>
+Transport Stream: [HERE]({{ site.baseurl }}/video/ts/RCTV_BTV-20240905-0543.ts)
 
 
 ## RTV|Rajawali Televisi
