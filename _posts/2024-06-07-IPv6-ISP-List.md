@@ -18,27 +18,27 @@ This is list a Indonesian Cable based ISP supporting IPv6
 
 | ISP | IPv6 | Always Available | Public IP | Header IP | Performance Resolve |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indihome | ✔️ | - | ✔️ | 2001:: | ↔️ |
+| Indihome | ✔️ | ↔️ | ✔️ | 2001:: | ↔️ |
 | Biznet | ✔️ | ✔️ | ✔️ | 2404:: | ✔️ |
-| My Republic | ? | ? | ? | ? | ? |
-| XL Satu Fiber | ? | ? | ? | ? | ? |
-| Oxygen | ? | ? | ? | ? | ? |
-| ICON-NET | ? | ? | ? | ? | ? |
-| Firstmedia | ? | ? | ? | ? | ? |
+| My Republic | ❌ | ❌ | ❌ | ❌ | ❌ |
+| XL Satu Fiber | ❔ | ❔ | ❔ | ❔ | ❔ |
+| Oxygen | ❔ | ❔ | ❔ | ❔ | ❔ |
+| IconNET | ❔ | ❔ | ❔ | ❔ | ❔ |
+| Firstmedia | ❔ | ❔ | ❔ | ❔ | ❔ |
 
 
 This List a Indonesian Mobile Celullar Operator Supporting IPv6
 
 | Operator | IPv6 | Always Avaiable | Public IP | Header IP | Performance |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Telkomsel  | ❌ | ❌ | ❌ | ?  | ? |
-| ISAT/3  | ❌ | ❌ | ❌ | ?  | ? |
-| Smartfren  | ❌ | ❌ | ❌ | ?  | ? |
-| XL  | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ |
+| Telkomsel  | ❌ | ❌ | ❌ | ❔  | ❔ |
+| ID-SAT/3  | ❌ | ❌ | ❌ | ❔  | ❔ |
+| Smartfren  | ❌ | ❌ | ❌ | ❔  | ❔ |
+| XL/Axis  | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ |
 
 
-*Info Symbol meanings: ✔️: OK, ❌: NO, ↔️: Maybe, ?: No Data, -:No Info yet
+*Info Symbol meanings: ✔️: OK (Avaiable)/Best, ❌: NO (No Avaiable)/Poor, ↔️: Maybe/Good, ❔: No Data
 
-*in some application maybe IPv6 not avaible because is disable on WAN Settings or APN Settings.
+*in some application and cases maybe IPv6 not avaible because is disable/turn off on WAN Settings or APN Settings.
 
-*This article is under construction, maybe can get update then soon (Lastest Update: 2024-06-11)
+*This article is under construction, maybe can get update then soon (Lastest Update: 2024-09-18)
