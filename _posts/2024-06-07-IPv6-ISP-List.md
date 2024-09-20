@@ -37,7 +37,7 @@ This List a Indonesian Mobile Celullar Operator Supporting IPv6
 | XL/Axis  | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ |
 
 
-*Info Symbol meanings: ✔️: OK (Avaiable)/Best, ❌: NO (No Avaiable)/Poor, ↔️: Maybe/Good, ❔: No Data
+*Info Symbol meanings: ✔️: OK (Avaiable)/Best, ❌: NO (No Avaiable)/Bad, ↔️: Maybe/Good, ❔: No Data
 
 *in some application and cases maybe IPv6 not avaible because is disable/turn off on WAN Settings or APN Settings.
 
