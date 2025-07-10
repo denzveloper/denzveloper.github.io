@@ -16,30 +16,35 @@ But please a note this IPv6 cant connected if witch one server or the clients ca
 
 This is list a Indonesian Cable based ISP supporting IPv6
 
-| ISP | IPv6 | Always Available | Public IP | Header IP | Performance Resolve |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Indihome | ✔️ | ↔️ | ✔️ | 2001:: | ↔️ |
-| Biznet | ✔️ | ✔️ | ✔️ | 2404:: | ✔️ |
-| My Republic | ❌ | ❌ | ❌ | ❌ | ❌ |
-| XL Satu Fiber | ❔ | ❔ | ❔ | ❔ | ❔ |
-| Oxygen | ❔ | ❔ | ❔ | ❔ | ❔ |
-| IconNET | ❔ | ❔ | ❔ | ❔ | ❔ |
-| Firstmedia | ❔ | ❔ | ❔ | ❔ | ❔ |
-| CBN | ✔️ | ✔️ | ✔️ | 2405:: | ↔️ |
+| ISP | IPv6 | Always Available | Public IP | Header IP | Performance Resolve | Enable WAN Default |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Indihome | ✔️ | ↔️ | ✔️ | 2001:: | ↔️ | ↔️ |
+| Biznet | ✔️ | ✔️ | ✔️ | 2404:: | ✔️ | ↔️ |
+| My Republic | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| XL Satu Fiber | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ | ❌ |
+| Oxygen | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ |
+| IconNET | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ |
+| Firstmedia | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ |
+| CBN | ✔️ | ✔️ | ↔️ | 2405:: | ✔️ | ✔️ |
 
 
 This List a Indonesian Mobile Celullar Operator Supporting IPv6
 
-| Operator | IPv6 | Always Avaiable | Public IP | Header IP | Performance |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Telkomsel  | ❌ | ❌ | ❌ | ❔  | ❔ |
-| ID-SAT/3  | ❌ | ❌ | ❌ | ❔  | ❔ |
-| Smartfren  | ❌ | ❌ | ❌ | ❔  | ❔ |
-| XL/Axis  | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ |
+| Operator | IPv6 | Always Avaiable | Public IP | Header IP | Performance Resolve | Enable APN Default |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Telkomsel/Byu  | ✔️ | ↔️ | ❔ | ❔  | ❔ | ❌ |
+| ID-SAT/3  | ❌ | ❌ | ❌ | ❔  | ❔ | ❌ |
+| Smartfren  | ❌ | ❌ | ❌ | ❔  | ❔ | ❌ |
+| XL/Axis  | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ | ✔️ |
 
+
+
+*Only On CBN, when installation Setting default is IPv4/IPv6. Others sometime only set IPv4 when installation
+
+*ByU Mobile Celullar has no avaiable IPv6 Services
 
 *Info Symbol meanings: ✔️: OK (Avaiable)/Best, ❌: NO (No Avaiable)/Bad, ↔️: Maybe/Good, ❔: No Data
 
 *in some application and cases maybe IPv6 not avaible because is disable/turn off on WAN Settings or APN Settings.
 
-*This article is under construction, maybe can get update then soon (Lastest Update: 2025-05-12)
+*This article is under construction, maybe can get update then soon (Lastest Update: 2025-07-10)
