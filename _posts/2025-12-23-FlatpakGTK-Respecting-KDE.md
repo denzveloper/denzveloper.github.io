@@ -30,9 +30,9 @@ this make integration have better experience with non-flatpak but you can skip t
 # pacman -S qt6ct
 ```
 
-2. Set environtment to qt6ct:
-![Override]({{ site.baseurl }}/images/getek/env.webp)
+2. Set environtment to qt6ct
 set the `QT_QPA_PLATFORMTHEME` on file `/etc/environtment`:
+![Override]({{ site.baseurl }}/images/getek/env.webp)
 ```
 QT_QPA_PLATFORMTHEME=qt6ct
 ```
