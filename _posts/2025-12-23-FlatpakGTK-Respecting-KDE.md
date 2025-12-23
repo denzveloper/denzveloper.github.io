@@ -38,7 +38,7 @@ QT_QPA_PLATFORMTHEME=qt6ct
 ```
 
 3. setup the qt6ct
-open the qt6ct by on meta/super menu or terminal, type: `qt6ct` to run
+open the qt6ct by on meta/super menu or terminal, type: `qt6ct` to run.
 settings on qt6ct like this or may you can costumize by yourself its ok!
 ![settings up!]({{ site.baseurl }}/images/getek/qt6ctst.webp)
 
