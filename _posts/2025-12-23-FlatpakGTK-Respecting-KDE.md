@@ -5,6 +5,8 @@ image: /images/getek/getekconek.webp
 ---
 
 ![GTK Theme Breeze]({{ site.baseurl }}/images/getek/getekconek.webp)
+
+
 There is some issue with Breeze Dark and flatpak+GTK application, then i found the solution for it
 there is the i config for that respecting breeze dark for the GTK3/GTK4, and other version GTK as possible (especially respecting the window control on left, offcourse for me 😁).
 ## Install Breeze dark
