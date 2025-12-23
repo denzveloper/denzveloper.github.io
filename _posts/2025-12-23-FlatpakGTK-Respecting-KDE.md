@@ -32,10 +32,15 @@ this make integration have better experience with non-flatpak but you can skip t
 
 2. Set environtment to qt6ct
 set the `QT_QPA_PLATFORMTHEME` on file `/etc/environtment`:
-![Override]({{ site.baseurl }}/images/getek/env.webp)
+![set environtment]({{ site.baseurl }}/images/getek/env.webp)
 ```
 QT_QPA_PLATFORMTHEME=qt6ct
 ```
+
+3. setup the qt6ct
+open the qt6ct by on meta/super menu or terminal, type: `qt6ct` to run
+settings on qt6ct like this or may you can costumize by yourself its ok!
+![settings up!]({{ site.baseurl }}/images/getek/qt6ctst.webp)
 
 ## Results
 There is the results for what i mplementation, some app its still have a libadwaita, but some gtk3 had theme set for breeze and/or dark mode respect (than before had a light theme adwaita)
