@@ -34,7 +34,7 @@ This List a Indonesian Mobile Celullar Operator Supporting IPv6
 | Operator | IPv6 | Always Avaiable | Public IP | Header IP | Performance Resolve | Enable APN Default |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Telkomsel/Byu  | ✔️ | ↔️ | ❔ | ❔  | ❔ | ❌ |
-| ID-SAT/3  | ❌ | ❌ | ❌ | ❔  | ❔ | ❌ |
+| im3/3  | ❌ | ❌ | ❌ | ❔  | ❔ | ❌ |
 | Smartfren  | ❌ | ❌ | ❌ | ❔  | ❔ | ❌ |
 | XL/Axis  | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ | ✔️ |
 
