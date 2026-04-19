@@ -26,6 +26,7 @@ This is list a Indonesian Cable based ISP supporting IPv6
 | IconNET | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ |
 | Firstmedia | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ |
 | CBN | ✔️ | ✔️ | ↔️ | 2405:: | ✔️ | ✔️ |
+| Starlite/IRA | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 
 This List a Indonesian Mobile Celullar Operator Supporting IPv6
