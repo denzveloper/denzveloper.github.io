@@ -12,7 +12,7 @@ IPv6 is next generation from IPv4. have more advance features and available for 
 ## Why IPv6
 IPv6 is cheapest way for get publicity own micro-service or small project than IPv4. Because the IPv4 with public IP only can get for a subription fees with your ISP and its not cheap ( sure for me :) ) in Indonesia price is about ~ Rp 500.000,- (Gamers packages) and its just get a one dynamic IPv4 public IP and its without DDNS service Domain for get a domain with better remember your service :) .
 But please a note this IPv6 cant connected if witch one server or the clients cant get IPv6 provided by ISP. Make sure with this article you can choose ISP for client/server with booth support IPv6, or for the client you can use Cloudflare WARP services too or other VPN Service that support IPv6.
-*Updated at 20250512 myRepublic has addons IPv4 Public Dynamic more priceless (about Rp 30.000,-/month)
+*Updated at 20250512 myRepublic has addons IPv4 Public Dynamic more priceless (about Rp 30.000,-/month!)
 
 This is list a Indonesian Cable based ISP supporting IPv6
 
@@ -20,7 +20,7 @@ This is list a Indonesian Cable based ISP supporting IPv6
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Indihome | ✔️ | ↔️ | ✔️ | 2001:: | ↔️ | ↔️ |
 | Biznet | ✔️ | ✔️ | ✔️ | 2404:: | ✔️ | ↔️ |
-| My Republic | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| My Republic | ✔️ | ↔️ | ✔️ | 2402:: | ❔ | ❔ |
 | XL Satu Fiber | ✔️ | ✔️ | ✔️ | 2400:: | ✔️ | ❌ |
 | Oxygen | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ |
 | IconNET | ❔ | ❔ | ❔ | ❔ | ❔ | ❔ |
@@ -48,4 +48,6 @@ This List a Indonesian Mobile Celullar Operator Supporting IPv6
 
 *in some application and cases maybe IPv6 not avaible because is disable/turn off on WAN Settings or APN Settings.
 
-*This article is under construction, maybe can get update then soon (Lastest Update: 2025-07-10)
+*Thanks to "Ilham Azhar Al Ghifary" for My Republic reports!
+
+*This article is under construction, maybe can get update then soon (Lastest Update: 2026-04-20)
