@@ -6,7 +6,7 @@ image: /images/dendy.jpg
 ---
 
 ![DzEN/DzEN]({{ site.baseurl }}/images/dendy.jpg)
-Just Student to learn something.
+Just ordinary person learn something.
 
 
 ### DENZVELOPER dan DzEN/DzEN
@@ -27,7 +27,7 @@ Sex: MALE
 
 Country: Indonesia
 
-WORK: Fulltime → IT Support
+WORK: IT Support
 
 LANG: Bahasa Indonesia, English
 
@@ -42,8 +42,10 @@ Quotes: "[Clouds over the Moon, and Wind over the Flowers](https://en.touhouwiki
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
 ![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
 
-### Log Github
+
+### Github Repository Logs
 WEB: <https://github.com/denzveloper/denzveloper.github.io/commits/master>
+
 Gallery: <https://github.com/denzveloper/gallery/commits/master>
 
 ### Contact me
