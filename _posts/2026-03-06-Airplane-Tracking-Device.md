@@ -4,7 +4,7 @@ title: Aircraft Tracking ADS-B Device
 image: /images/ADS-B/piaware1.webp
 ---
 
-<video width="560" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ADSB/adsb.mp4" controls></video>
+<video allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ADSB/adsb.mp4" controls></video>
 
 
 
