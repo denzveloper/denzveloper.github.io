@@ -4,7 +4,7 @@ title: Aircraft Tracking ADS-B Device
 image: /images/ADS-B/piaware1.webp
 ---
 
-<video allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ADSB/adsb.mp4" controls></video>
+<video loop allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/ADSB/adsb.mp4" controls></video>
 
 
 
@@ -12,17 +12,19 @@ Do you want to tracking about airplane? but hard to claim a free ADS-B Pi-like d
 
 You just buy a RTL-SDR based device like this:
 ![Ini Devicenya coy]({{ site.baseurl }}/images/astrm_dt2/img_4.webp)
-i not recomended with chip base on IC series "Realtek Semiconductor Corp. RTL2838 DVB-T", thats have high sensitivy on HF 17MHz up to about VHF 200MHz, but for long usage isnt reliable and for UHF Frequency 400 or up that have bad receiving, then on 1090MHz cant easy to hear that.
+i not recomended with chip base on IC series "Realtek Semiconductor Corp. RTL2838 DVB-T" like from "EzCap DVB T Stick". okay thats have high sensitivy/gain receiver from HF 17MHz up to about VHF 180MHz, but for long usage isnt reliable and for UHF Frequency 400 or up that have bad receiving, that cause on ADSB 1090MHz cant easy to hear that, whatever antenna or equipment.
 
 
-for the antenna if you lazy like me.. :D you can use UHF TV antenna or you just buy an Wifi/Mobile Cellular antena for better receive (Cellular antena is about 900/800-1700/1800MHz, that beetween from ADSB Tracker Frequency).
+And for the antenna if you lazy like me.. :D you can use UHF TV antenna or you just buy an Wifi/Mobile Cellular antena for better receive (Cellular antena is about 900/800-1700/1800MHz, that frequency Cellular is near from ADSB Tracker Frequency).
 
 for installation i used docker-compose, here is configuration i was use:
 *this setup might will you create at first directory "/docker/dump1090/" and "/docker/flightradar/"*
+*for core only you can just build service dump1090, if you copy all this compose you can send report to all service tracking sites avaiable below(require account for stats/logging)*
 
 
 **Docker Compose**
 ```
+#there is if you want for core service only
 services:
   dump1090:
     build: ./dump1090
@@ -48,6 +50,7 @@ services:
       - '/docker/dump1090/supervisord.conf:/etc/supervisor/conf.d/supervisord.conf:ro'
     #environment:
     #  RTL_SERIAL: 00000001
+##this end of core service
 
   #Feeder Service
   fr24feed:
