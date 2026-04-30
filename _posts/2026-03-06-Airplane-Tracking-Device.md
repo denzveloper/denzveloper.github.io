@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aircraft Tracking ADS-B Device
+title: Aircraft Tracking with cheap RTL-SDR
 image: /images/ADS-B/piaware1.webp
 ---
 
@@ -8,14 +8,14 @@ image: /images/ADS-B/piaware1.webp
 
 
 
-Do you want to tracking about airplane? but hard to claim a free ADS-B Pi-like device? may you can build your tracking device self!
+Do you want to tracking about airplane? but hard to claim a free ADS-B Pi-like device? may you want to build your tracking device self! just for chap RTL-SDR Device!
 
-You just buy a RTL-SDR based device like this:
+You just buy a RTL-SDR based device like this (this is the cheapest once and works well with ADSB Frequency for tracking Airplane):
 ![Ini Devicenya coy]({{ site.baseurl }}/images/astrm_dt2/img_4.webp)
-i not recomended with chip base on IC series "Realtek Semiconductor Corp. RTL2838 DVB-T" like from "EzCap DVB T Stick". okay thats have high sensitivy/gain receiver from HF 17MHz up to about VHF 180MHz, but for long usage isnt reliable and for UHF Frequency 400 or up that have bad receiving, that cause on ADSB 1090MHz cant easy to hear that, whatever antenna or equipment.
+I not recomended RTL-SDR device with chip base on series "Realtek Semiconductor Corp. RTL2838 DVB-T" like device from "EzCap DVB T Stick". okay what pro with that device? the RTL2838 DVB-T base chip/IC is have high sensitivy/gain receiver from HF 17MHz up to about VHF 180MHz, but the cons of that if you want to for long usage isnt reliable (Frequency dont tune correctly) and for UHF Frequency 400 or up that have bad receiving, that can cause on reciving a ADSB 1090MHz cant easy to listen that, whatever antenna or equipment you have(i had tested on it, and i just use monitor for Radio SW Boardcast, Radio FM Boardcast, Ametur Radio VHF and VHF-Air traffic/ACARS).
 
 
-And for the antenna if you lazy like me.. :D you can use UHF TV antenna or you just buy an Wifi/Mobile Cellular antena for better receive (Cellular antena is about 900/800-1700/1800MHz, that frequency Cellular is near from ADSB Tracker Frequency).
+And for the antenna sector, if you lazy like me.. :D you can use UHF TV antenna or you just buy an Wifi/Mobile Cellular antena for better receive (Cellular antena is about 900/800-1700/1800MHz, that frequency Cellular is near from ADSB Tracker Frequency).
 
 for installation i used docker-compose, here is configuration i was use:
 *this setup might will you create at first directory "/docker/dump1090/" and "/docker/flightradar/"*
