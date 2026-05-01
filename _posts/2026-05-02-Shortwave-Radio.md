@@ -29,4 +29,6 @@ There is Reception from Cirebon-Indonesia with RTL-SDR based device (Astrometa) 
 
 <video loop allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/Shortwave/voi.mp4" controls></video>
 
+
+
 updated: 2026-05-02
