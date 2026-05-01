@@ -28,3 +28,5 @@ There is Reception from Cirebon-Indonesia with RTL-SDR based device (Astrometa) 
 There is Reception from Cirebon-Indonesia with RTL-SDR based device (Astrometa) of Voice of Indonesia 4.755MHz (Spanish) at 2026-05-01 18:25UTC.
 
 <video loop allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/Shortwave/voi.mp4" controls></video>
+
+updated: 2026-05-02
