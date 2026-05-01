@@ -35,7 +35,7 @@ But..!! of course the "Features" isnt cheap! You must buy license for it about U
 
 you can try it download from official website just type "Brave Origin" from your search engine.. :3 (No, i dont sponsorship at all, just go to the website)
 
-If you have buy license, The regular Brave version will have an toogle to disabled features that Brave Origin had disabled as default (they said).
+If you have buy license, The regular Brave version will have a toogle to disabled features that Brave Origin had disabled as default (they said).
 
 
 for YOU! Yeah YOU! **arch-based user** just type: ```yay -S brave-origin-beta-bin```
