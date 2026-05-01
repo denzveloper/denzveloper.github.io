@@ -4,6 +4,7 @@ title: NHK World Japan Shortwave Receive
 image: /images/ADS-B/piaware1.webp
 ---
 
+
 <video loop allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/radio/nhk.mp4" controls></video>
 
 ## Reception NHK World Japan
