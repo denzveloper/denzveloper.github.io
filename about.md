@@ -52,4 +52,8 @@ Gallery: <https://github.com/denzveloper/gallery/commits/master>
 [dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com)
 
 
+*The content is post on UTC+7
+
+
+
 🍱 🛌🏻 🖥️ 🎬 🎧 🎤 🚲 🌏 🔁
