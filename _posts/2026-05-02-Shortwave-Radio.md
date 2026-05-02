@@ -32,4 +32,19 @@ There is Reception from Cirebon-Indonesia with RTL-SDR based device (Astrometa) 
 
 
 
+## Reception RTM | Sabah FM 
+There is Reception from Cirebon-Indonesia with RTL-SDR based device (Astrometa) of Sabah FM 11.885MHz (Melayu) at 2026-05-02 08:40UTC.
+
+<video loop allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/shortwave/rtms.mp4" controls></video>
+
+
+
+## Reception RTM | Nasional FM
+There is Reception from Cirebon-Indonesia with RTL-SDR based device (Astrometa) of Nasional FM 15.295MHz (Melayu) at 2026-05-02 08:44UTC.
+
+<video loop allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="{{ site.baseurl }}/video/shortwave/rtmn.mp4" controls></video>
+
+
+
+
 updated: 2026-05-02
