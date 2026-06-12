@@ -19,10 +19,10 @@ avatar: https://denzveloper.github.io/images/Dzenlogov2_compress.png
 footer-links:
   dribbble:
   email: dandyoctavian@gmail.com
-  facebook: dendy.octavian10
+  facebook:
   flickr:
   github: denzveloper
-  instagram: init.dzen
+  instagram:
   linkedin: dendy-octavian-8564281b7
   pinterest:
   rss: enable
@@ -31,6 +31,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   maps: dzen2x.freeddns.org:8888
+  mirror: dzen2x.freeddns.org:8080
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
