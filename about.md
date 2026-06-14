@@ -35,7 +35,8 @@ Quotes: "[Clouds over the Moon, and Wind over the Flowers](https://en.touhouwiki
 
 
 ### Workstation
-1. HP 14-r110TU: +RAM: 10GB :)
+1. HP 14-r110TU: +RAM: 16GB :)
+2. Lenovo ThinkPad T495 +RAM 24GB :D
 
 
 ### Github Stats
@@ -48,11 +49,20 @@ WEB: <https://github.com/denzveloper/denzveloper.github.io/commits/master>
 
 Gallery: <https://github.com/denzveloper/gallery/commits/master>
 
+
+### Others Links
+{% if site.footer-links.maps %}<a href="https://{{ site.footer-links.maps }}"><i class="svg-icon maps"></i>&nbsp;Flight Tracking</a>{% endif %}
+
+{% if site.footer-links.radiosdr %}<a href="https://{{ site.footer-links.radiosdr }}"><i class="svg-icon radiosdr"></i>&nbsp;SDR Radio</a>{% endif %}
+
+{% if site.footer-links.mirror %}<a href="https://{{ site.footer-links.mirror }}"><i class="svg-icon mirror"></i>&nbsp;Mirror this site (IPv6)</a>{% endif %}
+
+
 ### Contact me
 [dandyoctavian@gmail.com](mailto:dandyoctavian@gmail.com)
 
 
-*The content is post on UTC+7
+*The content is post on UTC+7 Time
 
 
 
