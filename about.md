@@ -51,7 +51,7 @@ Gallery: <https://github.com/denzveloper/gallery/commits/master>
 
 
 ### Others Links
-{% if site.footer-links.maps %}<a href="https://{{ site.footer-links.maps }}"><i class="svg-icon maps"></i>&nbsp;Flight Tracking</a>{% endif %}
+{% if site.footer-links.maps %}<a href="https://{{ site.footer-links.maps }}"><i class="svg-icon maps"></i>&nbsp;Flight Tracking (IPv6)</a>{% endif %}
 
 {% if site.footer-links.radiosdr %}<a href="https://{{ site.footer-links.radiosdr }}"><i class="svg-icon radiosdr"></i>&nbsp;SDR Radio</a>{% endif %}
 
