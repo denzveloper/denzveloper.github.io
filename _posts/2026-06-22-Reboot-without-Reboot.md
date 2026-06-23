@@ -40,4 +40,5 @@ finish it with:
 - `# systemctl kexec` → **Recomended**: let systemd handle all process unmount-reboot system
 
 5. Done!
+
 Wait a bit until reload with new system
