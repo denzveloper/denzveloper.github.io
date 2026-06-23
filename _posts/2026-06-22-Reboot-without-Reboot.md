@@ -25,7 +25,7 @@ run command: `$ sudo su` or `$ su`, if already on root skip this
 ![Ribut mulu]({{ site.baseurl }}/images/kexec/kexec_1.webp)
 run command:
 ```
-# kexec -l /boot/vmlinuz-linux-<KERNEL_TARGET> \
+# kexec -l /boot/vmlinuz-<KERNEL_TARGET> \
                           --initrd=/boot/<UCODE_YOUR_CPU>.img \
                           --initrd=/boot/<KERNEL_TARGET>.img \
                           --append="root=UUID=<PLEASE_INSERT_YOUR_UUID_ROOT_DISK> rw reset_devices loglevel=3
