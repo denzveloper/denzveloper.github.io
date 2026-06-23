@@ -9,7 +9,7 @@ image: /images/kexec/main.webp
 Needs reboot PC for get new features or needed to load new kernel? but had trouble on it? example for me had error battery, cause when reboot had confirm physicaly (damn you HP 😡) to the laptop when remote. you can use features call kexec.
 
 
-this kexec program design to load another kernel from the currently executing Linux kernel without cold boot. this tools very useful for you who needed quickly restart without going through the BIOS process (but with this process may cause minor problem, likely me had rtl-sdr usb if they fail can be recovery with this process).
+this kexec program design to load another kernel from the currently executing Linux kernel without cold boot. this tools very useful for you who needed quickly restart without going through the BIOS process (but with this process may cause minor problem, likely me had rtl-sdr usb if they fail can be recovery with this process). and sometime you had get a kernel panic error.
 
 
 for arch-linux base:
@@ -39,3 +39,5 @@ finish it with:
 - `# kexec -e` → **Not recomended**: cause the command will force unmount filesystem (that may cause un-clean state)
 - `# systemctl kexec` → **Recomended**: let systemd handle all process unmount-reboot system
 
+5. Done!
+Wait a bit until reload with new system
