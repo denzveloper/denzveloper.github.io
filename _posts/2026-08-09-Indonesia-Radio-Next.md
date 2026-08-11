@@ -4,7 +4,7 @@ title: Indonesia Next-Gen Radio
 image: /images/_007/radio.webp
 ---
 
-![Ribut mulu]({{ site.baseurl }}/images/_007/radio.webp)
+![RadioNextGEN]({{ site.baseurl }}/images/_007/radio.webp)
 
 I heared about future of Radio in Indonesia especially RRI - Radio Republik Indonesia (Nationaly Boardcast Radio own by goverment) had choose about new digital standard and have plan to swithoff theirs analog in the future swith to DRM (Digital Radio Mondaile) by this article: (https://www.audioblog.iis.fraunhofer.com/rri-digital-radio-drm-fm), (https://www.drm.org/drm-concludes-general-assembly/) and (https://radioinfo.asia/news/indonesia-and-papua-new-guinea-advance-cross-border-frequency-coordination/). throwback before this the RRI had some test on other standard too such as DAB/DAB+ known as Eroupean standard for Digital Radio and Radio/Audio over DVB-T (had trials on TVRI Jakarta). i dont know what being switch off, the FM Frequency or the MW/AM Frequency or SW Frequency (that boarcast by VOI-Voice Of Indonesia)
 
