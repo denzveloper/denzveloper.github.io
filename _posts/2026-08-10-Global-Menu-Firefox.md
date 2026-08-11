@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Global Menu Firefox
-image: /images/_007/main.webp
+image: /images/202607/main.webp
 ---
 
-![Fire Fox Global Menu]({{ site.baseurl }}/images/_007/main.webp)
+![Fire Fox Global Menu]({{ site.baseurl }}/images/202607/main.webp)
 
 New Firefox now can had a Global menu natively (rolled out in version 138, stable on 139), no needed patch or something
 just enable it on `about:config`:
