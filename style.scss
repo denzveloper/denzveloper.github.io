@@ -47,17 +47,21 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    transition: 0.1s;
-    transition-timing-function: cubic-bezier(0, 0.84, 0.19, 0.11);
+    background: linear-gradient(to left, white 50%, black 50%);
+    background-size: 200% 100%;
+    transition: all 0.1s cubic-bezier(0.13, 0.98, 0.72, 0.09);
     color: inherit;
+    padding: 5px 16px 0px 2px;
+    background-position:right;
   }
   a:hover{
-    transition: 0.25s;
-    transition-timing-function: cubic-bezier(0, 0.84, 0.19, 0.11);
-    color: $white;
-    background-color: $darkGray;
-    padding: 4px 10px 2px 2px;
+    color: #eee;
+    background: linear-gradient(to right, black 50%, white 50%);
+    background-size: 200% 100%;
+    background-position:left;
+    padding: 10px 16px 2px 2px;
     text-decoration: none;
+    transition:all 0.3s cubic-bezier(0.13, 0.98, 0.72, 0.09);
   }
 }
 
@@ -262,6 +266,7 @@ video {
 	}
 	:hover::after{
 		content: "_";
+        font-weight: bold;
         animation: bligbling 0.3s linear infinite;
 	}
 }

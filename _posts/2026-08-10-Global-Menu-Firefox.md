@@ -14,3 +14,5 @@ turn on the:
 
 then restart browser, done!
 You must have a plugins/widget, like on KDE Plasma just add Global menu widget.
+
+*Notes: **some spinoff firefox based like waterfox cant show that Globalmenu**
