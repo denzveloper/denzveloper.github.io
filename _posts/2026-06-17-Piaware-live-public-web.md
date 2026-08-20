@@ -15,14 +15,17 @@ for currently conditions hardware is still using an cheap RTL-SDR [from this pro
 <i class="svg-icon maps"></i>
 
 Availability Publicly for the project is on this list (Currently can be reach by IPv6 only! IPv4 unavailable! Please contacts your ISP for availability):
-1. [PiAware SkyAware Web](https://dzen2x.freeddns.org:8888/)
-2. [dump1090 (RAW Format)](dzen2x.freeddns.org:30002)
-3. [dump1090 (BaseStation Format)](dzen2x.freeddns.org:30003)
-4. [dump1090 (Beast Format)](dzen2x.freeddns.org:30005)
+1. [PiAware SkyAware Web](https://example.com) (due had higest request and make server locked up by ISP i disable it)
+2. [Mirror Airnavradar](https://www.airnavradar.com/stations/EXTRPI701672)
+3. [dump1090 (RAW Format)](dzen2x.freeddns.org:30002)
+4. [dump1090 (BaseStation Format)](dzen2x.freeddns.org:30003)
+5. [dump1090 (Beast Format)](dzen2x.freeddns.org:30005)
+6. [Pfclient echo](dzen2x.freeddns.org:30054)
 
 Others port is open for frontend, but i dont recomended. cause that currenly on trials (without https/secure too) device may unstable and may be sometime cant be reach, for better use above ports/address.
 
 
 ## Others
-futher more will be update
-*Updated: 2026-06-22*
+- futher more will be update (2026-06-22)
+- disable PiAware SkyAware Web selfhost
+*Updated: 2026-08-26*
